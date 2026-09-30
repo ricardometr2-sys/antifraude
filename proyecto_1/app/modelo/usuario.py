@@ -4,7 +4,7 @@ class Usuario:
         self.__nombre=nombre
         self.__fecha_lanzamiento=fecha_nacimiento
         self.__codigo_postal=codigo_postal
-        self.__correo_electronico=correo
+        self.__correo_electronico=str(correo)
         self.__contraseña=contraseña
 
     @property
@@ -27,6 +27,7 @@ class Usuario:
         datos={
             "ID": self.__id_usuario,
             "Nombre": self.__nombre,
+            "Correo electronico": self.__correo_electronico,
             "Fecha de nacimiento": self.__fecha_lanzamiento,
             "Codigo postal": self.__codigo_postal,
         }

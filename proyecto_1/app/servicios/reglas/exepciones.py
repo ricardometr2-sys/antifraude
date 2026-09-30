@@ -1,3 +1,0 @@
-class LimteRetiroDiario(Exception):
-    pass
-
