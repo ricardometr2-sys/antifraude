@@ -1,8 +1,9 @@
 from datetime import datetime 
 
 class Transacciones:
-    def __init__(self, id_transaccion, cuenta, tipo, monto=0):
+    def __init__(self, id_transaccion, usuario, cuenta, tipo, monto):
         self._id_transaccion=id_transaccion
+        self._usuario=usuario
         self.tipo=tipo
         self.cuenta=cuenta
         self.monto=monto

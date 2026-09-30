@@ -5,7 +5,6 @@ class Cuenta_Debito(ABC):
     def __init__(self, num_tarjeta, titular):
         self.__num_tarjeta=num_tarjeta
         self.titular=titular
-        self._saldo = 0
         
 
     @abstractmethod
@@ -29,12 +28,12 @@ class Cuenta_Normal(Cuenta_Debito):
         return self.__saldo
 
     def retirar(self, retiro):
-        self._saldo-=retiro
-        return True
+        self.__saldo-=retiro
+        return
 
     def depositar(self, deposito):
-        self._saldo+=deposito
-        return True
+        self.__saldo+=deposito
+        return
 
     @property
     def nip(self):
@@ -46,10 +45,10 @@ class Cuenta_Ahorro(Cuenta_Debito):
 
     def retirar(self, retiro):
         self._saldo-=retiro
-        return True
+        return
 
     def depositar(self, deposito):
         self._saldo+=deposito
-        return True
+        return
 
 

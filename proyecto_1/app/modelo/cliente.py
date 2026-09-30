@@ -12,8 +12,8 @@ class Cliente(Usuario):
     def crear_cuenta_debito(self, cuenta:object):
         self.__cuenta_debito=cuenta
 
-    def crear_cuenta_credito(self, cuenta:object):
+    def crear_cuenta_debito(self, cuenta:object):
         self.__cuenta_credito=cuenta
 
-    def crear_cuenta_ahorro(self, cuenta:object):
+    def crear_cuenta_debito(self, cuenta:object):
         self.__cuenta_ahorro=cuenta

@@ -14,8 +14,6 @@ class Servicio_Cliente:
 
     def entrar_cuenta_debito(self):
         return self.cliente.__cuenta_credito
-
-print("jf dk")
     
 
     
