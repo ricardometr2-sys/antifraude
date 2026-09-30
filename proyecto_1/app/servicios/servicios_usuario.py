@@ -1,6 +1,19 @@
-class Servicios_Usuarios:
-    def __init__(self, repositorio_clientes):
-        self.repositorio_clientes=repositorio_clientes
+from servicios.reglas import reglas
+from modelo.cliente import Cliente
+from modelo.administrador import Administrador
+from repositorios.repositorio_usuarios import Repositorio_Usirios
 
-    def Registrarse(self,id_usuario, nombre, fecha_nacimiento, edad, codigo_postal, numero_telefono):
-        pass
+#Servicios crelacionados con el cliente, registro, inicio de sesion, editar cuenta, etc.
+class Servicios_Banco:
+    def __init__(self, repositorio_usuarios):
+        self.repositorio_usarios=repositorio_usuarios
+
+    def registrar_cliente(self,id_usuario, nombre, fecha_nacimiento, edad, codigo_postal, correo, contraseña):
+        cliente=Cliente(id_usuario, nombre, fecha_nacimiento, edad, codigo_postal, correo, contraseña)
+        self.repositorio_usarios.agregar_usuario(cliente, 1)
+        return 1
+
+    def registrar_administrador(self, id_usuario, nombre, fecha_nacimiento, edad, codigo_postal, correo, contraseña):
+        admin=Administrador(id_usuario, nombre, fecha_nacimiento, edad, codigo_postal, correo, contraseña)
+        self.repositorio_usarios.agregar_usuario(admin, 2)
+        return 1
