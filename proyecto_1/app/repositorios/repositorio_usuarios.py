@@ -1,7 +1,7 @@
 class Repositorio_Usuarios:
     def __init__(self):
-        self.rep_clientes=list()
-        self.rep_administradores=list()
+        self._rep_clientes=list()
+        self._rep_administradores=list()
 
     def agregar_usuario(self, usuario):
         if usuario.__id_usuario(0)=="C":

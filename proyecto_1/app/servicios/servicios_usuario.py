@@ -8,14 +8,24 @@ from repositorios.repositorio_usuarios import Repositorio_Usuarios
 class Servicios_Banco:
     def __init__(self, repositorio_usuarios:Repositorio_Usuarios):
         self.repositorio_usarios=repositorio_usuarios
+        self.reglas=reglas.Validaciones()
 
-    def registrar_cliente(self,id_usuario, nombre, fecha_nacimiento, edad, codigo_postal, correo, contraseña):
+    def registrar_cliente(self,id_usuario, nombre, fecha_nacimiento, codigo_postal, correo, contraseña):
+        while True:
+            try:
+                self.reglas.validar_cadena_vacia(id_usuario)
+                self.reglas.validar_cadena_vacia(nombre)
+                self.reglas.validar_cadena_vacia(fecha_nacimiento)
+                self.reglas.validar_cadena_vacia(codigo_postal)
+                self.reglas.validar_cadena_vacia(correo)
+                
+            except
         cliente=Cliente(id_usuario, nombre, fecha_nacimiento, edad, codigo_postal, correo, contraseña)
         self.repositorio_usarios.agregar_usuario(cliente, 1)
-        return 1
+        
 
-    def registrar_administrador(self, id_usuario, nombre, fecha_nacimiento, edad, codigo_postal, correo, contraseña):
-        admin=Administrador(id_usuario, nombre, fecha_nacimiento, edad, codigo_postal, correo, contraseña)
+    def registrar_administrador(self, id_usuario, nombre, fecha_nacimiento, codigo_postal, correo, contraseña):
+        admin=Administrador(id_usuario, nombre, fecha_nacimiento, codigo_postal, correo, contraseña)
         self.repositorio_usarios.agregar_usuario(admin, 2)
         return 1
 
@@ -23,4 +33,5 @@ class Servicios_Banco:
         usuario=self.repositorio_usarios.buscar_usuario(num_cuenta)
         return usuario
 
-    def editar_datos
+    def editar_datos(self):
+        pass
