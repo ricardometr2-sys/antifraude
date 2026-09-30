@@ -1,0 +1,3001 @@
+ID,Jugador,Equipo,Posicion,Edad,Partidos,Goles,Asistencias,ValorMercado
+1,Luis Garcia,Arsenal,Portero,26,18,0,1,24511639
+2,Miguel Perez,Arsenal,Delantero,40,37,2,11,92332806
+3,Ricardo Perez,Milan,Mediocampista,38,29,10,2,76853310
+4,Luis Torres,Manchester City,Mediocampista,22,34,8,15,181882917
+5,Juan Silva,Bayern Munich,Delantero,23,12,20,19,73156830
+6,Juan Silva,Real Madrid,Portero,36,14,0,2,2348386
+7,Juan Garcia,Arsenal,Defensa,32,28,1,7,28658610
+8,Javier Flores,Real Madrid,Portero,25,25,0,2,147521185
+9,Ricardo Ramirez,Chelsea,Defensa,29,15,4,8,143071111
+10,Diego Silva,Arsenal,Delantero,34,27,5,17,116209632
+11,Ricardo Flores,Barcelona,Delantero,33,17,36,4,189815590
+12,Miguel Ruiz,Barcelona,Mediocampista,23,28,6,19,165171627
+13,Diego Flores,Bayern Munich,Delantero,19,6,16,9,116584028
+14,Andres Silva,Real Madrid,Mediocampista,19,5,2,21,166317379
+15,Juan Hernandez,Real Madrid,Mediocampista,19,38,7,11,144308420
+16,Fernando Perez,Manchester City,Delantero,20,9,6,10,188287748
+17,Luis Garcia,PSG,Defensa,27,15,7,2,180755968
+18,Juan Ruiz,Arsenal,Mediocampista,19,12,12,7,181608611
+19,Diego Diaz,Barcelona,Portero,33,38,0,1,91334697
+20,Ricardo Flores,Arsenal,Delantero,21,13,0,20,37431384
+21,Carlos Garcia,Milan,Defensa,19,35,5,8,172800105
+22,Diego Ramirez,Liverpool,Defensa,21,18,7,2,173499060
+23,Javier Lopez,Real Madrid,Delantero,36,11,32,5,112210502
+24,Javier Perez,Chelsea,Defensa,28,14,6,0,138549741
+25,Javier Perez,Liverpool,Portero,28,21,0,0,157507650
+26,Andres Hernandez,Barcelona,Mediocampista,27,16,7,6,116536282
+27,Eduardo Ruiz,Manchester City,Portero,34,25,0,1,171969554
+28,Carlos Ruiz,Manchester City,Delantero,20,28,27,13,84789260
+29,Fernando Perez,Manchester City,Mediocampista,35,22,3,7,74826313
+30,Juan Diaz,Milan,Defensa,28,18,0,6,35816423
+31,Juan Flores,Chelsea,Defensa,39,15,1,0,1421749
+32,Diego Lopez,PSG,Delantero,35,28,32,12,2602376
+33,Ricardo Perez,Arsenal,Portero,19,21,0,2,11346378
+34,Miguel Garcia,PSG,Defensa,20,5,8,5,24467015
+35,Javier Ruiz,Real Madrid,Defensa,37,9,2,0,43746681
+36,Fernando Perez,Real Madrid,Mediocampista,18,16,0,18,134542089
+37,Eduardo Diaz,Juventus,Portero,29,19,0,1,56747441
+38,Ricardo Hernandez,Liverpool,Defensa,22,38,4,5,123728965
+39,Diego Hernandez,Barcelona,Defensa,27,27,8,8,143856990
+40,Miguel Ruiz,Chelsea,Portero,26,29,0,3,101898011
+41,Carlos Silva,Bayern Munich,Mediocampista,36,5,1,6,21796275
+42,Andres Lopez,Juventus,Defensa,30,11,8,1,7356338
+43,Juan Flores,Real Madrid,Delantero,24,26,15,2,18073371
+44,Luis Garcia,Liverpool,Mediocampista,40,11,1,14,144896722
+45,Javier Hernandez,PSG,Delantero,24,15,17,11,126683925
+46,Eduardo Diaz,Milan,Defensa,27,9,6,9,164218061
+47,Juan Perez,Milan,Delantero,24,35,31,4,52314197
+48,Andres Diaz,Arsenal,Portero,35,29,0,0,16594243
+49,Carlos Ruiz,Barcelona,Delantero,30,31,8,12,176981648
+50,Andres Lopez,Real Madrid,Portero,32,12,0,2,183477760
+51,Miguel Ramirez,Milan,Mediocampista,18,11,11,4,100489666
+52,Luis Silva,PSG,Defensa,32,25,6,3,35213068
+53,Diego Ramirez,Barcelona,Delantero,29,14,22,15,18094623
+54,Fernando Diaz,Liverpool,Mediocampista,27,34,0,24,36448783
+55,Andres Hernandez,Chelsea,Defensa,40,10,8,5,30165543
+56,Luis Hernandez,Chelsea,Defensa,40,12,7,3,95596119
+57,Andres Diaz,Manchester City,Portero,19,28,0,0,28321912
+58,Luis Torres,Juventus,Delantero,27,17,37,19,17139265
+59,Eduardo Torres,Bayern Munich,Mediocampista,22,23,15,0,24563602
+60,Javier Flores,Barcelona,Portero,24,15,0,0,51134284
+61,Diego Silva,Chelsea,Mediocampista,23,20,9,17,46477867
+62,Ricardo Diaz,Milan,Portero,37,16,0,3,69596963
+63,Carlos Torres,Barcelona,Portero,18,17,0,0,11458042
+64,Eduardo Torres,Liverpool,Mediocampista,30,12,0,2,82866762
+65,Diego Ruiz,Chelsea,Defensa,21,25,4,7,109499290
+66,Miguel Garcia,Manchester City,Defensa,28,6,1,0,153871290
+67,Fernando Hernandez,Arsenal,Delantero,25,16,33,16,35323622
+68,Carlos Silva,Liverpool,Mediocampista,31,12,4,2,41420232
+69,Ricardo Diaz,Juventus,Portero,22,9,0,3,195775674
+70,Luis Perez,PSG,Delantero,30,20,11,13,183495098
+71,Ricardo Perez,Liverpool,Portero,40,21,0,0,13594241
+72,Javier Ramirez,PSG,Delantero,30,36,7,9,3885481
+73,Javier Torres,Liverpool,Delantero,25,24,7,20,83889442
+74,Javier Ramirez,Bayern Munich,Mediocampista,35,30,11,20,164331317
+75,Miguel Diaz,Bayern Munich,Mediocampista,36,6,2,11,84021610
+76,Ricardo Flores,Arsenal,Portero,20,26,0,3,12138750
+77,Fernando Ramirez,Real Madrid,Delantero,24,18,37,17,11097850
+78,Miguel Garcia,PSG,Portero,32,19,0,2,112125535
+79,Javier Garcia,Real Madrid,Delantero,28,32,36,10,8341283
+80,Fernando Hernandez,Liverpool,Mediocampista,38,14,1,0,24739598
+81,Fernando Lopez,Milan,Delantero,38,9,14,15,174811385
+82,Miguel Torres,Bayern Munich,Defensa,27,23,0,2,25268217
+83,Javier Hernandez,Arsenal,Delantero,40,17,20,12,127502254
+84,Ricardo Diaz,Bayern Munich,Delantero,18,27,5,20,121647055
+85,Eduardo Ruiz,PSG,Portero,29,19,0,2,23695382
+86,Juan Torres,Chelsea,Delantero,39,28,1,6,86615094
+87,Luis Silva,Manchester City,Defensa,36,9,5,6,11861877
+88,Eduardo Flores,Bayern Munich,Delantero,37,12,30,12,194263514
+89,Carlos Lopez,Juventus,Portero,30,15,0,2,121616169
+90,Ricardo Ruiz,Arsenal,Portero,35,19,0,0,123130092
+91,Eduardo Garcia,Liverpool,Delantero,35,27,27,16,160453743
+92,Juan Perez,Manchester City,Mediocampista,32,9,10,7,125687654
+93,Ricardo Lopez,Chelsea,Defensa,39,38,7,3,50432770
+94,Eduardo Flores,Milan,Delantero,32,16,12,17,84351931
+95,Ricardo Diaz,Barcelona,Defensa,36,30,2,10,7726867
+96,Carlos Hernandez,Bayern Munich,Mediocampista,33,31,1,2,37713625
+97,Luis Flores,Barcelona,Delantero,23,19,36,17,55898231
+98,Javier Flores,Liverpool,Defensa,26,38,1,0,64734246
+99,Javier Hernandez,PSG,Defensa,32,38,8,2,95826371
+100,Diego Torres,Bayern Munich,Portero,18,17,0,1,90617741
+101,Luis Flores,Juventus,Defensa,30,20,5,10,125568615
+102,Andres Torres,Arsenal,Mediocampista,24,30,13,18,154321664
+103,Juan Torres,Real Madrid,Defensa,33,29,6,5,19921436
+104,Luis Ruiz,Manchester City,Mediocampista,34,36,1,15,15587117
+105,Diego Garcia,Real Madrid,Mediocampista,33,12,1,17,40090216
+106,Diego Ramirez,Manchester City,Delantero,30,24,29,4,98930392
+107,Miguel Perez,Manchester City,Defensa,36,20,6,3,33994680
+108,Javier Garcia,Bayern Munich,Mediocampista,37,8,12,14,198078078
+109,Diego Flores,Arsenal,Defensa,35,8,5,7,106199550
+110,Fernando Garcia,Arsenal,Mediocampista,19,6,1,1,106497727
+111,Juan Torres,Real Madrid,Portero,26,30,0,3,126421258
+112,Carlos Ramirez,Bayern Munich,Mediocampista,38,5,15,25,116276983
+113,Carlos Lopez,Milan,Defensa,18,13,0,9,16733390
+114,Miguel Ruiz,Milan,Portero,21,9,0,3,6339246
+115,Miguel Silva,Arsenal,Mediocampista,18,12,8,10,122609548
+116,Juan Ruiz,Chelsea,Delantero,19,8,40,8,184339247
+117,Andres Diaz,Arsenal,Mediocampista,25,6,3,2,65143423
+118,Luis Hernandez,Bayern Munich,Portero,18,6,0,2,53013082
+119,Javier Flores,Liverpool,Mediocampista,32,7,9,24,48663358
+120,Ricardo Ramirez,Barcelona,Delantero,37,27,22,15,58276814
+121,Diego Silva,Arsenal,Defensa,27,10,8,8,127639812
+122,Javier Diaz,Manchester City,Portero,37,36,0,3,149318586
+123,Luis Ramirez,Bayern Munich,Defensa,21,8,6,5,2130282
+124,Eduardo Lopez,Juventus,Portero,36,9,0,3,121754454
+125,Luis Flores,Manchester City,Defensa,37,20,2,3,109011417
+126,Juan Ramirez,Milan,Defensa,40,10,0,10,113984561
+127,Luis Flores,PSG,Delantero,29,17,21,13,57425583
+128,Ricardo Hernandez,Liverpool,Delantero,23,10,40,1,79561234
+129,Eduardo Lopez,Barcelona,Mediocampista,25,11,14,2,102371957
+130,Luis Ramirez,Barcelona,Defensa,18,37,7,5,8472111
+131,Fernando Ramirez,Chelsea,Defensa,32,35,5,7,140731210
+132,Andres Perez,PSG,Portero,23,22,0,3,101617679
+133,Fernando Ruiz,Liverpool,Mediocampista,22,11,4,6,111678477
+134,Ricardo Torres,Barcelona,Mediocampista,33,38,9,14,44205536
+135,Juan Garcia,Real Madrid,Defensa,33,33,6,10,164401443
+136,Javier Diaz,Manchester City,Defensa,22,13,3,6,102534260
+137,Javier Ramirez,Real Madrid,Defensa,18,29,2,10,153941666
+138,Carlos Ruiz,Bayern Munich,Mediocampista,33,7,0,21,67675644
+139,Andres Silva,Bayern Munich,Defensa,29,19,8,4,40539171
+140,Ricardo Hernandez,Manchester City,Delantero,24,33,13,19,197548276
+141,Javier Hernandez,Juventus,Delantero,34,10,24,3,137073391
+142,Javier Ramirez,Barcelona,Defensa,22,27,8,1,74351205
+143,Miguel Flores,Real Madrid,Delantero,32,25,17,3,4648666
+144,Juan Garcia,Liverpool,Delantero,25,20,4,2,110003158
+145,Javier Lopez,PSG,Delantero,34,32,39,15,69909585
+146,Luis Garcia,Liverpool,Mediocampista,28,7,4,17,109481963
+147,Juan Ruiz,Liverpool,Portero,21,22,0,3,44181162
+148,Carlos Lopez,Barcelona,Delantero,27,37,21,19,35262380
+149,Juan Ramirez,Barcelona,Mediocampista,30,27,11,14,160767133
+150,Fernando Silva,Milan,Portero,37,10,0,3,129678165
+151,Carlos Diaz,Bayern Munich,Defensa,38,29,0,4,119576735
+152,Diego Torres,Juventus,Mediocampista,35,20,1,4,14260103
+153,Fernando Torres,Milan,Defensa,18,30,7,5,112878400
+154,Eduardo Torres,Manchester City,Mediocampista,39,22,2,3,183676489
+155,Diego Hernandez,Juventus,Portero,29,37,0,2,10533746
+156,Luis Ruiz,PSG,Delantero,26,28,13,2,143015319
+157,Luis Silva,Real Madrid,Portero,39,29,0,2,144379657
+158,Andres Perez,Chelsea,Mediocampista,28,38,10,25,178766948
+159,Juan Hernandez,Milan,Mediocampista,25,35,15,24,74759616
+160,Miguel Hernandez,Real Madrid,Defensa,40,29,3,5,144435692
+161,Miguel Hernandez,PSG,Delantero,29,34,4,13,193946542
+162,Diego Garcia,Arsenal,Delantero,30,20,30,6,29717070
+163,Carlos Hernandez,Arsenal,Mediocampista,37,37,14,25,40499181
+164,Juan Ruiz,Arsenal,Mediocampista,34,34,6,13,172097222
+165,Javier Garcia,Liverpool,Mediocampista,40,19,1,23,7251828
+166,Fernando Silva,Milan,Defensa,39,32,1,10,78728072
+167,Javier Hernandez,Chelsea,Portero,22,32,0,1,88508965
+168,Miguel Silva,PSG,Portero,29,38,0,1,32275513
+169,Javier Flores,Liverpool,Portero,29,15,0,0,30729359
+170,Fernando Hernandez,Barcelona,Defensa,23,23,6,5,117518817
+171,Fernando Garcia,Barcelona,Mediocampista,31,19,7,8,46599160
+172,Carlos Garcia,Arsenal,Delantero,37,11,0,5,47412672
+173,Diego Hernandez,Bayern Munich,Defensa,27,26,7,5,22202795
+174,Luis Ruiz,Bayern Munich,Defensa,35,23,7,5,178891556
+175,Carlos Perez,Liverpool,Defensa,36,12,5,7,173174150
+176,Juan Ramirez,Liverpool,Defensa,27,17,0,8,133643833
+177,Fernando Diaz,Liverpool,Mediocampista,30,12,12,23,108003097
+178,Diego Ruiz,Real Madrid,Delantero,26,7,0,14,13169624
+179,Carlos Ramirez,Barcelona,Mediocampista,36,17,5,19,37089615
+180,Andres Diaz,Real Madrid,Portero,33,17,0,2,144443763
+181,Eduardo Garcia,Manchester City,Mediocampista,31,8,4,6,193010081
+182,Juan Hernandez,Arsenal,Defensa,34,27,0,4,13328500
+183,Andres Perez,Real Madrid,Portero,26,17,0,1,168751344
+184,Eduardo Lopez,Chelsea,Delantero,20,32,35,15,162862263
+185,Andres Lopez,Liverpool,Delantero,25,31,10,3,164066822
+186,Andres Perez,Liverpool,Mediocampista,38,21,13,15,199790730
+187,Javier Torres,Juventus,Portero,26,34,0,0,173849717
+188,Luis Ruiz,Chelsea,Portero,32,35,0,3,19829368
+189,Carlos Perez,Juventus,Defensa,32,21,3,10,78531813
+190,Ricardo Torres,Arsenal,Delantero,20,19,14,6,65893354
+191,Luis Hernandez,Barcelona,Mediocampista,26,24,9,24,11012889
+192,Carlos Diaz,Barcelona,Mediocampista,38,32,6,6,135788672
+193,Miguel Perez,Milan,Portero,34,5,0,0,63995828
+194,Miguel Diaz,Bayern Munich,Portero,22,10,0,1,21737751
+195,Eduardo Garcia,Juventus,Defensa,40,33,4,9,148465351
+196,Javier Ruiz,Real Madrid,Delantero,33,10,39,20,126566174
+197,Ricardo Ruiz,Juventus,Mediocampista,22,38,2,17,71109405
+198,Carlos Hernandez,Real Madrid,Delantero,31,7,28,5,122593576
+199,Eduardo Ramirez,Liverpool,Delantero,40,28,26,4,13023185
+200,Andres Diaz,Liverpool,Mediocampista,30,30,8,15,182805966
+201,Fernando Flores,Chelsea,Defensa,28,7,4,1,76379275
+202,Luis Perez,Barcelona,Mediocampista,39,8,12,12,193385619
+203,Andres Torres,Milan,Defensa,27,21,0,5,91655371
+204,Juan Hernandez,Milan,Portero,29,15,0,3,127206406
+205,Andres Garcia,Juventus,Portero,21,9,0,1,168296587
+206,Javier Hernandez,Barcelona,Portero,30,15,0,1,95970241
+207,Javier Hernandez,PSG,Defensa,34,37,3,2,9212865
+208,Fernando Ramirez,Bayern Munich,Mediocampista,40,29,12,12,68832431
+209,Luis Hernandez,Arsenal,Portero,21,33,0,3,15349788
+210,Luis Ramirez,Liverpool,Portero,30,7,0,0,98045991
+211,Javier Garcia,PSG,Portero,32,5,0,1,162277839
+212,Carlos Ruiz,Manchester City,Mediocampista,35,13,6,17,65848947
+213,Fernando Ramirez,Liverpool,Mediocampista,24,6,1,1,139200066
+214,Juan Ramirez,Milan,Mediocampista,33,35,3,18,91136991
+215,Fernando Flores,PSG,Mediocampista,40,38,14,8,180799588
+216,Luis Ruiz,Liverpool,Mediocampista,30,38,15,1,94171016
+217,Ricardo Hernandez,Arsenal,Defensa,31,14,6,10,14139904
+218,Luis Torres,Arsenal,Defensa,23,7,2,0,74979017
+219,Javier Garcia,Juventus,Portero,30,6,0,2,81268282
+220,Luis Lopez,Milan,Defensa,25,10,0,0,139872356
+221,Diego Torres,Bayern Munich,Delantero,31,34,40,3,10960972
+222,Eduardo Garcia,Real Madrid,Mediocampista,27,36,11,3,89675267
+223,Ricardo Flores,Liverpool,Portero,28,12,0,1,47507066
+224,Juan Ruiz,Real Madrid,Mediocampista,37,38,3,22,32532266
+225,Miguel Perez,Real Madrid,Mediocampista,22,17,8,5,195152345
+226,Javier Ramirez,Real Madrid,Defensa,33,20,0,4,178602839
+227,Fernando Ruiz,Chelsea,Defensa,35,12,5,0,143118439
+228,Diego Silva,Barcelona,Delantero,32,9,5,18,129435381
+229,Miguel Ramirez,Arsenal,Delantero,35,26,30,10,124933729
+230,Miguel Silva,Bayern Munich,Defensa,25,20,3,8,190519584
+231,Diego Ramirez,Milan,Mediocampista,36,8,6,5,4496439
+232,Miguel Hernandez,Manchester City,Delantero,20,17,1,20,35288226
+233,Andres Hernandez,Juventus,Defensa,21,31,4,7,187014777
+234,Carlos Ruiz,Chelsea,Defensa,22,12,8,4,38889526
+235,Javier Ramirez,Chelsea,Defensa,22,15,4,3,104674835
+236,Luis Flores,Bayern Munich,Defensa,23,29,3,8,33602095
+237,Miguel Torres,Juventus,Mediocampista,36,14,15,7,21257001
+238,Diego Ramirez,PSG,Defensa,36,9,0,0,167463467
+239,Ricardo Torres,Chelsea,Defensa,28,29,1,5,57455895
+240,Javier Garcia,Manchester City,Defensa,38,7,8,7,5353540
+241,Fernando Torres,Barcelona,Portero,23,24,0,2,161332423
+242,Eduardo Flores,Chelsea,Mediocampista,35,36,14,15,14729311
+243,Andres Perez,Juventus,Delantero,25,29,23,20,109057838
+244,Andres Torres,Real Madrid,Mediocampista,18,5,7,13,9268769
+245,Carlos Garcia,Juventus,Portero,18,14,0,1,147007394
+246,Carlos Lopez,Milan,Defensa,30,25,7,5,147782699
+247,Luis Diaz,Milan,Portero,18,14,0,1,129798208
+248,Ricardo Flores,PSG,Delantero,18,27,26,8,142735902
+249,Juan Lopez,Milan,Mediocampista,35,38,12,24,137092931
+250,Fernando Diaz,Chelsea,Delantero,34,18,39,8,197027695
+251,Miguel Ramirez,Liverpool,Defensa,24,19,4,4,181473106
+252,Miguel Lopez,Bayern Munich,Defensa,24,37,4,8,157316905
+253,Luis Perez,Liverpool,Portero,27,10,0,1,118840916
+254,Miguel Ramirez,Milan,Mediocampista,18,9,2,0,165607433
+255,Andres Perez,Juventus,Delantero,34,30,22,20,96416845
+256,Javier Lopez,PSG,Defensa,32,31,7,1,84490003
+257,Eduardo Torres,Milan,Portero,25,37,0,1,109994374
+258,Fernando Ramirez,Real Madrid,Portero,37,17,0,1,141507328
+259,Juan Perez,Barcelona,Portero,34,19,0,1,62036183
+260,Fernando Torres,Manchester City,Defensa,34,31,0,0,79696578
+261,Diego Ruiz,PSG,Delantero,20,37,33,5,51831775
+262,Andres Garcia,Milan,Delantero,18,14,39,3,153832398
+263,Andres Ruiz,Bayern Munich,Delantero,19,33,13,8,173579057
+264,Javier Perez,Real Madrid,Portero,36,18,0,0,29258392
+265,Fernando Ramirez,Real Madrid,Defensa,22,38,2,7,5663040
+266,Andres Hernandez,Barcelona,Delantero,25,38,5,15,142527513
+267,Eduardo Ruiz,Arsenal,Portero,20,31,0,1,147657795
+268,Fernando Perez,Juventus,Portero,24,15,0,3,189396544
+269,Juan Diaz,Chelsea,Defensa,21,35,8,0,64294905
+270,Ricardo Flores,PSG,Mediocampista,26,29,13,25,63300792
+271,Luis Hernandez,Arsenal,Portero,31,23,0,3,64908925
+272,Carlos Hernandez,Chelsea,Mediocampista,30,22,9,24,65272623
+273,Diego Lopez,Manchester City,Delantero,31,15,38,2,77499690
+274,Andres Hernandez,Real Madrid,Defensa,33,20,8,9,129022174
+275,Diego Diaz,Barcelona,Defensa,18,28,4,5,29287898
+276,Javier Garcia,Liverpool,Delantero,19,36,17,3,198039489
+277,Carlos Lopez,Manchester City,Mediocampista,36,24,7,2,73555271
+278,Luis Ramirez,PSG,Mediocampista,29,30,4,25,69939798
+279,Carlos Diaz,Real Madrid,Mediocampista,34,21,12,9,94255526
+280,Carlos Ruiz,Bayern Munich,Delantero,30,20,6,18,36709910
+281,Juan Hernandez,PSG,Defensa,31,20,4,9,136607038
+282,Diego Lopez,Real Madrid,Defensa,31,34,7,1,82741589
+283,Fernando Diaz,Bayern Munich,Portero,26,25,0,1,35822262
+284,Luis Diaz,Manchester City,Mediocampista,34,18,4,14,87047255
+285,Miguel Ruiz,Real Madrid,Defensa,30,8,5,3,31409748
+286,Fernando Diaz,Milan,Portero,19,15,0,2,160997450
+287,Miguel Flores,Juventus,Mediocampista,26,22,10,9,153730164
+288,Fernando Perez,Milan,Defensa,30,22,1,4,68777915
+289,Javier Silva,Juventus,Delantero,36,7,1,5,57741494
+290,Carlos Flores,Chelsea,Mediocampista,23,27,10,17,139556997
+291,Fernando Flores,Juventus,Portero,38,35,0,2,11691525
+292,Ricardo Hernandez,Real Madrid,Mediocampista,38,15,6,17,129443298
+293,Juan Silva,Bayern Munich,Delantero,30,7,30,3,144140377
+294,Eduardo Silva,Milan,Defensa,37,12,6,8,76863936
+295,Juan Garcia,PSG,Portero,23,38,0,0,66849697
+296,Miguel Hernandez,Manchester City,Mediocampista,30,32,8,1,178678930
+297,Diego Diaz,Manchester City,Defensa,25,25,7,1,137768100
+298,Luis Ramirez,Liverpool,Delantero,29,31,38,11,22774039
+299,Javier Hernandez,PSG,Mediocampista,37,6,7,3,185484801
+300,Luis Silva,Liverpool,Portero,32,28,0,3,43398178
+301,Ricardo Torres,Juventus,Defensa,22,6,8,7,171848955
+302,Andres Ruiz,Barcelona,Delantero,37,17,0,10,182126144
+303,Eduardo Lopez,Milan,Defensa,39,36,3,10,9442451
+304,Fernando Ramirez,Chelsea,Portero,34,6,0,1,167308793
+305,Andres Torres,Milan,Delantero,32,5,4,6,199670201
+306,Diego Garcia,Chelsea,Portero,22,11,0,0,130216158
+307,Andres Flores,Liverpool,Delantero,20,8,12,20,188803817
+308,Miguel Torres,Bayern Munich,Delantero,36,29,24,9,83556320
+309,Ricardo Lopez,Barcelona,Portero,19,36,0,0,130924845
+310,Juan Garcia,Arsenal,Mediocampista,24,33,15,2,125076634
+311,Diego Flores,Liverpool,Defensa,22,14,0,7,199100869
+312,Ricardo Diaz,Manchester City,Delantero,38,15,35,2,91238711
+313,Juan Flores,Milan,Defensa,21,32,7,3,194106889
+314,Ricardo Flores,PSG,Portero,22,13,0,3,186303830
+315,Luis Silva,Real Madrid,Delantero,26,29,3,18,46126113
+316,Diego Torres,Milan,Defensa,21,6,4,3,43942575
+317,Andres Lopez,Liverpool,Mediocampista,37,18,8,2,27560147
+318,Diego Diaz,PSG,Mediocampista,34,35,9,14,130563191
+319,Diego Diaz,Liverpool,Defensa,28,14,5,5,14318545
+320,Eduardo Lopez,PSG,Portero,30,31,0,3,105649037
+321,Fernando Ruiz,Chelsea,Mediocampista,23,22,4,13,105265182
+322,Javier Ruiz,Manchester City,Portero,21,30,0,3,36761439
+323,Miguel Torres,Barcelona,Portero,25,7,0,1,168720602
+324,Eduardo Torres,Juventus,Defensa,37,7,1,10,134197266
+325,Miguel Hernandez,PSG,Delantero,33,30,18,4,115037592
+326,Carlos Flores,Chelsea,Defensa,30,19,5,6,135819475
+327,Javier Perez,Liverpool,Portero,39,25,0,0,103224978
+328,Ricardo Hernandez,Chelsea,Defensa,26,8,8,3,3334196
+329,Diego Flores,Milan,Mediocampista,31,25,11,22,11191767
+330,Eduardo Garcia,Real Madrid,Delantero,26,11,2,11,29297210
+331,Miguel Hernandez,Real Madrid,Mediocampista,36,37,2,13,12924965
+332,Carlos Silva,Arsenal,Defensa,38,16,4,6,60890797
+333,Carlos Silva,Milan,Mediocampista,34,21,13,15,119519031
+334,Ricardo Diaz,PSG,Mediocampista,31,9,1,1,37214399
+335,Miguel Lopez,Milan,Delantero,33,23,9,11,1660495
+336,Ricardo Flores,Chelsea,Defensa,28,20,5,7,82725161
+337,Ricardo Ramirez,PSG,Defensa,19,9,3,3,196492947
+338,Juan Lopez,Arsenal,Defensa,19,36,8,1,1660666
+339,Ricardo Ramirez,PSG,Defensa,27,14,5,7,191693698
+340,Diego Perez,Chelsea,Portero,28,24,0,3,79616826
+341,Ricardo Flores,PSG,Mediocampista,33,9,3,2,1135394
+342,Diego Diaz,Arsenal,Mediocampista,26,21,2,6,197721210
+343,Miguel Lopez,Manchester City,Delantero,40,12,18,8,180542726
+344,Javier Torres,Liverpool,Delantero,35,6,33,14,193261192
+345,Miguel Silva,Milan,Delantero,39,37,36,18,83070636
+346,Juan Perez,Real Madrid,Portero,27,18,0,2,147898653
+347,Andres Flores,Real Madrid,Portero,20,11,0,2,144296404
+348,Javier Lopez,Real Madrid,Defensa,33,30,4,2,70652900
+349,Miguel Hernandez,Real Madrid,Mediocampista,28,28,0,18,80342738
+350,Carlos Torres,Juventus,Delantero,37,29,10,2,183970305
+351,Juan Ramirez,PSG,Portero,21,23,0,0,7444517
+352,Luis Diaz,Chelsea,Delantero,18,32,19,9,141855771
+353,Andres Flores,Barcelona,Portero,22,18,0,1,179874779
+354,Javier Diaz,Milan,Portero,23,24,0,2,17899212
+355,Luis Garcia,Barcelona,Mediocampista,32,25,7,11,25291279
+356,Carlos Diaz,Liverpool,Delantero,28,35,37,10,138949326
+357,Andres Diaz,Arsenal,Mediocampista,33,31,1,1,77449074
+358,Diego Lopez,Arsenal,Delantero,21,29,27,8,31818672
+359,Javier Flores,Manchester City,Delantero,21,20,1,15,7658423
+360,Fernando Hernandez,Barcelona,Mediocampista,39,26,0,0,53035897
+361,Ricardo Lopez,Liverpool,Delantero,34,37,33,12,199963318
+362,Carlos Torres,Real Madrid,Mediocampista,40,23,8,1,4012904
+363,Diego Lopez,Chelsea,Portero,36,32,0,3,78020628
+364,Andres Lopez,Manchester City,Mediocampista,40,31,6,22,2818924
+365,Javier Diaz,Barcelona,Portero,27,6,0,3,164011299
+366,Fernando Garcia,Juventus,Mediocampista,28,20,7,0,31678544
+367,Carlos Diaz,Barcelona,Defensa,30,31,4,7,44310631
+368,Fernando Flores,Milan,Defensa,24,12,7,1,86062210
+369,Juan Lopez,Arsenal,Defensa,39,5,2,6,21345956
+370,Miguel Ramirez,Milan,Portero,40,30,0,3,11775199
+371,Fernando Hernandez,Liverpool,Defensa,28,20,4,7,73504488
+372,Luis Hernandez,Juventus,Delantero,40,23,5,15,63976942
+373,Luis Perez,Milan,Mediocampista,25,15,5,3,147279667
+374,Carlos Lopez,Bayern Munich,Mediocampista,24,11,0,14,90533776
+375,Luis Lopez,Arsenal,Mediocampista,31,24,9,7,121421096
+376,Javier Torres,Manchester City,Mediocampista,24,30,12,9,94082091
+377,Ricardo Hernandez,Manchester City,Mediocampista,19,6,0,5,59099276
+378,Eduardo Lopez,Arsenal,Portero,20,11,0,0,72638447
+379,Carlos Ruiz,Liverpool,Delantero,27,37,8,15,147209597
+380,Andres Torres,Juventus,Portero,28,38,0,3,26939040
+381,Eduardo Ramirez,Milan,Mediocampista,30,27,5,2,146250123
+382,Fernando Garcia,Bayern Munich,Delantero,28,33,16,8,179750093
+383,Carlos Torres,Real Madrid,Portero,23,25,0,0,98202458
+384,Diego Ramirez,Barcelona,Defensa,23,10,3,9,128771965
+385,Diego Ruiz,Juventus,Portero,40,27,0,1,17346655
+386,Fernando Ramirez,Juventus,Portero,27,9,0,3,140671329
+387,Luis Hernandez,Real Madrid,Mediocampista,29,13,15,3,158940790
+388,Diego Flores,Bayern Munich,Delantero,31,22,1,12,89763415
+389,Diego Hernandez,Real Madrid,Mediocampista,23,18,10,0,131233599
+390,Juan Ruiz,Arsenal,Defensa,40,14,4,2,85847959
+391,Ricardo Silva,PSG,Delantero,22,5,40,8,48967963
+392,Juan Lopez,Manchester City,Defensa,39,6,7,0,33624424
+393,Luis Silva,Barcelona,Delantero,22,23,15,5,61066154
+394,Juan Silva,Bayern Munich,Portero,34,18,0,0,162105393
+395,Andres Garcia,PSG,Mediocampista,18,22,10,17,57259497
+396,Luis Ruiz,PSG,Defensa,29,31,6,5,79905584
+397,Ricardo Garcia,Real Madrid,Delantero,40,12,31,10,36473198
+398,Diego Ruiz,Barcelona,Mediocampista,39,5,8,9,19027801
+399,Diego Hernandez,Barcelona,Mediocampista,28,33,6,9,184000094
+400,Juan Diaz,Barcelona,Defensa,28,37,0,4,142850844
+401,Javier Lopez,Real Madrid,Defensa,31,5,5,2,192021473
+402,Andres Perez,Juventus,Defensa,31,8,5,8,129015001
+403,Miguel Ruiz,Liverpool,Delantero,22,28,37,5,199180565
+404,Luis Lopez,Juventus,Delantero,20,24,31,6,120206264
+405,Luis Garcia,PSG,Defensa,39,18,1,9,17829473
+406,Ricardo Lopez,Chelsea,Defensa,37,37,6,1,173637308
+407,Carlos Ruiz,Milan,Defensa,29,21,5,4,77748317
+408,Juan Ruiz,Arsenal,Mediocampista,35,26,7,11,29364590
+409,Andres Garcia,Milan,Mediocampista,28,26,15,2,114849532
+410,Fernando Diaz,Bayern Munich,Mediocampista,24,16,6,17,163651049
+411,Javier Perez,Milan,Delantero,22,24,34,9,49903629
+412,Eduardo Hernandez,Chelsea,Delantero,32,16,32,7,45923763
+413,Juan Flores,Juventus,Defensa,27,18,0,10,27948249
+414,Javier Diaz,Barcelona,Defensa,27,11,4,1,177373335
+415,Juan Garcia,Barcelona,Delantero,25,37,8,8,10852759
+416,Eduardo Perez,Manchester City,Delantero,27,37,36,15,191740628
+417,Miguel Flores,Real Madrid,Mediocampista,40,38,14,10,59186034
+418,Miguel Perez,Chelsea,Mediocampista,30,17,8,1,177478944
+419,Eduardo Garcia,Bayern Munich,Mediocampista,28,25,7,2,165642546
+420,Ricardo Flores,PSG,Portero,36,20,0,1,131604752
+421,Carlos Ramirez,Juventus,Portero,26,20,0,2,48778910
+422,Luis Garcia,Arsenal,Mediocampista,18,13,4,23,25775430
+423,Eduardo Diaz,Arsenal,Mediocampista,32,9,14,2,185475921
+424,Javier Ruiz,Barcelona,Mediocampista,28,30,1,4,48679057
+425,Andres Ramirez,Liverpool,Defensa,25,19,4,2,118548972
+426,Andres Silva,Milan,Portero,31,17,0,0,148751585
+427,Miguel Ramirez,PSG,Defensa,21,36,2,8,110717613
+428,Carlos Torres,Liverpool,Mediocampista,34,19,6,2,59899591
+429,Luis Lopez,Juventus,Defensa,30,8,1,0,179121978
+430,Javier Diaz,Juventus,Delantero,34,32,37,15,192248279
+431,Javier Ramirez,Juventus,Mediocampista,33,19,1,2,11660261
+432,Miguel Torres,Real Madrid,Delantero,30,31,15,12,26134464
+433,Miguel Hernandez,Liverpool,Portero,30,15,0,3,3978897
+434,Javier Lopez,Chelsea,Portero,29,10,0,1,138931468
+435,Miguel Ruiz,Manchester City,Portero,21,16,0,0,171540168
+436,Carlos Perez,Juventus,Mediocampista,21,38,11,4,60025468
+437,Luis Ruiz,Bayern Munich,Mediocampista,23,14,10,23,146694898
+438,Andres Lopez,Liverpool,Mediocampista,33,12,14,21,163121903
+439,Diego Silva,Bayern Munich,Delantero,39,16,25,8,38221128
+440,Luis Ruiz,Milan,Portero,34,12,0,2,167900868
+441,Andres Perez,Milan,Portero,22,38,0,2,161896937
+442,Ricardo Garcia,PSG,Defensa,36,34,5,2,28826401
+443,Carlos Lopez,Bayern Munich,Delantero,36,27,19,20,29406472
+444,Carlos Diaz,Arsenal,Delantero,33,35,26,12,153374820
+445,Juan Ramirez,Liverpool,Mediocampista,23,25,15,22,36206105
+446,Javier Diaz,PSG,Delantero,24,7,35,11,39944128
+447,Andres Perez,Juventus,Mediocampista,39,8,9,18,127611360
+448,Fernando Hernandez,Arsenal,Delantero,35,19,6,20,195260006
+449,Javier Perez,Real Madrid,Delantero,19,14,33,13,153309976
+450,Luis Torres,Arsenal,Portero,36,22,0,3,194849797
+451,Ricardo Garcia,Chelsea,Portero,27,21,0,1,131964129
+452,Ricardo Torres,Arsenal,Defensa,18,25,3,5,60152558
+453,Fernando Torres,Bayern Munich,Defensa,37,12,1,6,182549583
+454,Miguel Ramirez,Chelsea,Defensa,24,18,8,7,18796620
+455,Fernando Lopez,Liverpool,Mediocampista,21,33,5,21,143543604
+456,Javier Ramirez,Juventus,Delantero,38,18,13,10,161601650
+457,Luis Ruiz,Manchester City,Portero,22,15,0,1,28569602
+458,Andres Diaz,Real Madrid,Delantero,20,36,21,7,66404553
+459,Fernando Ruiz,Arsenal,Defensa,27,13,3,7,117983690
+460,Diego Ruiz,PSG,Mediocampista,20,30,13,15,61789559
+461,Ricardo Flores,PSG,Portero,33,27,0,2,74587892
+462,Eduardo Diaz,Arsenal,Portero,28,27,0,0,13759480
+463,Diego Lopez,Real Madrid,Mediocampista,20,20,8,2,53932794
+464,Diego Hernandez,Juventus,Portero,29,5,0,1,103462085
+465,Miguel Perez,Milan,Portero,24,14,0,0,56726122
+466,Juan Perez,Liverpool,Portero,25,27,0,2,104563889
+467,Miguel Silva,Juventus,Defensa,24,34,3,3,148919243
+468,Carlos Flores,Liverpool,Defensa,23,5,1,3,151501731
+469,Ricardo Perez,Real Madrid,Mediocampista,18,7,1,21,140851439
+470,Ricardo Diaz,PSG,Portero,19,19,0,3,64359625
+471,Eduardo Torres,Chelsea,Delantero,32,10,17,14,89198668
+472,Andres Ruiz,Chelsea,Portero,27,35,0,2,145389347
+473,Javier Ruiz,Real Madrid,Mediocampista,25,17,9,0,89523156
+474,Ricardo Perez,Manchester City,Delantero,27,21,18,0,162033933
+475,Ricardo Ruiz,Juventus,Delantero,26,16,34,10,186989698
+476,Javier Perez,Chelsea,Portero,28,25,0,3,99231954
+477,Ricardo Garcia,Real Madrid,Portero,38,29,0,1,100715146
+478,Ricardo Diaz,Arsenal,Mediocampista,31,7,9,17,87796094
+479,Diego Ramirez,Juventus,Defensa,33,15,6,0,175353842
+480,Andres Lopez,Manchester City,Delantero,19,27,21,0,159398523
+481,Diego Ruiz,Arsenal,Portero,33,26,0,2,194601475
+482,Javier Ramirez,Real Madrid,Mediocampista,24,28,13,7,60753009
+483,Miguel Garcia,Liverpool,Portero,29,19,0,0,86616495
+484,Javier Perez,Milan,Defensa,19,20,2,0,18717844
+485,Fernando Ruiz,Arsenal,Defensa,40,7,1,1,63837471
+486,Carlos Lopez,Milan,Delantero,30,21,30,15,59664558
+487,Carlos Flores,PSG,Mediocampista,35,31,7,8,1425325
+488,Ricardo Torres,Arsenal,Mediocampista,35,21,9,13,167419511
+489,Fernando Perez,Chelsea,Defensa,38,35,1,9,161085071
+490,Ricardo Silva,Liverpool,Delantero,28,31,3,3,174510650
+491,Fernando Diaz,Bayern Munich,Defensa,23,25,0,9,54229599
+492,Juan Silva,PSG,Defensa,20,19,1,5,38294059
+493,Miguel Perez,Milan,Mediocampista,33,36,0,12,62783117
+494,Andres Hernandez,Juventus,Portero,32,23,0,1,154473535
+495,Andres Lopez,Chelsea,Delantero,29,13,6,20,46203515
+496,Eduardo Hernandez,Liverpool,Mediocampista,18,11,0,16,78914018
+497,Ricardo Ruiz,PSG,Defensa,33,27,6,4,156655327
+498,Ricardo Silva,Bayern Munich,Mediocampista,23,13,7,2,70270734
+499,Miguel Ramirez,Juventus,Mediocampista,38,25,4,5,113016615
+500,Diego Ruiz,Liverpool,Portero,18,28,0,3,40228564
+501,Miguel Perez,Bayern Munich,Delantero,30,16,16,3,101502801
+502,Diego Silva,Milan,Mediocampista,26,12,2,18,125675136
+503,Andres Diaz,Chelsea,Mediocampista,22,12,5,25,75347661
+504,Andres Ruiz,Bayern Munich,Delantero,38,19,9,7,157963417
+505,Carlos Diaz,Bayern Munich,Mediocampista,20,22,4,9,101098666
+506,Juan Ruiz,Chelsea,Defensa,18,11,1,10,139738176
+507,Carlos Perez,Liverpool,Defensa,30,9,6,2,19247032
+508,Andres Lopez,Arsenal,Delantero,25,28,24,15,179833894
+509,Javier Hernandez,PSG,Defensa,40,13,2,9,105452981
+510,Luis Ruiz,Milan,Mediocampista,30,32,2,17,63918410
+511,Ricardo Torres,Liverpool,Mediocampista,26,35,6,8,99310241
+512,Andres Flores,Real Madrid,Defensa,28,32,0,4,129998887
+513,Andres Perez,Manchester City,Portero,38,13,0,3,19062510
+514,Diego Ramirez,Bayern Munich,Mediocampista,26,16,10,20,78854014
+515,Miguel Flores,PSG,Mediocampista,34,18,4,10,54464690
+516,Eduardo Flores,Arsenal,Defensa,20,7,4,9,127457019
+517,Fernando Ruiz,PSG,Delantero,40,6,33,18,2788554
+518,Andres Ruiz,Manchester City,Portero,39,25,0,3,7797264
+519,Carlos Hernandez,Manchester City,Delantero,22,12,31,16,91559099
+520,Miguel Lopez,Liverpool,Defensa,20,35,5,2,192829582
+521,Juan Garcia,Real Madrid,Portero,22,27,0,2,14280827
+522,Fernando Ramirez,Barcelona,Mediocampista,40,22,2,15,191935810
+523,Miguel Ramirez,Barcelona,Delantero,35,32,23,11,143329689
+524,Juan Silva,Arsenal,Portero,18,22,0,1,54362125
+525,Diego Diaz,Manchester City,Defensa,20,24,8,10,42286560
+526,Diego Flores,Milan,Mediocampista,28,33,7,19,83484758
+527,Luis Silva,Chelsea,Defensa,20,26,4,2,103236571
+528,Fernando Silva,Arsenal,Defensa,18,26,2,6,36333006
+529,Javier Hernandez,Barcelona,Defensa,38,18,2,1,128833717
+530,Andres Hernandez,Manchester City,Portero,18,7,0,2,94253338
+531,Javier Torres,Juventus,Mediocampista,33,15,4,7,37054606
+532,Diego Silva,Bayern Munich,Defensa,29,17,2,10,95211698
+533,Juan Flores,Juventus,Portero,27,32,0,1,176507237
+534,Eduardo Flores,PSG,Delantero,19,17,7,1,77837369
+535,Luis Diaz,Milan,Delantero,23,14,24,6,75372630
+536,Eduardo Ramirez,Arsenal,Defensa,20,21,3,9,20016537
+537,Andres Torres,Bayern Munich,Defensa,18,37,8,4,5045509
+538,Juan Torres,Manchester City,Mediocampista,26,35,5,4,39864947
+539,Carlos Lopez,Arsenal,Portero,29,34,0,3,126464629
+540,Luis Ramirez,Juventus,Portero,33,23,0,0,42396026
+541,Eduardo Diaz,Milan,Portero,36,26,0,1,24914248
+542,Diego Ramirez,Manchester City,Mediocampista,40,33,9,15,180451642
+543,Ricardo Silva,Bayern Munich,Delantero,35,23,14,11,2403767
+544,Eduardo Hernandez,Arsenal,Defensa,36,18,4,2,65531769
+545,Ricardo Diaz,Arsenal,Portero,23,36,0,2,84418479
+546,Luis Lopez,Real Madrid,Delantero,35,10,39,7,145081137
+547,Juan Torres,PSG,Delantero,31,31,27,17,159065231
+548,Ricardo Ruiz,Manchester City,Mediocampista,31,7,12,11,113428597
+549,Ricardo Flores,Chelsea,Defensa,30,38,3,6,24426114
+550,Miguel Ramirez,Real Madrid,Mediocampista,30,34,0,22,177476610
+551,Fernando Torres,Manchester City,Mediocampista,32,9,8,9,18682266
+552,Fernando Diaz,Barcelona,Delantero,31,12,18,16,94931329
+553,Diego Torres,Chelsea,Mediocampista,26,5,2,14,92818372
+554,Ricardo Diaz,Milan,Delantero,37,19,31,17,36636210
+555,Diego Ruiz,Chelsea,Defensa,28,5,2,8,163677435
+556,Ricardo Diaz,Milan,Defensa,23,27,5,9,190496046
+557,Eduardo Perez,Chelsea,Mediocampista,24,14,15,11,126022474
+558,Eduardo Torres,Barcelona,Delantero,33,21,29,4,26712521
+559,Juan Ramirez,Barcelona,Delantero,20,25,4,6,162913449
+560,Diego Perez,Real Madrid,Mediocampista,27,19,1,1,170936774
+561,Luis Ramirez,Liverpool,Mediocampista,35,30,15,6,111031533
+562,Eduardo Perez,Chelsea,Defensa,36,12,7,6,85620110
+563,Eduardo Silva,PSG,Delantero,38,30,22,10,29048571
+564,Javier Ramirez,Liverpool,Portero,33,33,0,1,126512122
+565,Ricardo Perez,Manchester City,Delantero,25,8,1,5,82619832
+566,Juan Perez,Barcelona,Defensa,37,33,7,3,16421576
+567,Luis Diaz,Liverpool,Delantero,30,20,11,5,191208537
+568,Ricardo Hernandez,Bayern Munich,Defensa,28,36,5,10,23111073
+569,Diego Perez,Liverpool,Portero,36,31,0,0,136999361
+570,Andres Torres,Milan,Delantero,21,21,19,2,154510763
+571,Carlos Ruiz,Juventus,Delantero,23,14,38,19,29644154
+572,Luis Ruiz,PSG,Delantero,26,35,14,7,133834928
+573,Ricardo Perez,Chelsea,Portero,26,23,0,2,160440256
+574,Carlos Flores,Arsenal,Mediocampista,28,10,12,0,44021481
+575,Carlos Lopez,Liverpool,Defensa,22,12,0,6,86461988
+576,Miguel Ruiz,Real Madrid,Portero,37,20,0,3,17274352
+577,Fernando Perez,Milan,Mediocampista,33,11,3,14,116555916
+578,Ricardo Hernandez,PSG,Delantero,18,32,36,18,103969693
+579,Javier Torres,Juventus,Portero,31,37,0,2,187314032
+580,Diego Lopez,Juventus,Mediocampista,26,33,14,5,33137394
+581,Andres Hernandez,Barcelona,Defensa,25,24,1,8,108868490
+582,Luis Torres,Milan,Delantero,29,7,0,10,73536138
+583,Ricardo Hernandez,Juventus,Mediocampista,35,14,8,19,34474219
+584,Eduardo Garcia,Arsenal,Delantero,30,19,5,20,155371664
+585,Javier Torres,Liverpool,Portero,29,31,0,2,52590733
+586,Miguel Perez,Barcelona,Mediocampista,25,13,0,15,160271648
+587,Fernando Perez,Real Madrid,Defensa,21,12,0,9,167679465
+588,Javier Ruiz,Bayern Munich,Defensa,27,5,3,6,57509582
+589,Miguel Torres,Chelsea,Portero,32,24,0,1,39664818
+590,Eduardo Silva,Liverpool,Portero,30,35,0,1,149026877
+591,Javier Hernandez,Milan,Mediocampista,20,29,5,9,192244020
+592,Javier Perez,Manchester City,Defensa,29,8,0,7,162564065
+593,Miguel Ruiz,Liverpool,Mediocampista,24,11,10,22,6485490
+594,Juan Perez,PSG,Mediocampista,37,38,0,22,86408969
+595,Miguel Ramirez,Real Madrid,Mediocampista,40,25,6,22,133010911
+596,Carlos Hernandez,Chelsea,Portero,27,13,0,1,148896826
+597,Miguel Torres,Manchester City,Mediocampista,20,37,14,22,172098856
+598,Eduardo Hernandez,Real Madrid,Portero,28,10,0,2,129348396
+599,Fernando Hernandez,Chelsea,Portero,35,22,0,0,138512312
+600,Javier Ramirez,Chelsea,Mediocampista,34,32,10,10,34649212
+601,Miguel Flores,Barcelona,Defensa,19,19,3,9,171249328
+602,Miguel Ramirez,Arsenal,Defensa,37,23,3,4,21666016
+603,Javier Perez,Liverpool,Portero,37,24,0,3,181215237
+604,Miguel Lopez,Bayern Munich,Delantero,19,8,39,8,95953381
+605,Carlos Perez,Liverpool,Defensa,20,17,1,4,50520247
+606,Javier Diaz,PSG,Delantero,21,15,13,3,172862821
+607,Miguel Silva,Bayern Munich,Defensa,24,12,5,5,143745416
+608,Eduardo Lopez,Arsenal,Mediocampista,36,20,6,2,135876860
+609,Carlos Ramirez,Milan,Delantero,23,25,10,4,133789930
+610,Andres Flores,Arsenal,Portero,36,18,0,2,101060579
+611,Ricardo Diaz,Chelsea,Mediocampista,35,19,12,13,10655261
+612,Andres Flores,Barcelona,Mediocampista,33,26,10,25,112190278
+613,Carlos Flores,Real Madrid,Mediocampista,27,33,10,4,142627877
+614,Fernando Silva,Barcelona,Portero,38,7,0,1,88200083
+615,Andres Flores,Real Madrid,Delantero,32,29,20,19,66095067
+616,Eduardo Diaz,Manchester City,Defensa,22,36,1,2,163220717
+617,Juan Diaz,Barcelona,Mediocampista,24,15,13,22,82880895
+618,Eduardo Garcia,Bayern Munich,Mediocampista,25,35,7,2,102024615
+619,Andres Ramirez,Juventus,Mediocampista,19,26,10,6,3545922
+620,Fernando Garcia,Real Madrid,Portero,25,11,0,3,22380389
+621,Miguel Diaz,Real Madrid,Portero,18,33,0,3,86305915
+622,Eduardo Ruiz,PSG,Delantero,19,21,14,11,112613834
+623,Juan Ruiz,Barcelona,Defensa,37,30,4,3,188264981
+624,Andres Torres,Liverpool,Portero,31,9,0,2,38840322
+625,Carlos Ramirez,Chelsea,Defensa,36,21,6,0,169365670
+626,Carlos Ruiz,Real Madrid,Mediocampista,32,34,14,19,169343675
+627,Javier Hernandez,PSG,Delantero,30,29,1,1,51354931
+628,Luis Perez,Juventus,Mediocampista,25,8,2,3,63568661
+629,Luis Lopez,Bayern Munich,Portero,21,28,0,2,148131835
+630,Luis Ramirez,Barcelona,Defensa,36,5,5,10,178194426
+631,Miguel Hernandez,Chelsea,Delantero,27,22,16,20,79677119
+632,Miguel Lopez,Manchester City,Portero,20,13,0,2,190191032
+633,Diego Ruiz,Bayern Munich,Defensa,18,26,8,10,90393231
+634,Carlos Ruiz,PSG,Defensa,37,38,8,8,33919883
+635,Javier Silva,Bayern Munich,Mediocampista,28,11,7,7,58448939
+636,Carlos Ramirez,Real Madrid,Mediocampista,34,27,7,25,31953513
+637,Diego Garcia,Real Madrid,Mediocampista,28,14,12,9,105948099
+638,Eduardo Lopez,Arsenal,Defensa,22,37,3,6,164841916
+639,Juan Ramirez,Arsenal,Delantero,34,19,6,8,32340411
+640,Andres Torres,Real Madrid,Portero,21,27,0,0,199121817
+641,Andres Perez,Chelsea,Mediocampista,27,35,5,19,84398472
+642,Miguel Flores,Liverpool,Delantero,20,35,40,7,27606133
+643,Juan Lopez,Bayern Munich,Delantero,23,15,31,14,40077597
+644,Luis Flores,Juventus,Defensa,38,29,0,7,51052741
+645,Fernando Garcia,Real Madrid,Defensa,39,17,2,2,11993194
+646,Fernando Hernandez,Liverpool,Portero,40,21,0,1,145998773
+647,Fernando Ruiz,Bayern Munich,Portero,31,13,0,0,113428038
+648,Eduardo Diaz,Bayern Munich,Mediocampista,30,8,2,20,97173356
+649,Miguel Garcia,Chelsea,Mediocampista,33,5,12,12,114669368
+650,Miguel Perez,Manchester City,Portero,40,26,0,3,41474914
+651,Diego Ruiz,Arsenal,Delantero,28,10,11,19,147637789
+652,Miguel Hernandez,Arsenal,Defensa,35,9,1,7,157443610
+653,Diego Ramirez,Arsenal,Delantero,26,9,26,9,102818991
+654,Eduardo Flores,Bayern Munich,Defensa,37,33,0,10,85823124
+655,Fernando Ruiz,Real Madrid,Mediocampista,38,25,3,22,44054581
+656,Javier Diaz,PSG,Mediocampista,40,26,9,25,108433183
+657,Carlos Lopez,Real Madrid,Defensa,38,32,7,0,138586282
+658,Ricardo Garcia,Real Madrid,Defensa,20,32,0,9,48975094
+659,Javier Torres,Manchester City,Mediocampista,24,32,5,14,122112549
+660,Diego Ruiz,Milan,Mediocampista,35,9,10,12,157812984
+661,Fernando Diaz,Real Madrid,Delantero,31,29,33,3,143237407
+662,Eduardo Diaz,Chelsea,Portero,39,21,0,3,116872413
+663,Juan Ramirez,Milan,Defensa,37,33,8,2,132351917
+664,Diego Flores,Chelsea,Defensa,28,25,7,4,112011019
+665,Ricardo Perez,Milan,Mediocampista,40,13,1,5,60924262
+666,Luis Hernandez,Juventus,Portero,34,18,0,2,139117317
+667,Andres Perez,Liverpool,Mediocampista,35,35,2,18,14748275
+668,Andres Silva,Juventus,Delantero,33,33,2,20,64063753
+669,Fernando Ramirez,Arsenal,Delantero,36,19,6,13,46070209
+670,Diego Lopez,Chelsea,Delantero,30,19,6,10,33972168
+671,Ricardo Flores,Arsenal,Delantero,19,12,24,8,112907602
+672,Fernando Silva,Arsenal,Delantero,22,35,25,4,42874271
+673,Andres Silva,Barcelona,Mediocampista,37,11,13,20,84009554
+674,Juan Ruiz,Manchester City,Defensa,22,28,1,8,52671856
+675,Juan Diaz,Milan,Mediocampista,22,10,5,23,125628060
+676,Eduardo Torres,Liverpool,Delantero,29,19,35,1,20240777
+677,Ricardo Silva,Barcelona,Defensa,19,31,2,10,185427001
+678,Javier Hernandez,Real Madrid,Portero,30,28,0,3,193804597
+679,Luis Ruiz,Chelsea,Delantero,21,36,35,20,118285085
+680,Carlos Ruiz,Manchester City,Delantero,28,33,35,0,41137743
+681,Ricardo Perez,Chelsea,Mediocampista,22,21,9,17,1946090
+682,Andres Diaz,Juventus,Mediocampista,37,37,9,4,122847376
+683,Ricardo Silva,Barcelona,Mediocampista,38,13,0,3,108895457
+684,Miguel Ramirez,Real Madrid,Mediocampista,29,31,13,0,156782926
+685,Luis Torres,Liverpool,Defensa,39,15,6,2,177509182
+686,Miguel Hernandez,PSG,Delantero,37,20,25,17,14581246
+687,Andres Diaz,Milan,Mediocampista,26,6,5,17,95733884
+688,Fernando Torres,Barcelona,Defensa,37,11,6,0,25003193
+689,Carlos Lopez,Arsenal,Mediocampista,19,17,10,15,31715037
+690,Javier Ruiz,Chelsea,Mediocampista,25,7,6,23,64461971
+691,Diego Ruiz,Real Madrid,Mediocampista,23,35,3,1,131589128
+692,Fernando Flores,PSG,Portero,37,21,0,3,4930847
+693,Juan Torres,Real Madrid,Portero,26,21,0,2,132191857
+694,Miguel Lopez,Chelsea,Mediocampista,23,36,10,11,67052100
+695,Carlos Garcia,Manchester City,Portero,26,34,0,0,11328003
+696,Luis Hernandez,PSG,Portero,29,30,0,2,156008807
+697,Miguel Torres,Arsenal,Mediocampista,38,32,8,20,6301055
+698,Andres Garcia,Manchester City,Portero,32,14,0,0,197404074
+699,Andres Ramirez,Manchester City,Portero,36,12,0,3,113722240
+700,Luis Silva,Liverpool,Delantero,40,22,10,15,119937987
+701,Miguel Ramirez,Liverpool,Defensa,34,9,6,1,133254750
+702,Andres Flores,PSG,Portero,37,25,0,2,184118811
+703,Juan Diaz,Milan,Defensa,30,31,6,5,104465398
+704,Ricardo Torres,Real Madrid,Delantero,26,18,14,7,52288189
+705,Javier Perez,Liverpool,Portero,38,19,0,3,84044062
+706,Eduardo Perez,Manchester City,Portero,20,34,0,0,172710570
+707,Javier Flores,Arsenal,Delantero,23,26,38,5,128502463
+708,Andres Torres,Liverpool,Portero,20,33,0,3,128380531
+709,Andres Lopez,Milan,Portero,21,37,0,1,77556788
+710,Carlos Lopez,Liverpool,Defensa,29,18,7,4,111830681
+711,Miguel Torres,Milan,Portero,33,25,0,3,127302535
+712,Miguel Garcia,Bayern Munich,Delantero,28,27,34,6,176617665
+713,Javier Flores,Milan,Mediocampista,35,7,4,22,28533647
+714,Diego Flores,Chelsea,Delantero,34,28,2,12,75619074
+715,Ricardo Diaz,Milan,Defensa,18,30,4,1,169916054
+716,Miguel Lopez,Arsenal,Delantero,19,10,21,1,197718945
+717,Fernando Garcia,Arsenal,Mediocampista,29,6,0,7,32596208
+718,Ricardo Diaz,Bayern Munich,Defensa,26,7,5,1,62259145
+719,Miguel Ramirez,Real Madrid,Delantero,34,27,5,4,127308207
+720,Fernando Torres,Liverpool,Delantero,18,32,7,0,170516977
+721,Javier Silva,Real Madrid,Delantero,19,10,0,15,25871886
+722,Javier Torres,Milan,Mediocampista,19,29,13,6,121502245
+723,Eduardo Silva,Liverpool,Delantero,28,23,15,4,144192930
+724,Andres Torres,PSG,Mediocampista,32,23,0,7,26102216
+725,Carlos Ruiz,Liverpool,Defensa,36,21,6,9,113539442
+726,Eduardo Lopez,Chelsea,Delantero,31,15,5,4,133546194
+727,Carlos Ruiz,Real Madrid,Mediocampista,23,18,11,8,59506357
+728,Ricardo Garcia,Chelsea,Defensa,20,12,5,0,51406878
+729,Diego Perez,Barcelona,Portero,23,18,0,3,49355530
+730,Carlos Garcia,PSG,Defensa,28,11,5,1,196761006
+731,Juan Flores,Real Madrid,Mediocampista,23,12,2,12,52204961
+732,Eduardo Ramirez,Manchester City,Delantero,27,16,36,12,107560062
+733,Andres Silva,Manchester City,Delantero,38,32,40,1,8711375
+734,Juan Hernandez,Barcelona,Mediocampista,31,20,7,16,154396237
+735,Luis Hernandez,Real Madrid,Defensa,38,17,0,7,167567855
+736,Fernando Lopez,Milan,Portero,31,16,0,1,34743518
+737,Eduardo Ramirez,Chelsea,Defensa,39,7,2,3,164172907
+738,Fernando Ramirez,PSG,Delantero,21,32,37,2,55170229
+739,Carlos Garcia,Real Madrid,Delantero,39,30,36,7,149199660
+740,Fernando Silva,Barcelona,Mediocampista,21,30,1,2,45309374
+741,Miguel Ruiz,Real Madrid,Delantero,36,31,24,3,35666306
+742,Ricardo Garcia,Liverpool,Portero,34,9,0,2,177635154
+743,Andres Hernandez,Real Madrid,Delantero,36,8,12,18,183902200
+744,Luis Diaz,Juventus,Mediocampista,19,11,12,11,138199356
+745,Luis Garcia,Barcelona,Portero,33,5,0,0,127832644
+746,Juan Torres,PSG,Delantero,39,7,0,11,143489113
+747,Miguel Perez,Real Madrid,Delantero,24,38,5,3,26955913
+748,Eduardo Perez,Arsenal,Mediocampista,37,27,9,21,63659140
+749,Juan Silva,Chelsea,Portero,26,17,0,3,152273493
+750,Luis Torres,Real Madrid,Portero,38,29,0,3,68783220
+751,Miguel Ramirez,Milan,Delantero,28,20,36,12,24652749
+752,Luis Diaz,Juventus,Portero,25,21,0,1,151880783
+753,Juan Diaz,Bayern Munich,Mediocampista,24,32,7,2,143703809
+754,Eduardo Silva,Liverpool,Defensa,36,37,3,10,61103266
+755,Miguel Ruiz,Liverpool,Portero,36,38,0,3,79474500
+756,Carlos Perez,Liverpool,Delantero,34,32,40,17,83594040
+757,Ricardo Ruiz,Bayern Munich,Mediocampista,21,32,13,2,95957164
+758,Diego Garcia,Milan,Mediocampista,28,33,14,18,134425710
+759,Ricardo Garcia,Chelsea,Delantero,28,24,7,1,23890867
+760,Juan Perez,Arsenal,Defensa,19,21,6,3,94333901
+761,Miguel Ramirez,Liverpool,Mediocampista,20,15,0,3,116085434
+762,Diego Ruiz,Juventus,Delantero,38,17,18,18,93421160
+763,Ricardo Hernandez,Barcelona,Portero,38,13,0,1,154947458
+764,Fernando Silva,Barcelona,Portero,40,9,0,1,91923812
+765,Juan Ruiz,Liverpool,Defensa,24,20,5,3,115965185
+766,Carlos Ramirez,Chelsea,Mediocampista,31,8,7,3,4117908
+767,Miguel Ruiz,Juventus,Mediocampista,32,36,3,21,102997080
+768,Carlos Lopez,Chelsea,Mediocampista,23,28,10,5,24090418
+769,Ricardo Lopez,Liverpool,Delantero,26,22,31,18,99362959
+770,Ricardo Torres,PSG,Portero,20,9,0,1,54701153
+771,Juan Ramirez,Milan,Mediocampista,23,18,12,10,151760641
+772,Miguel Flores,Milan,Portero,26,35,0,0,128044534
+773,Eduardo Torres,Barcelona,Portero,25,8,0,0,141983192
+774,Ricardo Garcia,Barcelona,Delantero,33,31,9,19,11691152
+775,Ricardo Flores,Liverpool,Portero,29,34,0,1,15021674
+776,Luis Garcia,Liverpool,Mediocampista,22,25,8,9,37970303
+777,Javier Diaz,PSG,Portero,23,17,0,2,161787403
+778,Diego Perez,Real Madrid,Portero,23,27,0,3,127129515
+779,Javier Ruiz,Barcelona,Portero,35,12,0,2,174195324
+780,Fernando Silva,Arsenal,Defensa,26,35,7,6,198074895
+781,Andres Flores,Manchester City,Mediocampista,25,27,4,14,79139056
+782,Luis Diaz,Real Madrid,Delantero,40,24,21,1,176294735
+783,Diego Garcia,Liverpool,Delantero,26,19,16,11,184779674
+784,Miguel Ramirez,Bayern Munich,Mediocampista,36,30,13,14,110535776
+785,Andres Hernandez,Juventus,Defensa,26,5,6,5,16651195
+786,Miguel Ruiz,Juventus,Portero,27,19,0,2,177193665
+787,Andres Ruiz,Milan,Portero,32,18,0,2,68826344
+788,Miguel Lopez,Manchester City,Delantero,30,31,39,20,174734420
+789,Luis Flores,Barcelona,Mediocampista,27,26,6,10,136096057
+790,Luis Silva,Juventus,Portero,33,11,0,1,81333408
+791,Eduardo Hernandez,Real Madrid,Portero,23,15,0,0,43530041
+792,Eduardo Ruiz,Manchester City,Delantero,32,17,18,3,144945219
+793,Javier Ramirez,Bayern Munich,Mediocampista,19,25,12,20,149373365
+794,Luis Torres,Juventus,Mediocampista,21,16,0,0,80015278
+795,Fernando Lopez,PSG,Delantero,20,29,3,7,119635454
+796,Javier Hernandez,Barcelona,Portero,25,8,0,0,102988052
+797,Eduardo Perez,Bayern Munich,Mediocampista,31,17,15,13,5181286
+798,Diego Hernandez,Chelsea,Mediocampista,18,5,9,6,135962422
+799,Luis Perez,Arsenal,Defensa,23,14,2,2,14310569
+800,Carlos Perez,Milan,Defensa,22,24,8,6,53719783
+801,Eduardo Flores,Milan,Delantero,24,25,19,18,145995195
+802,Eduardo Flores,Liverpool,Mediocampista,36,15,13,16,62681039
+803,Eduardo Hernandez,Juventus,Mediocampista,27,21,10,20,98424610
+804,Fernando Garcia,Bayern Munich,Defensa,37,27,1,8,197280156
+805,Diego Ramirez,PSG,Mediocampista,21,12,4,23,42228189
+806,Eduardo Silva,Juventus,Delantero,35,32,33,12,31586033
+807,Fernando Diaz,Juventus,Mediocampista,20,26,2,9,24541717
+808,Miguel Torres,Real Madrid,Defensa,26,7,2,1,25385116
+809,Ricardo Diaz,Real Madrid,Delantero,25,6,38,19,72548042
+810,Fernando Garcia,Juventus,Mediocampista,20,11,2,16,128904410
+811,Miguel Ramirez,Milan,Mediocampista,30,14,13,10,128380083
+812,Javier Garcia,Juventus,Defensa,26,17,5,4,141645713
+813,Diego Ramirez,PSG,Portero,32,11,0,1,125452841
+814,Miguel Diaz,PSG,Defensa,25,16,3,10,188401417
+815,Andres Lopez,Real Madrid,Delantero,27,37,8,10,166582049
+816,Carlos Garcia,Bayern Munich,Mediocampista,26,15,5,17,42291911
+817,Miguel Flores,PSG,Portero,38,35,0,2,197690590
+818,Ricardo Flores,Manchester City,Mediocampista,35,23,1,16,112184554
+819,Javier Torres,Barcelona,Portero,28,37,0,0,128459392
+820,Luis Perez,Chelsea,Delantero,31,28,1,3,30159811
+821,Diego Flores,Barcelona,Mediocampista,20,19,11,18,89229563
+822,Luis Ramirez,Real Madrid,Portero,24,37,0,2,46248319
+823,Carlos Lopez,Manchester City,Portero,28,36,0,3,198449758
+824,Carlos Silva,Barcelona,Delantero,36,10,7,10,71452733
+825,Eduardo Lopez,Manchester City,Delantero,18,27,21,10,63110544
+826,Carlos Garcia,PSG,Portero,40,27,0,1,1367311
+827,Ricardo Torres,Arsenal,Delantero,21,32,26,19,175939478
+828,Juan Lopez,Manchester City,Mediocampista,20,6,5,12,57214229
+829,Diego Hernandez,Chelsea,Delantero,24,15,30,15,105505163
+830,Diego Diaz,Liverpool,Mediocampista,20,34,2,0,148192289
+831,Miguel Ramirez,Barcelona,Defensa,20,18,7,5,11149709
+832,Miguel Lopez,Liverpool,Portero,22,13,0,0,66098363
+833,Juan Silva,Arsenal,Delantero,33,6,26,7,52088356
+834,Miguel Perez,Barcelona,Portero,26,27,0,1,161173181
+835,Juan Silva,Bayern Munich,Portero,23,22,0,3,102935651
+836,Javier Hernandez,Liverpool,Portero,24,25,0,1,124928305
+837,Juan Hernandez,Real Madrid,Delantero,26,6,19,4,28062238
+838,Diego Diaz,Barcelona,Delantero,40,32,31,16,126687994
+839,Miguel Lopez,Manchester City,Mediocampista,22,32,7,12,18147956
+840,Javier Flores,Liverpool,Delantero,23,11,3,11,28813082
+841,Andres Silva,Manchester City,Delantero,20,38,33,1,181098236
+842,Andres Garcia,PSG,Defensa,22,26,7,9,108856265
+843,Ricardo Ramirez,Arsenal,Mediocampista,36,25,4,21,141953514
+844,Ricardo Ramirez,Bayern Munich,Delantero,37,31,37,18,97315552
+845,Juan Flores,Real Madrid,Mediocampista,28,28,6,24,135994145
+846,Javier Lopez,Milan,Portero,20,32,0,1,161741300
+847,Diego Diaz,Milan,Delantero,39,19,6,1,154151663
+848,Ricardo Perez,Milan,Mediocampista,28,6,3,13,59914704
+849,Luis Flores,Milan,Delantero,25,16,9,2,171203940
+850,Andres Silva,Arsenal,Portero,29,20,0,1,120166927
+851,Luis Flores,Milan,Mediocampista,34,9,6,8,25242781
+852,Ricardo Flores,PSG,Portero,21,25,0,0,75471481
+853,Eduardo Silva,Manchester City,Defensa,39,18,2,8,37264995
+854,Miguel Diaz,Bayern Munich,Mediocampista,25,22,0,13,76139902
+855,Luis Silva,Arsenal,Mediocampista,34,15,5,9,153778651
+856,Juan Ruiz,Manchester City,Mediocampista,36,37,0,15,69943450
+857,Carlos Perez,Juventus,Defensa,31,33,6,8,49650580
+858,Miguel Torres,PSG,Defensa,20,18,8,4,120878250
+859,Javier Garcia,Milan,Defensa,39,25,2,9,175868732
+860,Fernando Silva,Manchester City,Delantero,24,16,25,3,152454085
+861,Eduardo Lopez,Juventus,Defensa,35,8,3,2,162282770
+862,Luis Silva,Milan,Delantero,31,33,10,0,18574686
+863,Ricardo Torres,Chelsea,Mediocampista,35,12,0,0,72192518
+864,Luis Lopez,PSG,Delantero,19,21,7,6,95573034
+865,Miguel Perez,Bayern Munich,Delantero,27,38,3,12,163619924
+866,Carlos Silva,Real Madrid,Defensa,22,31,8,7,191290649
+867,Eduardo Ramirez,Liverpool,Portero,28,34,0,1,62345395
+868,Juan Hernandez,Juventus,Delantero,38,12,36,1,42767587
+869,Miguel Hernandez,Arsenal,Portero,28,19,0,1,128864911
+870,Eduardo Silva,Real Madrid,Portero,40,37,0,1,112097753
+871,Eduardo Lopez,Juventus,Portero,25,12,0,2,125644784
+872,Carlos Garcia,Bayern Munich,Portero,23,9,0,1,62860671
+873,Diego Perez,Chelsea,Mediocampista,21,28,8,16,48475768
+874,Diego Garcia,Arsenal,Mediocampista,26,34,7,15,34089857
+875,Fernando Ruiz,Barcelona,Delantero,34,38,15,19,33620231
+876,Diego Flores,Arsenal,Delantero,18,35,21,17,184184493
+877,Juan Lopez,Barcelona,Defensa,39,16,0,10,82355215
+878,Luis Lopez,Bayern Munich,Portero,29,28,0,3,4232901
+879,Diego Ramirez,Chelsea,Mediocampista,28,12,5,1,50637305
+880,Diego Diaz,Milan,Mediocampista,27,23,7,15,92113301
+881,Diego Perez,Juventus,Defensa,32,29,5,9,180191837
+882,Andres Ruiz,Manchester City,Delantero,30,13,37,14,35006124
+883,Fernando Lopez,Liverpool,Defensa,33,13,6,6,85243040
+884,Eduardo Ramirez,Liverpool,Portero,18,16,0,2,155257561
+885,Javier Silva,Chelsea,Portero,29,11,0,2,160910633
+886,Miguel Garcia,Barcelona,Defensa,32,6,8,1,30710010
+887,Carlos Silva,Barcelona,Mediocampista,24,13,12,9,44374350
+888,Luis Garcia,Real Madrid,Portero,25,30,0,0,186493080
+889,Andres Torres,Liverpool,Portero,35,16,0,2,61325378
+890,Eduardo Ruiz,PSG,Mediocampista,26,23,2,12,153703976
+891,Fernando Diaz,Chelsea,Mediocampista,22,28,0,10,122493525
+892,Eduardo Ramirez,Chelsea,Delantero,24,15,15,7,28275286
+893,Miguel Hernandez,Manchester City,Delantero,36,5,7,14,74092811
+894,Juan Lopez,Milan,Mediocampista,26,7,15,11,57586763
+895,Diego Hernandez,Bayern Munich,Portero,23,24,0,3,26927547
+896,Andres Hernandez,PSG,Portero,20,26,0,3,73350357
+897,Eduardo Ruiz,Arsenal,Defensa,19,14,0,3,179533105
+898,Fernando Garcia,PSG,Defensa,23,19,4,10,77716169
+899,Andres Perez,Bayern Munich,Defensa,33,21,3,0,199875336
+900,Ricardo Lopez,Bayern Munich,Portero,29,12,0,1,194557065
+901,Miguel Ramirez,Liverpool,Mediocampista,27,29,6,23,79458865
+902,Javier Flores,Real Madrid,Delantero,18,31,36,1,170993864
+903,Fernando Ruiz,Chelsea,Mediocampista,25,36,15,23,108746844
+904,Miguel Garcia,Bayern Munich,Delantero,20,14,34,16,143586626
+905,Diego Flores,Liverpool,Delantero,36,21,17,11,48793425
+906,Luis Perez,Chelsea,Mediocampista,33,7,10,10,45223088
+907,Fernando Lopez,Arsenal,Defensa,40,20,5,1,76749628
+908,Diego Flores,Manchester City,Portero,32,12,0,2,67762159
+909,Carlos Lopez,Liverpool,Delantero,29,11,30,0,60386406
+910,Ricardo Garcia,PSG,Portero,18,23,0,3,41848501
+911,Miguel Flores,Manchester City,Defensa,38,28,1,8,133860988
+912,Diego Flores,Barcelona,Delantero,36,15,33,8,49979985
+913,Carlos Hernandez,PSG,Portero,20,21,0,1,187685548
+914,Eduardo Silva,Arsenal,Portero,24,12,0,3,157205672
+915,Carlos Flores,Liverpool,Delantero,29,13,2,3,106105061
+916,Ricardo Perez,Liverpool,Mediocampista,37,12,9,20,150386225
+917,Juan Silva,Liverpool,Defensa,30,17,5,6,73906489
+918,Ricardo Lopez,Juventus,Defensa,27,36,1,0,113853150
+919,Diego Torres,Bayern Munich,Mediocampista,20,7,8,19,23916642
+920,Carlos Flores,Real Madrid,Portero,19,18,0,3,48328036
+921,Carlos Flores,Real Madrid,Mediocampista,29,36,15,17,79891068
+922,Diego Diaz,Manchester City,Delantero,40,20,12,9,56899222
+923,Miguel Lopez,Juventus,Defensa,38,10,8,7,43484252
+924,Diego Silva,Juventus,Mediocampista,20,6,2,18,194006459
+925,Javier Diaz,Liverpool,Mediocampista,22,31,10,13,177410477
+926,Javier Silva,Milan,Mediocampista,40,27,2,5,95683989
+927,Carlos Torres,Real Madrid,Portero,33,12,0,3,197705693
+928,Diego Lopez,PSG,Mediocampista,18,30,12,1,47756830
+929,Juan Flores,Real Madrid,Delantero,22,26,28,12,156919063
+930,Miguel Perez,Liverpool,Mediocampista,33,10,15,4,43289775
+931,Eduardo Silva,PSG,Portero,20,30,0,2,154274355
+932,Diego Torres,Real Madrid,Delantero,40,31,1,5,148901578
+933,Luis Hernandez,Arsenal,Defensa,26,35,0,7,157550910
+934,Eduardo Torres,Chelsea,Mediocampista,38,38,14,17,192036146
+935,Javier Silva,Milan,Portero,18,5,0,1,121284042
+936,Andres Ruiz,Barcelona,Portero,30,8,0,0,170785381
+937,Juan Torres,Bayern Munich,Portero,24,38,0,3,99117565
+938,Carlos Ramirez,PSG,Mediocampista,28,35,14,2,146587727
+939,Luis Ramirez,Real Madrid,Mediocampista,24,9,9,16,59260116
+940,Miguel Ruiz,PSG,Portero,29,16,0,2,141783818
+941,Miguel Ruiz,Bayern Munich,Mediocampista,25,25,8,4,59368592
+942,Eduardo Ramirez,Manchester City,Portero,39,9,0,2,129310153
+943,Diego Silva,Milan,Mediocampista,26,11,7,24,85402934
+944,Carlos Diaz,Milan,Mediocampista,33,32,11,23,105985348
+945,Eduardo Ruiz,Arsenal,Defensa,36,37,4,9,39003503
+946,Fernando Torres,Liverpool,Portero,31,27,0,0,128007912
+947,Eduardo Ruiz,Manchester City,Defensa,19,37,8,6,138760625
+948,Carlos Hernandez,Manchester City,Mediocampista,30,15,1,14,161379660
+949,Javier Garcia,Bayern Munich,Mediocampista,18,9,13,7,107463836
+950,Luis Ruiz,Milan,Defensa,28,37,1,7,28534656
+951,Fernando Lopez,Barcelona,Defensa,18,11,0,8,149333255
+952,Andres Diaz,Manchester City,Portero,31,30,0,3,13472910
+953,Diego Garcia,Milan,Delantero,34,8,13,13,172856250
+954,Andres Silva,Chelsea,Mediocampista,38,17,0,23,196263310
+955,Juan Torres,Liverpool,Portero,39,10,0,3,153558888
+956,Fernando Diaz,Arsenal,Defensa,18,26,3,9,78469659
+957,Andres Silva,Bayern Munich,Delantero,26,10,3,17,67918098
+958,Luis Silva,Liverpool,Defensa,37,19,3,10,118102587
+959,Carlos Hernandez,Liverpool,Portero,27,16,0,3,185095670
+960,Diego Diaz,Arsenal,Portero,18,38,0,0,153340156
+961,Luis Ramirez,Manchester City,Defensa,38,29,4,7,62884943
+962,Carlos Silva,Barcelona,Mediocampista,30,5,4,21,12058282
+963,Javier Diaz,Chelsea,Mediocampista,29,30,2,13,129356024
+964,Juan Perez,Chelsea,Delantero,29,10,35,6,193543678
+965,Carlos Lopez,Real Madrid,Delantero,37,29,11,2,165302041
+966,Diego Flores,Juventus,Mediocampista,23,21,13,9,70537374
+967,Juan Flores,PSG,Mediocampista,21,34,3,16,109791019
+968,Diego Lopez,PSG,Portero,19,13,0,0,113304622
+969,Eduardo Torres,Manchester City,Portero,35,8,0,3,77070981
+970,Eduardo Perez,Juventus,Mediocampista,21,11,4,21,144772736
+971,Ricardo Garcia,Manchester City,Mediocampista,27,29,7,13,52695450
+972,Luis Hernandez,Milan,Mediocampista,32,29,7,20,56396598
+973,Andres Lopez,Barcelona,Mediocampista,33,17,8,18,27266526
+974,Andres Silva,Barcelona,Mediocampista,30,33,8,4,41540976
+975,Miguel Perez,Juventus,Mediocampista,27,27,9,18,182601957
+976,Juan Ramirez,Real Madrid,Mediocampista,20,27,12,1,149021337
+977,Andres Torres,PSG,Portero,24,29,0,0,107071568
+978,Carlos Ramirez,PSG,Delantero,18,13,12,4,6029606
+979,Luis Ruiz,Juventus,Defensa,31,31,5,6,124598333
+980,Diego Ruiz,Milan,Delantero,23,14,36,13,136581255
+981,Ricardo Ruiz,Bayern Munich,Delantero,33,27,32,13,93009848
+982,Andres Ruiz,Chelsea,Portero,23,14,0,1,151654630
+983,Javier Flores,Liverpool,Defensa,40,18,7,5,42033778
+984,Ricardo Ramirez,Milan,Portero,18,18,0,1,192694536
+985,Fernando Lopez,PSG,Delantero,35,14,33,9,117515922
+986,Eduardo Hernandez,Manchester City,Portero,25,22,0,1,128233797
+987,Carlos Flores,Arsenal,Portero,28,30,0,1,69077819
+988,Miguel Ramirez,Arsenal,Defensa,19,6,0,6,108593393
+989,Ricardo Flores,Barcelona,Mediocampista,21,10,7,17,87481473
+990,Carlos Ruiz,Juventus,Delantero,22,26,23,15,126691154
+991,Ricardo Ramirez,Chelsea,Portero,39,29,0,3,40166384
+992,Diego Garcia,Real Madrid,Portero,40,9,0,2,47929478
+993,Luis Torres,Real Madrid,Defensa,33,14,0,8,139452729
+994,Javier Lopez,Manchester City,Mediocampista,28,14,15,14,103134048
+995,Javier Torres,Barcelona,Defensa,37,32,7,4,138712497
+996,Carlos Perez,Liverpool,Mediocampista,20,31,3,4,160408329
+997,Carlos Silva,PSG,Mediocampista,34,6,14,10,99549960
+998,Javier Garcia,Real Madrid,Defensa,34,36,2,6,1875754
+999,Luis Hernandez,Arsenal,Portero,19,31,0,2,87627541
+1000,Miguel Ruiz,Arsenal,Defensa,23,13,8,0,68794202
+1001,Juan Torres,Arsenal,Mediocampista,35,34,15,20,99202987
+1002,Juan Hernandez,PSG,Portero,33,25,0,1,73065768
+1003,Miguel Flores,Arsenal,Mediocampista,38,12,15,14,99210228
+1004,Carlos Perez,PSG,Mediocampista,38,31,7,10,88593314
+1005,Diego Ramirez,Arsenal,Defensa,27,16,1,3,131712254
+1006,Luis Torres,PSG,Mediocampista,22,26,9,22,41369879
+1007,Fernando Hernandez,PSG,Mediocampista,35,14,7,0,101369430
+1008,Andres Perez,Real Madrid,Portero,24,6,0,0,130790273
+1009,Ricardo Silva,PSG,Delantero,22,30,40,20,56370999
+1010,Ricardo Torres,Arsenal,Delantero,31,38,23,0,52195210
+1011,Andres Flores,Barcelona,Defensa,22,31,5,7,62982973
+1012,Luis Torres,Real Madrid,Portero,33,16,0,3,146674015
+1013,Juan Hernandez,Chelsea,Defensa,22,27,6,0,163871637
+1014,Diego Ramirez,PSG,Mediocampista,22,6,1,5,111123462
+1015,Luis Diaz,Bayern Munich,Portero,20,30,0,0,56419823
+1016,Diego Ruiz,Juventus,Portero,23,37,0,3,194553336
+1017,Miguel Diaz,PSG,Portero,37,16,0,2,173814289
+1018,Carlos Torres,PSG,Defensa,21,26,8,3,130573047
+1019,Miguel Torres,Liverpool,Portero,29,31,0,3,84558305
+1020,Diego Torres,Liverpool,Delantero,34,20,3,10,48701989
+1021,Ricardo Diaz,Barcelona,Delantero,27,19,14,1,38862449
+1022,Ricardo Diaz,Juventus,Delantero,25,27,10,7,144922072
+1023,Fernando Ruiz,Barcelona,Portero,28,14,0,2,107074864
+1024,Miguel Flores,Juventus,Delantero,24,38,21,15,61767584
+1025,Carlos Flores,Real Madrid,Portero,19,32,0,1,143145522
+1026,Andres Diaz,Juventus,Defensa,20,10,7,10,78520931
+1027,Fernando Torres,PSG,Delantero,22,34,39,15,69155836
+1028,Ricardo Silva,Chelsea,Defensa,34,36,0,0,155094758
+1029,Fernando Hernandez,Juventus,Portero,36,15,0,3,112069156
+1030,Luis Garcia,Chelsea,Delantero,32,15,14,14,153708705
+1031,Carlos Torres,Barcelona,Portero,28,10,0,3,162719109
+1032,Juan Perez,Manchester City,Defensa,27,35,2,7,126238593
+1033,Juan Silva,PSG,Mediocampista,32,15,15,16,135265158
+1034,Eduardo Hernandez,Liverpool,Portero,37,37,0,1,135836729
+1035,Ricardo Lopez,Chelsea,Delantero,27,15,6,4,137404465
+1036,Juan Garcia,Juventus,Portero,29,19,0,3,71879749
+1037,Javier Flores,Juventus,Mediocampista,35,35,8,18,161099203
+1038,Luis Lopez,Chelsea,Defensa,38,18,7,5,70352565
+1039,Luis Lopez,Juventus,Mediocampista,39,16,1,22,153879975
+1040,Javier Ramirez,Chelsea,Portero,37,22,0,0,34638314
+1041,Javier Silva,PSG,Defensa,27,27,0,3,4714316
+1042,Juan Lopez,Milan,Mediocampista,34,28,11,21,195160617
+1043,Fernando Lopez,Juventus,Defensa,39,11,1,6,25815784
+1044,Fernando Torres,Milan,Delantero,34,6,5,9,104420130
+1045,Fernando Hernandez,Real Madrid,Mediocampista,37,32,6,24,15297668
+1046,Carlos Diaz,Arsenal,Portero,19,18,0,1,132385543
+1047,Juan Ramirez,Juventus,Delantero,39,12,5,19,161127510
+1048,Diego Torres,Bayern Munich,Defensa,37,34,5,8,137435481
+1049,Juan Garcia,Chelsea,Delantero,32,37,33,7,192804017
+1050,Carlos Perez,Arsenal,Defensa,32,33,2,2,144495181
+1051,Javier Torres,Arsenal,Portero,19,28,0,1,182898522
+1052,Eduardo Silva,Juventus,Defensa,33,23,3,4,28531587
+1053,Juan Silva,Manchester City,Delantero,19,15,0,18,32412888
+1054,Fernando Ruiz,Manchester City,Defensa,28,29,2,7,94648121
+1055,Andres Silva,Juventus,Mediocampista,34,9,3,12,188659489
+1056,Andres Silva,Real Madrid,Portero,35,11,0,3,131941978
+1057,Andres Diaz,Arsenal,Portero,35,26,0,2,33385057
+1058,Andres Ramirez,Manchester City,Delantero,33,38,24,0,113208550
+1059,Javier Garcia,Real Madrid,Defensa,24,6,3,3,182311861
+1060,Diego Garcia,Juventus,Mediocampista,40,32,4,14,198172975
+1061,Andres Perez,Milan,Delantero,19,30,33,8,58136888
+1062,Andres Silva,Barcelona,Defensa,26,24,1,7,93927911
+1063,Andres Ramirez,Arsenal,Defensa,32,19,0,10,195287557
+1064,Andres Garcia,Liverpool,Portero,19,10,0,3,129935918
+1065,Luis Ramirez,Juventus,Portero,24,30,0,1,104036499
+1066,Fernando Hernandez,Liverpool,Portero,36,37,0,1,131870002
+1067,Miguel Hernandez,Barcelona,Mediocampista,30,27,8,0,3425244
+1068,Miguel Diaz,Real Madrid,Mediocampista,21,23,10,14,158402958
+1069,Luis Flores,Arsenal,Portero,32,29,0,2,125550241
+1070,Juan Flores,Barcelona,Mediocampista,38,32,14,3,53389704
+1071,Juan Silva,Chelsea,Delantero,25,21,21,5,33327434
+1072,Eduardo Hernandez,Milan,Mediocampista,29,7,1,10,31944037
+1073,Eduardo Garcia,Liverpool,Mediocampista,18,7,11,4,153727693
+1074,Carlos Lopez,Bayern Munich,Portero,29,21,0,3,128410921
+1075,Eduardo Hernandez,Bayern Munich,Defensa,24,20,0,10,33140148
+1076,Javier Hernandez,Juventus,Delantero,40,8,16,2,135018496
+1077,Miguel Lopez,Chelsea,Portero,24,30,0,2,134539403
+1078,Fernando Flores,Manchester City,Delantero,36,18,5,13,165847292
+1079,Juan Hernandez,PSG,Defensa,33,15,3,10,178757705
+1080,Luis Ruiz,PSG,Portero,20,38,0,3,104643125
+1081,Eduardo Flores,Chelsea,Defensa,36,9,2,2,6656062
+1082,Luis Diaz,PSG,Mediocampista,27,35,8,4,152890790
+1083,Juan Hernandez,Manchester City,Mediocampista,23,8,7,19,8246002
+1084,Diego Hernandez,Milan,Defensa,37,15,2,4,79768696
+1085,Eduardo Silva,PSG,Mediocampista,38,26,10,18,103116130
+1086,Andres Ramirez,Barcelona,Delantero,29,38,2,6,135781031
+1087,Andres Lopez,Chelsea,Mediocampista,24,31,12,19,97523356
+1088,Carlos Flores,Juventus,Defensa,37,29,4,8,58765116
+1089,Fernando Silva,PSG,Delantero,35,14,13,5,90539381
+1090,Fernando Flores,Chelsea,Mediocampista,36,17,10,0,182425488
+1091,Luis Ramirez,Real Madrid,Portero,31,30,0,3,15482093
+1092,Miguel Hernandez,Real Madrid,Delantero,31,9,28,18,49564780
+1093,Fernando Flores,Arsenal,Defensa,18,27,7,8,92082902
+1094,Diego Perez,Bayern Munich,Portero,35,23,0,1,117778637
+1095,Ricardo Lopez,Liverpool,Delantero,25,8,13,13,194498815
+1096,Eduardo Ramirez,Real Madrid,Portero,28,8,0,0,6634978
+1097,Luis Perez,Barcelona,Portero,25,33,0,1,64845761
+1098,Luis Hernandez,Bayern Munich,Mediocampista,19,21,7,15,57281221
+1099,Luis Ramirez,PSG,Mediocampista,32,17,8,19,37662139
+1100,Javier Perez,Real Madrid,Delantero,26,29,5,0,105543705
+1101,Miguel Perez,Milan,Portero,21,23,0,1,30799737
+1102,Carlos Hernandez,Chelsea,Delantero,33,7,31,4,120285882
+1103,Carlos Ruiz,Manchester City,Mediocampista,39,26,4,17,150069621
+1104,Andres Silva,PSG,Portero,18,9,0,3,163899483
+1105,Fernando Silva,Manchester City,Delantero,37,26,14,13,63877904
+1106,Juan Ruiz,Liverpool,Defensa,33,5,8,6,63459314
+1107,Andres Diaz,Bayern Munich,Mediocampista,39,15,6,6,148077245
+1108,Luis Flores,Bayern Munich,Mediocampista,19,18,13,25,169228018
+1109,Ricardo Silva,Real Madrid,Defensa,24,21,1,3,13838939
+1110,Andres Garcia,Manchester City,Defensa,18,26,8,1,96145362
+1111,Luis Ruiz,Bayern Munich,Delantero,19,36,26,9,133228698
+1112,Fernando Garcia,Liverpool,Mediocampista,27,22,15,20,181670878
+1113,Miguel Flores,Real Madrid,Delantero,18,30,29,10,76881590
+1114,Andres Torres,Chelsea,Defensa,28,28,8,7,49300306
+1115,Carlos Ruiz,PSG,Defensa,18,8,8,9,150623300
+1116,Fernando Hernandez,Juventus,Delantero,33,25,14,7,149193910
+1117,Luis Perez,PSG,Defensa,34,24,6,8,140103130
+1118,Eduardo Silva,Manchester City,Defensa,35,32,0,0,160485331
+1119,Miguel Perez,Manchester City,Defensa,26,18,8,0,106458896
+1120,Eduardo Silva,Chelsea,Mediocampista,28,27,14,16,137215323
+1121,Ricardo Lopez,Liverpool,Portero,21,12,0,2,80910195
+1122,Andres Perez,Milan,Mediocampista,30,13,13,0,44148946
+1123,Juan Hernandez,Liverpool,Defensa,20,33,2,3,193944259
+1124,Diego Perez,Juventus,Portero,39,27,0,1,38000190
+1125,Carlos Garcia,Juventus,Defensa,22,17,2,10,40364373
+1126,Diego Ruiz,Manchester City,Mediocampista,23,14,2,17,191574236
+1127,Carlos Garcia,PSG,Portero,33,23,0,0,170225265
+1128,Diego Perez,Arsenal,Defensa,34,31,7,4,104005193
+1129,Ricardo Torres,Real Madrid,Delantero,24,29,18,17,36440136
+1130,Carlos Torres,Barcelona,Portero,32,33,0,0,90348803
+1131,Eduardo Ramirez,Juventus,Mediocampista,40,37,11,1,27092512
+1132,Juan Diaz,PSG,Mediocampista,34,38,0,2,158405601
+1133,Andres Garcia,Real Madrid,Portero,21,30,0,3,131446368
+1134,Ricardo Lopez,Manchester City,Portero,18,35,0,2,137366641
+1135,Miguel Ruiz,Juventus,Delantero,36,15,21,18,3839169
+1136,Carlos Hernandez,Bayern Munich,Delantero,31,37,36,7,168157131
+1137,Ricardo Ramirez,Real Madrid,Defensa,32,13,5,4,24484268
+1138,Andres Hernandez,Real Madrid,Delantero,37,35,15,17,95799532
+1139,Diego Silva,Chelsea,Mediocampista,32,37,0,22,80191076
+1140,Luis Lopez,Manchester City,Mediocampista,38,24,4,7,74520579
+1141,Eduardo Perez,Manchester City,Portero,37,24,0,0,112994713
+1142,Fernando Ruiz,Bayern Munich,Delantero,27,35,30,5,45710489
+1143,Diego Lopez,Arsenal,Delantero,32,15,9,20,126567045
+1144,Ricardo Silva,Liverpool,Mediocampista,35,14,5,19,93168094
+1145,Miguel Ramirez,Juventus,Defensa,25,28,5,2,2485184
+1146,Luis Flores,Juventus,Defensa,36,8,5,5,9672010
+1147,Javier Silva,Barcelona,Delantero,31,11,9,16,46687596
+1148,Carlos Hernandez,Milan,Defensa,27,27,5,3,130718270
+1149,Carlos Lopez,Manchester City,Mediocampista,28,7,8,11,11802397
+1150,Eduardo Ramirez,Liverpool,Portero,18,12,0,0,184685941
+1151,Miguel Torres,Real Madrid,Mediocampista,34,34,5,5,175720071
+1152,Eduardo Hernandez,Barcelona,Defensa,19,35,5,6,5324053
+1153,Fernando Diaz,Arsenal,Defensa,39,18,6,9,5526877
+1154,Diego Torres,Barcelona,Delantero,40,24,3,10,141047553
+1155,Juan Ramirez,Milan,Delantero,34,9,15,15,198177793
+1156,Luis Diaz,Barcelona,Portero,29,23,0,2,132968292
+1157,Javier Ruiz,Arsenal,Mediocampista,28,21,12,12,91993385
+1158,Javier Torres,Real Madrid,Portero,32,16,0,0,41880751
+1159,Ricardo Hernandez,Milan,Defensa,38,34,6,0,55735980
+1160,Fernando Flores,Liverpool,Defensa,19,10,8,6,92791268
+1161,Andres Lopez,Bayern Munich,Portero,28,25,0,0,123447335
+1162,Eduardo Diaz,Manchester City,Portero,20,19,0,0,175676336
+1163,Fernando Lopez,PSG,Defensa,33,24,7,5,98449501
+1164,Miguel Ramirez,Manchester City,Defensa,40,27,3,7,15332490
+1165,Miguel Diaz,Barcelona,Mediocampista,40,32,0,9,155182024
+1166,Fernando Garcia,Real Madrid,Delantero,18,19,33,1,34882805
+1167,Eduardo Ruiz,PSG,Mediocampista,18,5,1,20,12596011
+1168,Javier Ruiz,Liverpool,Defensa,35,8,0,2,35549521
+1169,Carlos Ruiz,Milan,Mediocampista,29,26,11,18,26535092
+1170,Fernando Ramirez,Bayern Munich,Delantero,35,12,0,15,32698911
+1171,Juan Diaz,Chelsea,Mediocampista,28,13,14,24,128281548
+1172,Juan Ruiz,Chelsea,Delantero,28,14,22,5,137168299
+1173,Carlos Flores,Liverpool,Mediocampista,26,20,13,15,170569336
+1174,Ricardo Silva,PSG,Mediocampista,30,20,7,20,120366501
+1175,Juan Ruiz,Arsenal,Delantero,40,29,31,9,53793545
+1176,Luis Ruiz,Real Madrid,Portero,32,6,0,3,192716648
+1177,Fernando Silva,Manchester City,Mediocampista,24,13,12,11,181341301
+1178,Miguel Perez,Milan,Delantero,18,10,8,11,196551072
+1179,Eduardo Perez,PSG,Portero,23,26,0,0,149661037
+1180,Luis Diaz,Arsenal,Portero,32,15,0,3,119532279
+1181,Juan Ruiz,Chelsea,Portero,23,17,0,1,141452144
+1182,Ricardo Ruiz,Manchester City,Mediocampista,38,22,13,20,165600717
+1183,Fernando Torres,Chelsea,Portero,29,6,0,3,186374560
+1184,Luis Flores,Real Madrid,Delantero,29,20,30,1,9846826
+1185,Carlos Flores,Liverpool,Defensa,30,9,8,3,127937503
+1186,Fernando Perez,Manchester City,Portero,38,14,0,3,80603022
+1187,Carlos Diaz,PSG,Mediocampista,23,27,2,5,88041436
+1188,Ricardo Garcia,Liverpool,Delantero,36,15,10,7,194329836
+1189,Miguel Garcia,Arsenal,Portero,40,6,0,2,188567803
+1190,Diego Diaz,Milan,Delantero,34,10,32,0,45482792
+1191,Andres Ramirez,PSG,Portero,20,14,0,0,143180709
+1192,Juan Ramirez,Arsenal,Defensa,31,27,1,9,138711530
+1193,Diego Garcia,Barcelona,Defensa,28,30,7,2,135493234
+1194,Luis Silva,Juventus,Defensa,31,27,1,0,129226159
+1195,Eduardo Flores,Juventus,Delantero,22,32,6,14,2574067
+1196,Miguel Lopez,Manchester City,Portero,26,5,0,3,107358250
+1197,Diego Perez,Arsenal,Mediocampista,30,15,15,17,196666586
+1198,Miguel Ramirez,Milan,Defensa,36,8,5,0,27312232
+1199,Eduardo Torres,Real Madrid,Mediocampista,35,13,7,0,143045096
+1200,Carlos Ruiz,Manchester City,Delantero,29,5,36,4,187136032
+1201,Andres Garcia,Chelsea,Mediocampista,18,22,11,17,23713590
+1202,Carlos Garcia,Real Madrid,Portero,20,29,0,2,46181169
+1203,Fernando Hernandez,Bayern Munich,Portero,38,15,0,2,123658398
+1204,Fernando Lopez,Liverpool,Portero,32,23,0,1,50128864
+1205,Fernando Ruiz,Arsenal,Portero,34,21,0,0,185323502
+1206,Luis Silva,Real Madrid,Mediocampista,32,36,10,22,48847723
+1207,Javier Hernandez,PSG,Defensa,22,6,1,2,68055648
+1208,Eduardo Silva,Real Madrid,Mediocampista,20,12,7,0,19630306
+1209,Carlos Hernandez,Liverpool,Defensa,28,17,5,2,183736653
+1210,Andres Garcia,Arsenal,Mediocampista,39,5,1,16,116137685
+1211,Fernando Flores,Arsenal,Mediocampista,31,19,9,5,192754913
+1212,Eduardo Hernandez,Milan,Mediocampista,25,8,12,17,78096845
+1213,Miguel Torres,Chelsea,Mediocampista,35,38,3,23,39974596
+1214,Ricardo Silva,Bayern Munich,Delantero,31,18,27,16,82509456
+1215,Luis Ramirez,Arsenal,Mediocampista,24,32,9,9,115651957
+1216,Ricardo Flores,Barcelona,Delantero,39,29,32,3,92651918
+1217,Carlos Garcia,Arsenal,Portero,31,9,0,2,89160486
+1218,Javier Garcia,Barcelona,Defensa,38,38,4,2,71049242
+1219,Carlos Flores,Real Madrid,Mediocampista,30,21,11,19,147394434
+1220,Andres Ruiz,Chelsea,Portero,36,8,0,3,1093388
+1221,Miguel Lopez,Bayern Munich,Portero,24,26,0,3,27655654
+1222,Diego Silva,Liverpool,Delantero,22,14,4,20,164178726
+1223,Juan Perez,Barcelona,Defensa,28,18,4,1,67667716
+1224,Juan Ramirez,Bayern Munich,Defensa,30,14,4,2,100910924
+1225,Javier Torres,Juventus,Defensa,24,5,7,5,113995156
+1226,Carlos Diaz,Milan,Portero,36,25,0,3,128730307
+1227,Luis Ruiz,Chelsea,Defensa,27,17,6,0,162255975
+1228,Eduardo Garcia,Barcelona,Portero,19,23,0,1,14378124
+1229,Javier Flores,Real Madrid,Defensa,33,16,2,3,159679945
+1230,Javier Hernandez,Chelsea,Portero,34,20,0,0,52203922
+1231,Ricardo Flores,Bayern Munich,Mediocampista,39,7,12,1,2331122
+1232,Fernando Ramirez,Chelsea,Delantero,19,16,27,7,121551994
+1233,Diego Silva,Juventus,Defensa,35,8,7,8,110608835
+1234,Eduardo Garcia,Barcelona,Defensa,40,24,7,3,75505373
+1235,Ricardo Garcia,Liverpool,Mediocampista,27,24,13,25,78345794
+1236,Miguel Hernandez,Arsenal,Mediocampista,39,12,10,0,140284298
+1237,Eduardo Diaz,Barcelona,Portero,23,28,0,2,108990223
+1238,Javier Torres,Real Madrid,Defensa,32,37,3,8,7725969
+1239,Juan Ramirez,Juventus,Delantero,22,7,18,12,164729734
+1240,Juan Torres,Barcelona,Mediocampista,28,18,7,7,63638262
+1241,Carlos Silva,PSG,Portero,33,31,0,1,62649935
+1242,Fernando Ruiz,Barcelona,Mediocampista,34,30,5,8,166035627
+1243,Diego Ruiz,Barcelona,Defensa,30,38,5,5,124234657
+1244,Ricardo Lopez,Bayern Munich,Defensa,40,36,7,6,162016641
+1245,Juan Ruiz,Manchester City,Defensa,36,36,4,1,96799268
+1246,Miguel Silva,Juventus,Portero,21,20,0,3,54914481
+1247,Miguel Diaz,Milan,Delantero,32,21,27,15,124574584
+1248,Javier Silva,Chelsea,Mediocampista,39,18,3,10,199376995
+1249,Ricardo Torres,Arsenal,Mediocampista,19,24,11,8,71513999
+1250,Miguel Diaz,Milan,Mediocampista,19,14,3,1,198701096
+1251,Andres Torres,Juventus,Portero,19,15,0,2,149929627
+1252,Carlos Garcia,Bayern Munich,Delantero,23,33,38,12,90704011
+1253,Luis Torres,Manchester City,Mediocampista,28,37,5,8,15488278
+1254,Javier Perez,Chelsea,Defensa,22,18,4,8,137937850
+1255,Fernando Perez,Real Madrid,Defensa,22,9,1,8,77259578
+1256,Diego Flores,PSG,Delantero,29,12,2,18,140151916
+1257,Juan Hernandez,PSG,Portero,18,31,0,2,115397306
+1258,Fernando Ramirez,Arsenal,Mediocampista,28,22,15,18,12246467
+1259,Carlos Torres,Liverpool,Delantero,38,9,21,16,107782396
+1260,Javier Ramirez,Liverpool,Mediocampista,33,5,9,11,121191401
+1261,Andres Flores,Milan,Defensa,37,13,2,5,135749764
+1262,Andres Ruiz,PSG,Delantero,37,16,1,18,177164940
+1263,Diego Perez,Manchester City,Defensa,31,9,6,8,10306931
+1264,Javier Hernandez,PSG,Delantero,25,18,16,17,120190481
+1265,Eduardo Ruiz,Barcelona,Delantero,29,12,30,3,53888574
+1266,Eduardo Ramirez,Milan,Portero,33,19,0,3,118246796
+1267,Juan Ramirez,Liverpool,Mediocampista,31,25,0,6,83662292
+1268,Juan Lopez,Liverpool,Defensa,24,35,4,7,8918142
+1269,Eduardo Perez,PSG,Defensa,22,17,7,0,178071834
+1270,Luis Torres,Real Madrid,Defensa,18,8,3,5,138961303
+1271,Luis Lopez,Juventus,Defensa,34,27,7,1,150542554
+1272,Diego Silva,Juventus,Portero,33,33,0,2,181905508
+1273,Carlos Garcia,Barcelona,Portero,19,22,0,3,32923474
+1274,Carlos Silva,Liverpool,Defensa,31,37,2,1,167721106
+1275,Luis Diaz,Milan,Delantero,23,20,0,8,20245256
+1276,Carlos Garcia,Juventus,Defensa,40,24,1,6,18368549
+1277,Eduardo Ramirez,Juventus,Delantero,20,16,2,4,174585481
+1278,Javier Diaz,Arsenal,Mediocampista,23,9,2,22,20305150
+1279,Diego Garcia,Arsenal,Mediocampista,35,36,10,14,37213570
+1280,Ricardo Flores,PSG,Mediocampista,19,37,14,9,148761918
+1281,Andres Garcia,Real Madrid,Delantero,19,34,2,13,115939936
+1282,Eduardo Hernandez,Arsenal,Mediocampista,39,20,3,9,90940133
+1283,Luis Flores,Chelsea,Defensa,21,34,3,4,63872072
+1284,Carlos Ruiz,Barcelona,Mediocampista,32,6,15,19,81311547
+1285,Diego Flores,Juventus,Delantero,39,9,30,14,121735104
+1286,Luis Ruiz,Liverpool,Portero,33,18,0,2,105161930
+1287,Andres Garcia,Bayern Munich,Portero,35,22,0,0,28845063
+1288,Miguel Perez,Chelsea,Delantero,40,26,39,6,153216196
+1289,Diego Ruiz,Liverpool,Delantero,24,28,6,8,176321417
+1290,Luis Torres,Bayern Munich,Mediocampista,34,13,0,13,108606510
+1291,Fernando Diaz,Liverpool,Mediocampista,28,31,5,18,181583380
+1292,Juan Ruiz,Liverpool,Mediocampista,32,28,13,17,39555457
+1293,Eduardo Diaz,Liverpool,Delantero,38,8,8,3,30798716
+1294,Diego Torres,Bayern Munich,Portero,39,19,0,2,10877438
+1295,Diego Silva,Real Madrid,Defensa,25,38,3,10,171154514
+1296,Juan Ramirez,PSG,Portero,39,37,0,2,20207428
+1297,Miguel Silva,Real Madrid,Mediocampista,22,14,0,22,73667594
+1298,Eduardo Perez,Liverpool,Defensa,37,19,0,3,51279237
+1299,Juan Hernandez,PSG,Delantero,24,31,37,4,48268521
+1300,Miguel Diaz,Liverpool,Delantero,40,20,14,12,109715518
+1301,Juan Diaz,Manchester City,Delantero,40,18,18,15,196100341
+1302,Fernando Ruiz,Chelsea,Delantero,34,19,27,0,132287316
+1303,Javier Ramirez,Juventus,Mediocampista,36,29,1,23,18882776
+1304,Carlos Ramirez,Real Madrid,Delantero,37,22,20,13,105924413
+1305,Diego Flores,Barcelona,Defensa,28,17,4,0,90494510
+1306,Diego Garcia,Liverpool,Mediocampista,32,21,4,21,132901770
+1307,Javier Silva,Chelsea,Delantero,28,11,32,14,61203413
+1308,Juan Perez,Chelsea,Delantero,21,16,10,12,140697096
+1309,Ricardo Perez,Arsenal,Delantero,35,15,1,2,127632858
+1310,Javier Torres,Chelsea,Defensa,31,12,7,2,34634318
+1311,Fernando Torres,Liverpool,Portero,22,36,0,1,73709860
+1312,Javier Lopez,Juventus,Portero,29,7,0,2,197124970
+1313,Diego Ruiz,Chelsea,Portero,24,12,0,0,102260784
+1314,Fernando Lopez,Bayern Munich,Defensa,40,30,1,9,133343429
+1315,Carlos Silva,Bayern Munich,Mediocampista,19,37,15,2,8847827
+1316,Andres Perez,Milan,Mediocampista,31,34,4,2,49775165
+1317,Fernando Flores,Juventus,Defensa,39,29,7,10,17690369
+1318,Miguel Flores,Chelsea,Mediocampista,31,38,9,14,30996623
+1319,Ricardo Silva,Real Madrid,Delantero,23,19,8,0,92531874
+1320,Eduardo Diaz,Juventus,Portero,32,5,0,1,130764862
+1321,Carlos Torres,Arsenal,Mediocampista,23,21,7,7,89675313
+1322,Juan Perez,Manchester City,Defensa,39,32,5,9,17650130
+1323,Ricardo Silva,Liverpool,Defensa,32,28,5,6,162283409
+1324,Luis Perez,Bayern Munich,Delantero,18,32,33,20,185042360
+1325,Javier Torres,Chelsea,Delantero,23,29,27,3,61588282
+1326,Fernando Flores,Milan,Mediocampista,34,8,5,19,25275093
+1327,Javier Silva,Chelsea,Portero,30,21,0,3,61111431
+1328,Diego Torres,Manchester City,Mediocampista,39,17,12,12,76708280
+1329,Luis Perez,PSG,Defensa,18,9,0,4,73320332
+1330,Carlos Garcia,Real Madrid,Defensa,30,13,5,0,188896052
+1331,Javier Flores,Bayern Munich,Delantero,34,25,16,5,156248319
+1332,Luis Torres,Liverpool,Defensa,25,14,0,4,155779247
+1333,Carlos Torres,Barcelona,Delantero,20,28,4,0,62149471
+1334,Eduardo Diaz,Arsenal,Defensa,30,37,4,7,47277427
+1335,Andres Torres,Chelsea,Delantero,33,38,13,20,40038495
+1336,Andres Garcia,Liverpool,Portero,25,14,0,2,153974991
+1337,Andres Hernandez,Juventus,Defensa,38,27,4,9,156311001
+1338,Andres Lopez,Barcelona,Defensa,32,16,2,6,29439018
+1339,Miguel Ramirez,Chelsea,Delantero,23,27,9,14,58153759
+1340,Fernando Perez,Bayern Munich,Portero,18,12,0,1,84485211
+1341,Eduardo Torres,Real Madrid,Delantero,33,21,10,11,88126992
+1342,Eduardo Silva,Barcelona,Mediocampista,18,7,8,9,63016184
+1343,Fernando Silva,Barcelona,Portero,22,9,0,0,57108027
+1344,Juan Flores,Juventus,Defensa,25,10,0,7,136020491
+1345,Ricardo Torres,Bayern Munich,Mediocampista,38,32,11,6,73006568
+1346,Ricardo Flores,Milan,Delantero,30,15,31,9,189254482
+1347,Javier Silva,PSG,Portero,28,32,0,1,199179997
+1348,Ricardo Lopez,Manchester City,Mediocampista,27,9,6,2,113924408
+1349,Miguel Silva,Manchester City,Portero,22,7,0,2,179030192
+1350,Eduardo Ruiz,Milan,Defensa,19,9,5,1,25874387
+1351,Eduardo Ruiz,Chelsea,Portero,35,17,0,3,23346052
+1352,Fernando Diaz,Juventus,Mediocampista,23,23,2,10,186529097
+1353,Andres Ruiz,Juventus,Delantero,38,21,28,3,47482842
+1354,Miguel Perez,Bayern Munich,Portero,18,37,0,0,169557657
+1355,Ricardo Ramirez,Barcelona,Delantero,30,5,27,6,181161931
+1356,Carlos Perez,Juventus,Mediocampista,38,14,5,25,20439337
+1357,Luis Torres,Arsenal,Portero,34,6,0,1,131200452
+1358,Fernando Hernandez,Chelsea,Mediocampista,25,22,12,21,80993511
+1359,Miguel Torres,Real Madrid,Mediocampista,22,19,0,12,53592191
+1360,Miguel Diaz,Arsenal,Mediocampista,32,29,2,14,99611813
+1361,Juan Hernandez,Manchester City,Portero,29,35,0,1,28229619
+1362,Javier Hernandez,Chelsea,Defensa,31,16,2,3,153318219
+1363,Juan Diaz,Arsenal,Portero,23,38,0,2,71122429
+1364,Diego Torres,Chelsea,Delantero,40,6,18,16,15085031
+1365,Juan Lopez,Manchester City,Delantero,24,8,17,1,58978813
+1366,Juan Torres,Real Madrid,Mediocampista,35,28,8,16,132175486
+1367,Andres Lopez,Liverpool,Portero,32,16,0,0,8838907
+1368,Carlos Perez,Chelsea,Delantero,39,19,39,1,121756703
+1369,Miguel Silva,Real Madrid,Delantero,25,35,34,4,54572824
+1370,Diego Diaz,Juventus,Portero,37,36,0,2,179274626
+1371,Diego Ruiz,Real Madrid,Defensa,33,21,5,8,4009031
+1372,Carlos Diaz,Real Madrid,Defensa,38,14,5,6,143251654
+1373,Eduardo Garcia,Juventus,Portero,33,30,0,3,105977620
+1374,Miguel Silva,Manchester City,Defensa,36,18,4,2,48624839
+1375,Juan Ramirez,Juventus,Portero,25,9,0,3,144893324
+1376,Javier Lopez,Milan,Delantero,19,13,14,20,162145318
+1377,Diego Perez,Manchester City,Mediocampista,35,16,10,16,96681781
+1378,Ricardo Hernandez,Real Madrid,Defensa,23,34,2,5,178481400
+1379,Ricardo Hernandez,Juventus,Delantero,38,33,5,6,9127512
+1380,Andres Perez,Real Madrid,Mediocampista,23,27,12,16,155117295
+1381,Luis Lopez,Manchester City,Portero,23,30,0,0,140761275
+1382,Miguel Lopez,Real Madrid,Defensa,27,12,1,9,81956723
+1383,Diego Ruiz,PSG,Mediocampista,28,25,2,6,118649640
+1384,Diego Torres,PSG,Mediocampista,26,18,1,18,48230452
+1385,Andres Lopez,Juventus,Delantero,19,30,13,6,113205106
+1386,Miguel Ramirez,Manchester City,Delantero,37,10,25,18,68058291
+1387,Diego Hernandez,Barcelona,Portero,29,23,0,2,127032609
+1388,Fernando Hernandez,Manchester City,Delantero,26,28,14,14,28529895
+1389,Juan Diaz,Arsenal,Portero,33,29,0,3,181707635
+1390,Javier Perez,Barcelona,Mediocampista,32,31,3,19,103968959
+1391,Andres Perez,Manchester City,Delantero,39,22,17,1,23556463
+1392,Andres Hernandez,Barcelona,Mediocampista,27,18,8,10,87916018
+1393,Diego Torres,PSG,Defensa,22,13,3,10,88735232
+1394,Luis Hernandez,Bayern Munich,Mediocampista,20,14,3,20,125058045
+1395,Fernando Hernandez,Bayern Munich,Mediocampista,21,9,9,11,138074228
+1396,Ricardo Ruiz,Real Madrid,Defensa,25,11,6,8,34826394
+1397,Andres Diaz,Real Madrid,Mediocampista,25,21,7,2,193637023
+1398,Javier Ramirez,Arsenal,Portero,32,14,0,2,77361199
+1399,Carlos Diaz,Liverpool,Portero,29,21,0,1,153206483
+1400,Juan Garcia,Chelsea,Delantero,22,7,17,8,105617820
+1401,Andres Lopez,Bayern Munich,Mediocampista,19,21,8,20,127293898
+1402,Luis Lopez,Bayern Munich,Delantero,23,14,28,8,133046443
+1403,Ricardo Torres,PSG,Defensa,38,13,2,3,144936256
+1404,Luis Ruiz,Milan,Delantero,23,7,40,0,39547726
+1405,Diego Lopez,Chelsea,Mediocampista,21,35,3,8,120082596
+1406,Luis Ramirez,Arsenal,Delantero,25,37,6,0,180643797
+1407,Diego Flores,Bayern Munich,Delantero,24,38,8,15,117819357
+1408,Carlos Ruiz,Manchester City,Defensa,40,14,0,9,102622476
+1409,Fernando Torres,Juventus,Delantero,22,32,11,5,71397043
+1410,Diego Torres,Chelsea,Delantero,20,16,3,20,103011220
+1411,Diego Ruiz,PSG,Mediocampista,33,17,11,12,88517130
+1412,Miguel Silva,Barcelona,Defensa,36,31,0,7,147854628
+1413,Luis Lopez,PSG,Delantero,31,16,25,19,184877266
+1414,Andres Perez,PSG,Portero,37,7,0,2,47795792
+1415,Andres Ruiz,Bayern Munich,Defensa,18,20,4,4,66348774
+1416,Carlos Ramirez,Manchester City,Defensa,30,11,8,6,64097652
+1417,Eduardo Garcia,Chelsea,Portero,37,26,0,0,121644141
+1418,Eduardo Flores,Bayern Munich,Delantero,28,14,30,10,158894926
+1419,Fernando Ramirez,Bayern Munich,Delantero,39,17,38,6,64960640
+1420,Ricardo Lopez,PSG,Defensa,25,10,0,7,37859384
+1421,Javier Hernandez,PSG,Portero,24,32,0,3,144893219
+1422,Juan Ramirez,Manchester City,Delantero,32,26,8,0,181234125
+1423,Luis Hernandez,Milan,Mediocampista,21,22,10,9,151353905
+1424,Andres Perez,Chelsea,Mediocampista,20,15,12,1,55015261
+1425,Javier Flores,Barcelona,Mediocampista,24,9,0,1,104083128
+1426,Eduardo Lopez,PSG,Mediocampista,23,27,12,3,97375629
+1427,Luis Silva,Barcelona,Mediocampista,23,33,14,24,160912003
+1428,Fernando Ramirez,Arsenal,Mediocampista,37,10,1,3,126069854
+1429,Luis Diaz,PSG,Portero,31,25,0,0,178853549
+1430,Ricardo Silva,Manchester City,Defensa,22,37,1,5,47661369
+1431,Javier Diaz,Barcelona,Mediocampista,19,28,14,20,48719541
+1432,Miguel Flores,Manchester City,Delantero,27,14,25,12,121290977
+1433,Luis Flores,Barcelona,Defensa,29,34,6,8,69945034
+1434,Javier Silva,Real Madrid,Mediocampista,36,13,3,14,54190543
+1435,Miguel Flores,Juventus,Defensa,33,37,6,3,182052161
+1436,Javier Ruiz,Bayern Munich,Portero,39,29,0,1,9147692
+1437,Miguel Ruiz,Liverpool,Portero,38,11,0,3,163909765
+1438,Eduardo Ruiz,Manchester City,Defensa,21,18,8,3,36689373
+1439,Luis Torres,Barcelona,Portero,34,32,0,3,40291499
+1440,Eduardo Diaz,Manchester City,Defensa,24,10,3,6,182133379
+1441,Ricardo Perez,Liverpool,Delantero,35,33,38,13,90130137
+1442,Carlos Torres,Bayern Munich,Mediocampista,34,18,1,16,172964020
+1443,Eduardo Ruiz,Milan,Portero,38,6,0,3,79136221
+1444,Javier Diaz,Chelsea,Delantero,33,20,34,16,16954085
+1445,Luis Torres,Juventus,Defensa,32,18,8,9,115124526
+1446,Andres Torres,Manchester City,Delantero,27,5,29,15,117393801
+1447,Miguel Hernandez,Bayern Munich,Defensa,23,26,4,9,10441968
+1448,Luis Flores,Arsenal,Portero,39,37,0,3,57925611
+1449,Miguel Silva,Juventus,Mediocampista,24,29,13,13,37649001
+1450,Carlos Ramirez,Milan,Portero,26,28,0,1,52024258
+1451,Miguel Ruiz,Real Madrid,Delantero,35,35,16,1,90068300
+1452,Ricardo Ramirez,Chelsea,Defensa,25,23,0,5,83013110
+1453,Carlos Ramirez,Milan,Delantero,36,32,34,16,22799747
+1454,Ricardo Silva,Barcelona,Mediocampista,19,27,12,25,51155240
+1455,Eduardo Ramirez,Liverpool,Delantero,19,27,11,7,11490226
+1456,Eduardo Perez,Real Madrid,Defensa,18,24,5,6,56174680
+1457,Miguel Diaz,Manchester City,Delantero,19,30,10,6,44497221
+1458,Diego Ruiz,PSG,Portero,23,13,0,0,123554347
+1459,Luis Hernandez,Manchester City,Delantero,31,26,12,12,152538665
+1460,Andres Diaz,Bayern Munich,Mediocampista,24,5,14,6,133102348
+1461,Andres Garcia,Arsenal,Portero,19,32,0,2,22235020
+1462,Juan Perez,PSG,Mediocampista,29,6,9,1,11127306
+1463,Juan Diaz,Bayern Munich,Portero,34,10,0,2,196940746
+1464,Javier Ruiz,Liverpool,Mediocampista,37,27,7,3,101354888
+1465,Javier Silva,Chelsea,Portero,34,35,0,3,98610416
+1466,Miguel Ramirez,Barcelona,Defensa,24,19,4,3,169405898
+1467,Juan Hernandez,Manchester City,Defensa,25,9,5,10,55793083
+1468,Fernando Ramirez,Bayern Munich,Defensa,33,17,1,0,136142456
+1469,Luis Lopez,Chelsea,Defensa,37,6,3,5,55220257
+1470,Eduardo Flores,Bayern Munich,Delantero,35,32,17,5,167550527
+1471,Miguel Garcia,Manchester City,Portero,35,35,0,0,52889636
+1472,Juan Perez,Barcelona,Delantero,24,34,8,4,10512077
+1473,Eduardo Silva,Arsenal,Portero,23,5,0,2,193531342
+1474,Andres Ruiz,Real Madrid,Mediocampista,33,27,0,6,181480324
+1475,Luis Garcia,Chelsea,Mediocampista,23,21,6,20,169758149
+1476,Carlos Diaz,Chelsea,Mediocampista,32,32,8,18,105368347
+1477,Juan Hernandez,Arsenal,Defensa,30,14,4,6,133580990
+1478,Ricardo Diaz,Bayern Munich,Portero,21,18,0,3,81205343
+1479,Fernando Garcia,Barcelona,Delantero,25,38,3,15,81399155
+1480,Carlos Garcia,PSG,Delantero,25,14,27,3,70957687
+1481,Luis Silva,Juventus,Defensa,20,30,0,10,28684947
+1482,Luis Hernandez,Manchester City,Portero,22,11,0,3,176668750
+1483,Carlos Garcia,Liverpool,Delantero,38,35,7,7,94339585
+1484,Diego Ramirez,Arsenal,Defensa,18,25,5,4,9939963
+1485,Miguel Torres,Manchester City,Defensa,34,31,1,2,155390522
+1486,Carlos Silva,Bayern Munich,Delantero,26,32,36,11,68164744
+1487,Andres Hernandez,Manchester City,Portero,20,15,0,2,193660634
+1488,Fernando Flores,Barcelona,Portero,38,11,0,1,137836939
+1489,Luis Silva,Manchester City,Defensa,18,7,1,6,11793587
+1490,Andres Silva,Arsenal,Portero,19,17,0,3,141410645
+1491,Andres Garcia,Chelsea,Defensa,37,21,8,5,184172048
+1492,Miguel Silva,PSG,Defensa,36,33,4,10,183713937
+1493,Ricardo Perez,Manchester City,Delantero,27,19,13,11,145596408
+1494,Eduardo Silva,Barcelona,Mediocampista,33,35,3,3,97108527
+1495,Eduardo Ramirez,Manchester City,Portero,18,38,0,2,49368954
+1496,Javier Flores,PSG,Mediocampista,29,28,0,3,76394089
+1497,Fernando Ramirez,Milan,Defensa,25,35,5,6,29575553
+1498,Miguel Silva,Arsenal,Delantero,35,32,14,7,191558174
+1499,Luis Diaz,Manchester City,Delantero,40,13,34,0,65072224
+1500,Diego Perez,Bayern Munich,Defensa,23,26,8,6,191562668
+1501,Miguel Torres,Juventus,Delantero,25,24,33,1,18091339
+1502,Ricardo Ramirez,PSG,Portero,20,9,0,3,159504456
+1503,Miguel Torres,Milan,Portero,25,20,0,1,119303359
+1504,Javier Ramirez,Manchester City,Portero,27,10,0,1,4264827
+1505,Miguel Ramirez,Bayern Munich,Delantero,30,38,29,4,130686813
+1506,Juan Perez,Real Madrid,Delantero,32,15,20,8,121171150
+1507,Andres Silva,Juventus,Defensa,24,28,6,0,80359478
+1508,Miguel Hernandez,Barcelona,Defensa,25,30,1,5,16653631
+1509,Ricardo Lopez,PSG,Mediocampista,26,14,1,9,185071441
+1510,Eduardo Perez,Bayern Munich,Portero,26,7,0,1,180213795
+1511,Luis Lopez,Chelsea,Portero,37,38,0,2,187467346
+1512,Ricardo Silva,Juventus,Portero,21,14,0,2,124867349
+1513,Ricardo Silva,Barcelona,Mediocampista,20,21,7,18,5443085
+1514,Carlos Torres,PSG,Delantero,26,16,9,4,10146785
+1515,Eduardo Ruiz,PSG,Portero,32,20,0,1,83692697
+1516,Ricardo Torres,Manchester City,Defensa,23,37,0,7,38449911
+1517,Juan Diaz,Chelsea,Portero,18,30,0,2,60598735
+1518,Fernando Lopez,Arsenal,Delantero,29,18,2,4,159819464
+1519,Juan Ruiz,Milan,Portero,29,34,0,1,137455728
+1520,Andres Flores,PSG,Mediocampista,40,30,13,1,72035638
+1521,Juan Ramirez,Real Madrid,Mediocampista,21,19,10,9,195023279
+1522,Diego Perez,Bayern Munich,Mediocampista,33,7,8,23,56529379
+1523,Juan Ruiz,Real Madrid,Defensa,18,11,8,9,135466426
+1524,Fernando Flores,Barcelona,Defensa,19,9,5,6,56691014
+1525,Carlos Garcia,Real Madrid,Delantero,38,36,14,11,165187071
+1526,Javier Lopez,Milan,Portero,39,25,0,1,16993495
+1527,Diego Lopez,Arsenal,Mediocampista,38,32,10,9,153222330
+1528,Diego Lopez,Manchester City,Portero,39,6,0,0,132134661
+1529,Ricardo Ramirez,Bayern Munich,Defensa,32,29,8,0,154053435
+1530,Fernando Hernandez,Bayern Munich,Defensa,40,35,0,1,153555234
+1531,Andres Diaz,Liverpool,Mediocampista,23,25,12,4,47238043
+1532,Juan Garcia,Milan,Portero,37,23,0,1,161801914
+1533,Eduardo Hernandez,Arsenal,Defensa,19,38,4,1,158559162
+1534,Miguel Torres,Liverpool,Delantero,22,23,14,18,72077136
+1535,Andres Silva,Liverpool,Delantero,34,32,32,10,175852641
+1536,Miguel Diaz,Liverpool,Defensa,29,18,2,9,11485930
+1537,Miguel Perez,Arsenal,Mediocampista,21,29,11,11,15272319
+1538,Fernando Ruiz,Bayern Munich,Delantero,31,18,29,15,12641393
+1539,Andres Ruiz,Juventus,Mediocampista,25,24,8,16,117189273
+1540,Ricardo Ramirez,Barcelona,Portero,33,9,0,2,70610572
+1541,Eduardo Hernandez,Barcelona,Defensa,18,32,2,3,11409253
+1542,Juan Silva,Milan,Defensa,34,11,1,1,110657800
+1543,Andres Hernandez,Real Madrid,Defensa,36,25,4,10,141595533
+1544,Luis Flores,Arsenal,Defensa,26,24,7,6,11670159
+1545,Miguel Torres,Liverpool,Mediocampista,18,38,5,7,50691651
+1546,Ricardo Ramirez,Arsenal,Portero,23,7,0,0,123325271
+1547,Diego Flores,Liverpool,Portero,31,24,0,1,165518533
+1548,Diego Torres,Bayern Munich,Portero,21,10,0,1,179910780
+1549,Andres Ruiz,Bayern Munich,Delantero,27,24,25,17,7613189
+1550,Andres Torres,Real Madrid,Portero,34,26,0,3,78770782
+1551,Diego Flores,Barcelona,Portero,39,6,0,2,98179192
+1552,Eduardo Torres,Bayern Munich,Delantero,21,15,22,13,76706070
+1553,Andres Hernandez,Liverpool,Delantero,21,16,37,2,84729193
+1554,Juan Hernandez,Bayern Munich,Defensa,35,13,0,6,186925928
+1555,Andres Perez,Arsenal,Portero,38,31,0,0,183428130
+1556,Javier Garcia,Arsenal,Mediocampista,31,11,4,15,90549594
+1557,Carlos Flores,Chelsea,Mediocampista,20,14,8,4,24820164
+1558,Ricardo Hernandez,Barcelona,Delantero,23,14,19,15,115472720
+1559,Eduardo Diaz,Barcelona,Portero,30,30,0,2,94300339
+1560,Ricardo Flores,Juventus,Portero,30,23,0,1,2273504
+1561,Miguel Torres,Milan,Defensa,38,23,0,7,25555531
+1562,Miguel Ramirez,Liverpool,Defensa,33,11,2,9,122374822
+1563,Luis Perez,Bayern Munich,Portero,32,23,0,1,76946514
+1564,Diego Flores,Liverpool,Delantero,28,11,36,12,6230738
+1565,Andres Ramirez,Juventus,Mediocampista,33,7,4,10,56780403
+1566,Juan Perez,Real Madrid,Portero,26,7,0,2,108681468
+1567,Carlos Lopez,Bayern Munich,Portero,21,5,0,1,147013602
+1568,Diego Torres,Milan,Mediocampista,37,5,2,12,69456226
+1569,Diego Silva,PSG,Defensa,24,23,2,9,27862070
+1570,Ricardo Hernandez,PSG,Portero,38,24,0,2,177028320
+1571,Andres Flores,Real Madrid,Mediocampista,25,33,3,24,154116448
+1572,Eduardo Ruiz,Juventus,Delantero,19,26,24,8,189950536
+1573,Juan Ramirez,Barcelona,Delantero,28,16,40,0,124776376
+1574,Diego Silva,Barcelona,Defensa,20,11,5,3,56035538
+1575,Javier Hernandez,Milan,Portero,37,38,0,0,76759630
+1576,Fernando Lopez,Arsenal,Mediocampista,30,7,5,10,182052516
+1577,Luis Diaz,Juventus,Mediocampista,32,32,0,17,93384789
+1578,Carlos Garcia,Bayern Munich,Delantero,25,17,37,10,42250721
+1579,Ricardo Torres,Arsenal,Delantero,38,15,31,18,47468093
+1580,Luis Ruiz,PSG,Portero,21,38,0,1,25929628
+1581,Diego Ruiz,Real Madrid,Mediocampista,36,17,10,0,4992626
+1582,Fernando Torres,PSG,Defensa,36,8,7,8,126269021
+1583,Andres Garcia,Barcelona,Mediocampista,36,12,2,18,165213830
+1584,Miguel Hernandez,Juventus,Mediocampista,21,13,3,15,84040303
+1585,Miguel Garcia,PSG,Defensa,35,10,1,1,5856973
+1586,Miguel Ruiz,Real Madrid,Delantero,40,31,32,17,33889249
+1587,Diego Ramirez,Chelsea,Defensa,37,13,4,9,110308541
+1588,Eduardo Perez,Bayern Munich,Portero,30,29,0,1,95565633
+1589,Eduardo Lopez,Chelsea,Delantero,27,35,22,5,40938085
+1590,Luis Hernandez,Barcelona,Defensa,39,8,7,3,187703501
+1591,Juan Ruiz,PSG,Portero,31,20,0,1,57989420
+1592,Juan Lopez,Juventus,Portero,19,7,0,3,95217125
+1593,Juan Ruiz,Liverpool,Portero,18,18,0,3,36874668
+1594,Andres Silva,Juventus,Delantero,23,20,8,17,99479348
+1595,Ricardo Lopez,Liverpool,Portero,32,38,0,0,194455139
+1596,Fernando Ramirez,Juventus,Mediocampista,18,28,8,11,120895505
+1597,Carlos Flores,Juventus,Delantero,32,31,27,9,187400690
+1598,Diego Ramirez,Arsenal,Delantero,22,9,29,10,113987285
+1599,Ricardo Ramirez,Juventus,Mediocampista,19,15,11,10,195743135
+1600,Miguel Diaz,Milan,Delantero,35,36,14,8,79733289
+1601,Andres Torres,Milan,Delantero,35,27,11,1,2220739
+1602,Eduardo Torres,Juventus,Portero,38,14,0,3,95826083
+1603,Carlos Flores,Liverpool,Portero,27,12,0,1,163191705
+1604,Diego Ramirez,Liverpool,Delantero,36,37,31,1,110916301
+1605,Miguel Lopez,Juventus,Mediocampista,27,8,12,15,47564977
+1606,Juan Ramirez,Milan,Defensa,36,25,5,7,26031194
+1607,Eduardo Silva,Milan,Portero,36,14,0,2,194666391
+1608,Fernando Lopez,Milan,Portero,27,31,0,3,18051726
+1609,Javier Garcia,Juventus,Mediocampista,34,19,5,12,15629958
+1610,Juan Diaz,Liverpool,Defensa,36,35,1,2,152890803
+1611,Diego Hernandez,Bayern Munich,Portero,31,14,0,0,170464466
+1612,Luis Diaz,Bayern Munich,Portero,21,32,0,2,135083180
+1613,Diego Diaz,Liverpool,Delantero,38,5,18,9,93439786
+1614,Juan Diaz,PSG,Portero,34,38,0,3,114071752
+1615,Javier Silva,Real Madrid,Mediocampista,29,9,3,16,187804294
+1616,Diego Diaz,Bayern Munich,Mediocampista,35,32,10,25,165319839
+1617,Carlos Hernandez,Liverpool,Mediocampista,30,13,5,4,176753918
+1618,Andres Ramirez,Chelsea,Defensa,40,12,8,3,164040664
+1619,Luis Ruiz,Liverpool,Portero,29,14,0,0,18226597
+1620,Andres Perez,Real Madrid,Mediocampista,39,16,4,18,95760753
+1621,Miguel Diaz,Milan,Defensa,18,25,3,7,51238622
+1622,Fernando Lopez,Real Madrid,Delantero,39,38,24,9,163413339
+1623,Juan Flores,Real Madrid,Mediocampista,21,23,3,14,81766221
+1624,Ricardo Garcia,Manchester City,Defensa,40,27,2,5,100196585
+1625,Miguel Perez,Manchester City,Defensa,39,14,5,6,79864743
+1626,Eduardo Flores,Chelsea,Portero,22,33,0,2,5722195
+1627,Andres Flores,Chelsea,Mediocampista,35,8,14,25,92522826
+1628,Carlos Perez,Real Madrid,Defensa,25,33,7,6,65272214
+1629,Miguel Torres,Bayern Munich,Portero,39,6,0,0,36077983
+1630,Fernando Garcia,Real Madrid,Mediocampista,25,21,3,6,157628225
+1631,Eduardo Garcia,Juventus,Defensa,32,10,4,10,180814559
+1632,Andres Silva,Bayern Munich,Portero,32,34,0,0,181494546
+1633,Luis Garcia,Milan,Portero,29,37,0,3,134853179
+1634,Eduardo Flores,Milan,Portero,21,17,0,2,145441752
+1635,Juan Flores,Bayern Munich,Delantero,29,30,17,12,5452452
+1636,Eduardo Lopez,Liverpool,Mediocampista,23,6,15,19,6967977
+1637,Miguel Diaz,Juventus,Mediocampista,28,21,11,21,37382931
+1638,Miguel Ramirez,Milan,Portero,27,22,0,3,13952664
+1639,Fernando Flores,Barcelona,Mediocampista,31,35,10,15,191742642
+1640,Ricardo Ramirez,Juventus,Portero,29,9,0,1,177089653
+1641,Ricardo Silva,Juventus,Defensa,40,38,3,4,30650076
+1642,Carlos Lopez,Arsenal,Delantero,25,10,4,1,87133348
+1643,Eduardo Lopez,Juventus,Delantero,19,15,30,8,72553262
+1644,Luis Silva,Barcelona,Defensa,32,9,4,3,172515559
+1645,Juan Ramirez,Real Madrid,Mediocampista,24,28,0,0,195634251
+1646,Carlos Ruiz,Manchester City,Portero,24,20,0,3,56285520
+1647,Fernando Torres,Arsenal,Defensa,39,17,6,7,34267416
+1648,Andres Torres,Manchester City,Defensa,31,7,1,10,88237358
+1649,Luis Flores,Liverpool,Mediocampista,19,31,1,0,51634819
+1650,Fernando Lopez,Arsenal,Mediocampista,29,24,5,17,23399215
+1651,Javier Hernandez,Barcelona,Defensa,32,24,1,0,158494045
+1652,Diego Lopez,Bayern Munich,Portero,23,35,0,0,29452647
+1653,Diego Silva,Liverpool,Defensa,20,38,2,9,122540962
+1654,Fernando Torres,Manchester City,Mediocampista,38,31,1,2,72502597
+1655,Juan Torres,Real Madrid,Mediocampista,33,15,12,25,33451204
+1656,Andres Lopez,Manchester City,Portero,26,19,0,1,65448847
+1657,Andres Silva,Manchester City,Mediocampista,38,31,12,15,101565238
+1658,Eduardo Perez,Bayern Munich,Delantero,31,13,39,12,149276995
+1659,Carlos Ramirez,Juventus,Portero,29,33,0,0,163247808
+1660,Javier Hernandez,Liverpool,Mediocampista,29,10,1,6,114681277
+1661,Fernando Lopez,Real Madrid,Mediocampista,37,38,1,2,10081274
+1662,Andres Lopez,Arsenal,Delantero,39,29,7,19,183807358
+1663,Juan Lopez,Manchester City,Defensa,30,26,2,7,196681327
+1664,Diego Ruiz,Manchester City,Portero,24,20,0,1,52483455
+1665,Juan Lopez,Liverpool,Defensa,29,18,3,5,16812487
+1666,Fernando Flores,Manchester City,Delantero,37,23,5,3,159178230
+1667,Andres Hernandez,Milan,Portero,38,13,0,2,134960693
+1668,Fernando Lopez,Chelsea,Mediocampista,38,37,0,14,29196943
+1669,Eduardo Flores,PSG,Portero,25,24,0,2,48474838
+1670,Luis Diaz,Arsenal,Portero,32,32,0,2,183447237
+1671,Ricardo Diaz,Liverpool,Defensa,21,25,0,10,181561471
+1672,Javier Flores,Milan,Delantero,36,31,34,5,85440403
+1673,Javier Hernandez,Manchester City,Portero,39,24,0,0,179609878
+1674,Ricardo Hernandez,Barcelona,Defensa,40,13,1,3,106421606
+1675,Luis Torres,Real Madrid,Portero,23,37,0,0,88029327
+1676,Andres Torres,PSG,Defensa,19,30,3,0,156989147
+1677,Miguel Torres,Manchester City,Mediocampista,36,14,7,20,33220209
+1678,Fernando Lopez,Manchester City,Defensa,21,13,2,5,153708557
+1679,Javier Diaz,Barcelona,Defensa,21,22,4,0,13836664
+1680,Diego Hernandez,Bayern Munich,Delantero,19,15,3,6,86164102
+1681,Javier Silva,Real Madrid,Delantero,26,20,30,0,169632753
+1682,Miguel Ramirez,Liverpool,Mediocampista,38,32,15,9,142994710
+1683,Diego Garcia,Milan,Defensa,33,13,3,7,27319394
+1684,Andres Garcia,Juventus,Delantero,33,29,33,16,122046792
+1685,Javier Silva,PSG,Mediocampista,35,19,2,15,162751557
+1686,Luis Garcia,Chelsea,Delantero,30,12,26,10,32168240
+1687,Javier Perez,Chelsea,Mediocampista,38,16,1,0,199636610
+1688,Luis Lopez,Manchester City,Defensa,22,20,8,0,92885075
+1689,Fernando Ramirez,Bayern Munich,Mediocampista,31,7,5,22,35317043
+1690,Juan Flores,Bayern Munich,Defensa,40,17,4,9,144532865
+1691,Diego Flores,Manchester City,Portero,31,12,0,0,143752178
+1692,Juan Diaz,Juventus,Portero,33,9,0,1,94398167
+1693,Ricardo Ruiz,Barcelona,Portero,21,7,0,2,194656092
+1694,Juan Silva,PSG,Defensa,25,24,8,7,1630398
+1695,Eduardo Torres,Arsenal,Portero,38,29,0,3,86893682
+1696,Diego Ramirez,Bayern Munich,Delantero,25,5,0,16,56215231
+1697,Eduardo Lopez,PSG,Portero,30,20,0,0,38042512
+1698,Javier Flores,Arsenal,Delantero,40,16,16,13,1270083
+1699,Fernando Flores,Juventus,Mediocampista,25,32,8,20,144100629
+1700,Luis Perez,Liverpool,Portero,40,38,0,3,94656714
+1701,Miguel Diaz,Manchester City,Defensa,38,8,6,1,13410426
+1702,Fernando Ramirez,PSG,Defensa,33,32,1,9,131500737
+1703,Fernando Ramirez,PSG,Portero,32,34,0,1,126650844
+1704,Miguel Flores,PSG,Mediocampista,23,8,8,18,161652982
+1705,Diego Torres,Chelsea,Defensa,27,10,6,4,50831199
+1706,Ricardo Diaz,Bayern Munich,Portero,29,18,0,2,190023803
+1707,Ricardo Flores,Barcelona,Mediocampista,38,35,6,11,97204104
+1708,Andres Hernandez,PSG,Portero,35,18,0,0,45063446
+1709,Luis Torres,Juventus,Portero,26,20,0,1,86866826
+1710,Carlos Perez,Real Madrid,Defensa,40,18,5,5,70452156
+1711,Juan Garcia,Real Madrid,Mediocampista,29,10,13,14,123141256
+1712,Diego Ramirez,Barcelona,Defensa,38,16,2,1,124644731
+1713,Carlos Flores,Arsenal,Mediocampista,22,28,9,3,161491008
+1714,Ricardo Silva,Chelsea,Mediocampista,25,37,14,18,14840920
+1715,Andres Flores,Arsenal,Portero,36,23,0,1,180010046
+1716,Miguel Ramirez,Manchester City,Delantero,36,37,4,13,38869524
+1717,Ricardo Ramirez,PSG,Delantero,24,15,22,13,106679674
+1718,Eduardo Ruiz,Juventus,Delantero,40,24,38,1,69954760
+1719,Javier Torres,Manchester City,Delantero,32,33,17,7,197947999
+1720,Ricardo Torres,Barcelona,Defensa,30,30,4,5,155917284
+1721,Luis Ramirez,Arsenal,Portero,40,22,0,3,116109463
+1722,Eduardo Flores,Real Madrid,Delantero,29,29,28,6,21810651
+1723,Eduardo Ruiz,Milan,Delantero,26,27,26,0,56748922
+1724,Javier Garcia,Milan,Mediocampista,31,20,15,4,60433632
+1725,Luis Garcia,PSG,Delantero,23,17,14,9,141083465
+1726,Eduardo Garcia,PSG,Portero,39,32,0,0,39812367
+1727,Ricardo Lopez,PSG,Defensa,22,36,1,3,135608609
+1728,Fernando Diaz,Chelsea,Portero,35,20,0,0,143307479
+1729,Fernando Lopez,Liverpool,Portero,27,35,0,3,108988722
+1730,Diego Flores,Juventus,Mediocampista,22,35,2,17,170296949
+1731,Fernando Garcia,Chelsea,Mediocampista,34,19,3,2,163782798
+1732,Javier Ruiz,Manchester City,Defensa,18,33,5,9,8291235
+1733,Carlos Perez,Liverpool,Portero,25,17,0,3,18195590
+1734,Fernando Ramirez,Liverpool,Portero,32,11,0,1,58150927
+1735,Eduardo Ramirez,Arsenal,Portero,29,18,0,1,135938787
+1736,Diego Garcia,Juventus,Portero,27,22,0,3,63346820
+1737,Miguel Ramirez,Barcelona,Portero,19,14,0,3,111357962
+1738,Fernando Ramirez,PSG,Portero,30,18,0,0,114099390
+1739,Miguel Perez,Milan,Delantero,20,22,28,18,155603973
+1740,Luis Flores,Arsenal,Delantero,39,8,3,16,109503787
+1741,Carlos Ramirez,Arsenal,Defensa,20,24,4,3,31942777
+1742,Miguel Diaz,PSG,Mediocampista,26,27,8,6,34516605
+1743,Ricardo Perez,Barcelona,Defensa,31,16,6,8,175518585
+1744,Eduardo Flores,Barcelona,Delantero,25,11,34,20,134914335
+1745,Ricardo Perez,Liverpool,Delantero,33,29,11,15,49137053
+1746,Javier Torres,Manchester City,Delantero,36,12,23,9,113068860
+1747,Eduardo Hernandez,Juventus,Delantero,25,30,33,5,107879595
+1748,Carlos Ruiz,PSG,Mediocampista,25,15,11,11,51090233
+1749,Javier Hernandez,Chelsea,Delantero,28,23,17,6,31549768
+1750,Javier Perez,PSG,Mediocampista,39,34,14,20,154931454
+1751,Diego Lopez,PSG,Portero,30,12,0,0,130122462
+1752,Miguel Ruiz,Bayern Munich,Defensa,37,19,4,1,146864427
+1753,Miguel Diaz,Bayern Munich,Mediocampista,32,38,14,9,55440730
+1754,Eduardo Hernandez,Liverpool,Delantero,38,30,21,14,86103153
+1755,Juan Perez,Manchester City,Defensa,22,35,4,1,170101842
+1756,Ricardo Torres,Manchester City,Defensa,34,18,1,6,146261614
+1757,Fernando Garcia,Arsenal,Mediocampista,29,25,5,15,1504562
+1758,Miguel Hernandez,Juventus,Defensa,40,6,7,1,119542713
+1759,Andres Diaz,Bayern Munich,Defensa,35,25,1,8,86579495
+1760,Diego Ruiz,Juventus,Portero,40,6,0,1,73671521
+1761,Diego Lopez,Milan,Defensa,25,19,8,4,85106486
+1762,Andres Lopez,Arsenal,Portero,31,30,0,3,121375425
+1763,Juan Flores,Juventus,Portero,37,25,0,1,27911768
+1764,Miguel Garcia,Juventus,Defensa,31,13,0,7,34234392
+1765,Carlos Perez,Real Madrid,Delantero,38,36,40,17,131920953
+1766,Juan Perez,Real Madrid,Delantero,31,11,40,17,7388717
+1767,Ricardo Ramirez,Manchester City,Delantero,31,27,13,13,183880518
+1768,Diego Hernandez,Juventus,Defensa,19,12,1,0,47224966
+1769,Diego Torres,Real Madrid,Delantero,30,19,19,0,45283846
+1770,Fernando Torres,Real Madrid,Mediocampista,20,13,0,19,184364657
+1771,Fernando Diaz,Bayern Munich,Mediocampista,21,35,15,2,54577759
+1772,Andres Lopez,Manchester City,Portero,25,20,0,3,137491924
+1773,Juan Hernandez,Arsenal,Portero,19,23,0,0,112401106
+1774,Javier Ramirez,PSG,Defensa,23,20,8,7,183074055
+1775,Miguel Silva,Chelsea,Portero,27,37,0,1,127929396
+1776,Andres Torres,Arsenal,Portero,19,16,0,3,140904687
+1777,Andres Perez,Chelsea,Defensa,32,14,6,2,64912469
+1778,Ricardo Torres,Chelsea,Mediocampista,22,20,0,7,14807061
+1779,Eduardo Hernandez,Milan,Mediocampista,39,7,14,4,146483489
+1780,Juan Hernandez,Milan,Portero,39,14,0,1,6683373
+1781,Ricardo Perez,Manchester City,Delantero,27,16,5,13,56181190
+1782,Javier Torres,Milan,Defensa,40,29,3,0,156556554
+1783,Luis Garcia,Arsenal,Delantero,21,11,11,6,139789325
+1784,Carlos Flores,PSG,Defensa,30,10,2,8,17310015
+1785,Diego Garcia,Arsenal,Defensa,31,13,6,8,158178806
+1786,Ricardo Lopez,PSG,Mediocampista,25,24,0,0,192815338
+1787,Luis Flores,PSG,Mediocampista,25,7,7,20,28844697
+1788,Javier Garcia,Arsenal,Portero,24,13,0,1,115884506
+1789,Diego Hernandez,Bayern Munich,Defensa,30,13,8,9,117671291
+1790,Diego Ruiz,Barcelona,Mediocampista,36,28,12,13,181858123
+1791,Carlos Diaz,Milan,Delantero,28,9,39,4,37921839
+1792,Eduardo Ramirez,Manchester City,Mediocampista,38,36,2,8,197988305
+1793,Ricardo Hernandez,PSG,Delantero,32,23,10,20,103493694
+1794,Javier Ruiz,Liverpool,Portero,38,38,0,3,79666368
+1795,Miguel Hernandez,Manchester City,Portero,26,30,0,2,85638551
+1796,Juan Ruiz,Bayern Munich,Portero,30,12,0,0,194629302
+1797,Eduardo Ruiz,Liverpool,Delantero,32,19,39,2,172177933
+1798,Carlos Garcia,Juventus,Defensa,35,12,7,7,83144886
+1799,Juan Silva,Milan,Delantero,31,30,23,20,194098408
+1800,Ricardo Flores,Chelsea,Mediocampista,24,14,4,21,195533950
+1801,Luis Flores,PSG,Defensa,31,35,4,4,28898246
+1802,Ricardo Diaz,Manchester City,Defensa,25,20,4,6,15602409
+1803,Carlos Diaz,Manchester City,Defensa,37,32,2,10,161495310
+1804,Javier Torres,PSG,Delantero,32,32,39,9,109455711
+1805,Miguel Garcia,Barcelona,Defensa,39,9,5,8,141465028
+1806,Andres Diaz,Barcelona,Mediocampista,18,8,14,0,198768321
+1807,Juan Ruiz,Barcelona,Portero,21,14,0,0,33068539
+1808,Ricardo Silva,Barcelona,Mediocampista,27,25,0,0,92269041
+1809,Ricardo Perez,Milan,Delantero,19,5,12,16,179459469
+1810,Eduardo Perez,PSG,Portero,19,32,0,2,84686046
+1811,Eduardo Ramirez,Juventus,Mediocampista,26,15,15,24,85228189
+1812,Andres Lopez,Chelsea,Portero,22,35,0,2,116980065
+1813,Miguel Flores,Barcelona,Defensa,32,33,5,1,101866592
+1814,Ricardo Torres,Barcelona,Delantero,36,16,34,3,123187565
+1815,Fernando Torres,Milan,Defensa,23,27,4,5,52790352
+1816,Luis Ruiz,Arsenal,Delantero,25,12,0,15,25088530
+1817,Carlos Garcia,Liverpool,Delantero,35,29,18,17,194686214
+1818,Miguel Lopez,Real Madrid,Portero,23,6,0,3,159427338
+1819,Juan Flores,Manchester City,Portero,31,11,0,3,34229413
+1820,Eduardo Perez,Juventus,Delantero,39,15,31,14,5399069
+1821,Miguel Lopez,Chelsea,Defensa,21,14,4,9,91241113
+1822,Eduardo Garcia,Liverpool,Mediocampista,38,20,9,6,56632559
+1823,Juan Torres,Bayern Munich,Defensa,25,31,1,8,178627875
+1824,Diego Lopez,Manchester City,Defensa,31,37,3,1,152153256
+1825,Carlos Perez,Chelsea,Delantero,18,26,11,19,42043005
+1826,Ricardo Flores,Arsenal,Defensa,18,24,2,9,142926733
+1827,Andres Flores,Liverpool,Defensa,40,29,4,4,87954527
+1828,Andres Ruiz,Bayern Munich,Defensa,34,25,1,2,167947570
+1829,Carlos Perez,Barcelona,Defensa,39,11,1,0,83400186
+1830,Carlos Garcia,Juventus,Defensa,26,23,1,0,187127571
+1831,Diego Ruiz,PSG,Defensa,40,31,2,4,194774285
+1832,Carlos Hernandez,Juventus,Portero,37,27,0,2,28428455
+1833,Eduardo Garcia,Bayern Munich,Defensa,21,5,8,6,99803353
+1834,Carlos Lopez,Milan,Defensa,38,20,5,0,56141983
+1835,Fernando Torres,Real Madrid,Delantero,38,29,18,7,161546567
+1836,Eduardo Lopez,Manchester City,Mediocampista,20,29,11,20,5540173
+1837,Luis Torres,Barcelona,Mediocampista,30,37,12,0,184134555
+1838,Eduardo Garcia,Juventus,Delantero,36,34,12,2,120981616
+1839,Juan Hernandez,Barcelona,Defensa,32,26,1,2,152092361
+1840,Ricardo Ramirez,Arsenal,Delantero,29,28,7,15,168922423
+1841,Andres Diaz,Barcelona,Portero,35,28,0,1,63348613
+1842,Diego Silva,Liverpool,Portero,19,34,0,1,73630049
+1843,Juan Perez,PSG,Portero,20,22,0,3,13121468
+1844,Eduardo Perez,Juventus,Portero,37,24,0,3,179309461
+1845,Carlos Perez,Juventus,Portero,26,26,0,0,171088991
+1846,Luis Perez,Barcelona,Delantero,28,35,4,16,162877307
+1847,Miguel Ramirez,PSG,Portero,25,9,0,2,76518671
+1848,Juan Lopez,Liverpool,Defensa,23,27,7,4,170727708
+1849,Luis Ruiz,Juventus,Mediocampista,19,14,12,1,162154143
+1850,Andres Silva,Liverpool,Defensa,34,15,5,4,188494892
+1851,Javier Flores,PSG,Delantero,29,32,23,7,127553427
+1852,Fernando Silva,Bayern Munich,Mediocampista,34,18,10,25,136031753
+1853,Juan Flores,Milan,Delantero,24,30,18,14,80398922
+1854,Miguel Perez,Arsenal,Mediocampista,27,10,5,5,181872055
+1855,Carlos Torres,Barcelona,Mediocampista,23,18,2,17,33574392
+1856,Diego Ruiz,Barcelona,Portero,30,36,0,3,152484492
+1857,Diego Lopez,Real Madrid,Mediocampista,33,7,13,7,87239514
+1858,Eduardo Garcia,Real Madrid,Portero,22,10,0,3,35592700
+1859,Andres Perez,Barcelona,Delantero,28,27,40,17,19689498
+1860,Diego Diaz,Arsenal,Portero,18,7,0,1,105693608
+1861,Diego Torres,Milan,Portero,19,33,0,0,16522925
+1862,Miguel Torres,Juventus,Defensa,28,21,2,8,170372795
+1863,Luis Lopez,Real Madrid,Defensa,33,13,3,7,6801690
+1864,Luis Ramirez,Real Madrid,Defensa,26,32,1,2,106892576
+1865,Luis Torres,Real Madrid,Defensa,24,8,3,6,88020103
+1866,Eduardo Garcia,Chelsea,Defensa,29,36,0,8,111267501
+1867,Eduardo Ruiz,Juventus,Defensa,31,13,3,1,144234581
+1868,Diego Hernandez,Manchester City,Mediocampista,34,29,11,15,177966901
+1869,Ricardo Silva,Bayern Munich,Delantero,24,38,30,3,127139933
+1870,Eduardo Ruiz,Bayern Munich,Defensa,33,34,4,1,67839801
+1871,Juan Silva,Manchester City,Mediocampista,20,24,15,19,90855047
+1872,Juan Hernandez,Juventus,Delantero,36,7,28,20,6939064
+1873,Carlos Garcia,Bayern Munich,Defensa,39,9,1,1,70418266
+1874,Fernando Ramirez,Arsenal,Delantero,37,35,13,19,37847547
+1875,Javier Torres,Juventus,Mediocampista,21,23,11,8,62017785
+1876,Diego Perez,Barcelona,Portero,20,23,0,0,7288193
+1877,Andres Garcia,Milan,Delantero,37,38,4,12,84600112
+1878,Fernando Lopez,Chelsea,Defensa,21,13,3,3,34768188
+1879,Carlos Torres,PSG,Delantero,23,25,21,1,179368204
+1880,Eduardo Diaz,Juventus,Defensa,40,21,1,6,184353022
+1881,Ricardo Ruiz,Barcelona,Defensa,38,30,2,2,118667090
+1882,Eduardo Lopez,Real Madrid,Delantero,30,35,12,10,192325630
+1883,Eduardo Ruiz,Manchester City,Portero,30,10,0,3,141880214
+1884,Ricardo Flores,Liverpool,Mediocampista,27,13,10,23,198527535
+1885,Miguel Silva,Real Madrid,Mediocampista,18,36,11,2,127434751
+1886,Andres Diaz,Milan,Defensa,27,35,5,9,2539376
+1887,Miguel Ramirez,Bayern Munich,Delantero,22,29,19,16,64978835
+1888,Eduardo Lopez,Real Madrid,Delantero,18,7,39,16,168445962
+1889,Diego Silva,Arsenal,Defensa,22,19,8,8,99120130
+1890,Luis Perez,Barcelona,Mediocampista,18,15,7,25,9798425
+1891,Juan Ramirez,Bayern Munich,Portero,34,6,0,0,72254896
+1892,Eduardo Diaz,Bayern Munich,Portero,18,28,0,2,19621839
+1893,Luis Flores,Real Madrid,Mediocampista,26,8,2,14,155398563
+1894,Ricardo Ramirez,Milan,Mediocampista,38,25,0,22,67597099
+1895,Eduardo Lopez,Milan,Mediocampista,27,28,10,2,123876013
+1896,Miguel Ruiz,Chelsea,Portero,31,21,0,1,96940207
+1897,Diego Ruiz,Bayern Munich,Defensa,20,31,4,7,119024780
+1898,Carlos Lopez,Manchester City,Delantero,34,23,17,17,161460150
+1899,Carlos Ruiz,Arsenal,Portero,25,15,0,2,156735978
+1900,Luis Flores,Milan,Delantero,33,12,39,9,66296499
+1901,Javier Garcia,Milan,Portero,24,10,0,1,3715262
+1902,Fernando Ramirez,Real Madrid,Portero,19,13,0,1,110232820
+1903,Javier Diaz,Arsenal,Defensa,18,25,3,9,142661399
+1904,Javier Garcia,Manchester City,Delantero,28,16,29,10,189724492
+1905,Carlos Ramirez,Chelsea,Defensa,27,16,5,5,195622744
+1906,Miguel Diaz,Milan,Delantero,18,13,36,19,150797665
+1907,Miguel Diaz,Arsenal,Portero,35,36,0,3,44891846
+1908,Ricardo Ruiz,Barcelona,Mediocampista,37,16,12,4,185071913
+1909,Ricardo Torres,Milan,Mediocampista,18,9,14,12,119906719
+1910,Javier Ruiz,PSG,Delantero,39,10,7,12,187802920
+1911,Javier Hernandez,Barcelona,Defensa,38,24,4,3,4824409
+1912,Ricardo Flores,Liverpool,Portero,20,8,0,0,107784283
+1913,Miguel Torres,Chelsea,Delantero,24,28,0,9,10032479
+1914,Carlos Hernandez,Manchester City,Mediocampista,23,22,15,14,138232893
+1915,Juan Torres,Real Madrid,Delantero,19,17,20,3,92271419
+1916,Javier Ramirez,PSG,Mediocampista,37,31,5,8,191513708
+1917,Miguel Diaz,Milan,Delantero,33,28,30,14,72975037
+1918,Javier Torres,Milan,Portero,39,15,0,1,45698280
+1919,Luis Lopez,Liverpool,Delantero,19,38,14,9,27841051
+1920,Fernando Ramirez,Milan,Defensa,18,38,6,10,124201245
+1921,Carlos Lopez,Milan,Delantero,32,29,26,11,92819345
+1922,Javier Ramirez,Real Madrid,Defensa,22,30,8,2,128365686
+1923,Ricardo Diaz,Bayern Munich,Defensa,24,24,8,2,164285387
+1924,Eduardo Lopez,Bayern Munich,Mediocampista,22,8,13,13,38831392
+1925,Diego Hernandez,Juventus,Mediocampista,21,31,12,3,18074799
+1926,Javier Lopez,Juventus,Mediocampista,40,9,0,6,143997988
+1927,Fernando Flores,PSG,Mediocampista,38,35,10,23,194119901
+1928,Diego Diaz,Milan,Defensa,22,13,3,10,8124513
+1929,Luis Silva,Arsenal,Defensa,20,22,6,2,194234127
+1930,Andres Flores,Liverpool,Mediocampista,22,13,8,8,14339450
+1931,Luis Diaz,Bayern Munich,Delantero,38,24,23,2,100137778
+1932,Fernando Garcia,Chelsea,Defensa,38,6,3,3,166377601
+1933,Carlos Ramirez,Liverpool,Delantero,34,5,29,4,146641280
+1934,Javier Hernandez,Liverpool,Delantero,18,7,23,17,90848530
+1935,Miguel Torres,Arsenal,Portero,30,38,0,2,16761074
+1936,Carlos Flores,Liverpool,Mediocampista,39,17,7,0,137713960
+1937,Javier Ramirez,Bayern Munich,Defensa,25,19,1,10,158617334
+1938,Juan Diaz,Milan,Mediocampista,31,25,5,12,178074682
+1939,Miguel Lopez,Bayern Munich,Mediocampista,32,22,11,12,83057533
+1940,Diego Ruiz,Bayern Munich,Mediocampista,33,30,3,11,82881742
+1941,Carlos Perez,Chelsea,Defensa,37,18,4,1,96576668
+1942,Miguel Ruiz,Bayern Munich,Mediocampista,30,22,14,17,55303721
+1943,Miguel Perez,PSG,Delantero,20,34,39,2,27282429
+1944,Luis Ramirez,Arsenal,Defensa,24,15,0,2,46140783
+1945,Carlos Ramirez,Juventus,Delantero,20,31,11,16,49304155
+1946,Luis Perez,Arsenal,Mediocampista,35,26,13,9,153752479
+1947,Andres Lopez,Real Madrid,Portero,21,19,0,2,88574685
+1948,Diego Lopez,Juventus,Delantero,23,7,17,12,169776182
+1949,Miguel Silva,Bayern Munich,Defensa,35,24,5,6,110632427
+1950,Luis Perez,Liverpool,Defensa,23,27,2,3,89155799
+1951,Carlos Silva,Juventus,Portero,27,18,0,1,107477858
+1952,Miguel Lopez,PSG,Portero,33,8,0,3,4842800
+1953,Miguel Ramirez,Barcelona,Portero,19,38,0,1,163530167
+1954,Fernando Torres,Milan,Mediocampista,25,34,9,18,66850175
+1955,Luis Garcia,Barcelona,Delantero,21,17,40,16,126175997
+1956,Ricardo Torres,Juventus,Defensa,31,30,3,3,103544353
+1957,Javier Flores,Real Madrid,Delantero,26,23,25,18,187106068
+1958,Luis Ramirez,Barcelona,Portero,25,28,0,1,49002213
+1959,Javier Flores,Bayern Munich,Delantero,23,34,9,18,79753152
+1960,Carlos Hernandez,PSG,Delantero,38,22,9,17,34742503
+1961,Eduardo Torres,Liverpool,Delantero,21,17,27,20,92192266
+1962,Javier Torres,Arsenal,Mediocampista,28,33,11,19,54029544
+1963,Luis Silva,Liverpool,Mediocampista,37,29,3,7,41454526
+1964,Luis Garcia,Liverpool,Defensa,20,6,6,10,81331202
+1965,Juan Diaz,Bayern Munich,Mediocampista,18,9,1,23,19014044
+1966,Luis Flores,Chelsea,Portero,32,8,0,1,6503713
+1967,Ricardo Hernandez,Liverpool,Mediocampista,28,18,15,11,36901095
+1968,Diego Torres,Barcelona,Portero,31,35,0,3,107108753
+1969,Fernando Lopez,PSG,Delantero,31,33,5,11,93217487
+1970,Javier Perez,Juventus,Mediocampista,40,37,1,12,101538503
+1971,Javier Lopez,Barcelona,Defensa,34,18,1,2,157825258
+1972,Eduardo Silva,Milan,Mediocampista,28,26,3,0,142790681
+1973,Miguel Perez,Chelsea,Portero,25,37,0,0,150771289
+1974,Andres Perez,Barcelona,Mediocampista,35,17,1,9,98908467
+1975,Fernando Ruiz,Arsenal,Defensa,38,23,8,5,172935912
+1976,Carlos Silva,Chelsea,Mediocampista,31,23,1,9,195235264
+1977,Carlos Lopez,Bayern Munich,Portero,23,24,0,1,177080913
+1978,Carlos Garcia,PSG,Mediocampista,27,11,1,13,82245372
+1979,Andres Ramirez,Manchester City,Portero,18,35,0,2,65206452
+1980,Carlos Ruiz,Barcelona,Delantero,21,18,35,9,85818011
+1981,Javier Perez,Juventus,Delantero,25,6,13,13,12200324
+1982,Andres Silva,Liverpool,Portero,33,17,0,1,5894408
+1983,Diego Ramirez,Juventus,Mediocampista,31,7,7,20,167915208
+1984,Juan Silva,Barcelona,Mediocampista,22,18,9,9,72728385
+1985,Fernando Lopez,Manchester City,Mediocampista,30,32,11,13,112574777
+1986,Eduardo Diaz,Juventus,Mediocampista,37,16,11,13,60135167
+1987,Miguel Silva,Juventus,Mediocampista,24,13,6,6,26827545
+1988,Miguel Hernandez,Chelsea,Defensa,29,18,5,9,14619708
+1989,Ricardo Hernandez,Real Madrid,Mediocampista,20,22,11,23,59003725
+1990,Andres Hernandez,Milan,Portero,32,28,0,3,68823009
+1991,Carlos Lopez,Bayern Munich,Defensa,40,6,4,9,11672878
+1992,Ricardo Silva,Bayern Munich,Portero,20,36,0,0,165476801
+1993,Luis Garcia,Bayern Munich,Defensa,18,7,5,7,52837223
+1994,Fernando Lopez,Chelsea,Defensa,23,21,4,2,77460023
+1995,Ricardo Flores,Milan,Portero,38,11,0,3,63373363
+1996,Fernando Silva,Chelsea,Delantero,30,8,10,10,50009402
+1997,Andres Garcia,Arsenal,Defensa,28,13,8,7,56854921
+1998,Juan Lopez,Juventus,Delantero,23,15,14,9,51312701
+1999,Andres Silva,Bayern Munich,Portero,34,26,0,2,127133404
+2000,Fernando Ramirez,Juventus,Defensa,31,9,0,0,197802006
+2001,Juan Silva,PSG,Delantero,28,29,30,14,136706635
+2002,Andres Hernandez,Manchester City,Portero,35,6,0,1,177505758
+2003,Fernando Diaz,Milan,Delantero,39,23,28,8,132996445
+2004,Ricardo Diaz,Manchester City,Delantero,38,17,18,8,100000797
+2005,Andres Lopez,Juventus,Portero,21,22,0,1,108005636
+2006,Eduardo Torres,PSG,Delantero,20,24,11,13,58755849
+2007,Carlos Hernandez,Arsenal,Delantero,37,28,35,15,116968663
+2008,Carlos Lopez,Barcelona,Mediocampista,38,27,8,16,158718832
+2009,Luis Diaz,Barcelona,Delantero,19,22,26,16,99739446
+2010,Javier Flores,Real Madrid,Mediocampista,24,33,11,23,182536227
+2011,Eduardo Garcia,Juventus,Delantero,39,8,15,14,145909768
+2012,Juan Flores,PSG,Portero,36,38,0,2,147513505
+2013,Carlos Ruiz,Chelsea,Mediocampista,21,20,4,15,89293917
+2014,Fernando Garcia,Milan,Defensa,37,31,3,5,62306336
+2015,Luis Perez,Milan,Defensa,36,13,5,5,60046338
+2016,Juan Ramirez,Chelsea,Portero,28,31,0,2,145961912
+2017,Miguel Perez,Liverpool,Delantero,36,5,34,14,33646561
+2018,Javier Torres,PSG,Mediocampista,32,30,15,13,159396757
+2019,Carlos Flores,Real Madrid,Delantero,34,22,9,6,177469872
+2020,Diego Ruiz,Chelsea,Mediocampista,36,19,12,10,165958684
+2021,Andres Hernandez,Bayern Munich,Portero,20,22,0,0,55577541
+2022,Juan Ruiz,Manchester City,Mediocampista,21,9,12,9,10102637
+2023,Ricardo Ruiz,Juventus,Mediocampista,37,17,12,25,67975594
+2024,Carlos Perez,PSG,Defensa,35,22,4,6,118239377
+2025,Luis Hernandez,Milan,Portero,23,35,0,1,108476170
+2026,Luis Lopez,Liverpool,Defensa,40,16,5,1,185128596
+2027,Eduardo Ruiz,Bayern Munich,Portero,32,26,0,3,189318133
+2028,Diego Ruiz,Milan,Mediocampista,32,12,15,5,60554276
+2029,Eduardo Ruiz,Bayern Munich,Delantero,35,35,32,1,183120722
+2030,Diego Diaz,Real Madrid,Mediocampista,22,33,0,18,113379487
+2031,Juan Diaz,Juventus,Delantero,39,7,20,0,44447889
+2032,Juan Ruiz,Milan,Mediocampista,38,26,9,13,68032453
+2033,Luis Torres,Juventus,Mediocampista,21,36,10,7,37523449
+2034,Diego Ruiz,Chelsea,Portero,29,22,0,2,48380471
+2035,Miguel Diaz,Milan,Defensa,34,27,7,5,79585051
+2036,Andres Ramirez,Bayern Munich,Portero,19,34,0,2,146926511
+2037,Diego Perez,Liverpool,Delantero,36,13,37,14,1363921
+2038,Diego Silva,PSG,Delantero,40,7,23,7,199456869
+2039,Luis Perez,Arsenal,Defensa,29,22,6,0,80947428
+2040,Javier Garcia,PSG,Defensa,21,6,5,10,93344622
+2041,Eduardo Diaz,Chelsea,Portero,34,27,0,3,82364305
+2042,Andres Diaz,Milan,Portero,27,36,0,1,166036127
+2043,Miguel Silva,Real Madrid,Delantero,37,37,1,13,130937091
+2044,Ricardo Garcia,PSG,Mediocampista,31,31,15,13,197668372
+2045,Javier Ramirez,Real Madrid,Delantero,23,16,13,15,40584270
+2046,Eduardo Lopez,Real Madrid,Defensa,23,9,5,1,161271290
+2047,Juan Ruiz,Milan,Mediocampista,37,36,7,5,94591633
+2048,Javier Ramirez,Liverpool,Defensa,18,20,2,3,76849072
+2049,Ricardo Garcia,Juventus,Defensa,32,17,8,3,122135673
+2050,Luis Diaz,Chelsea,Mediocampista,21,27,14,23,74391290
+2051,Carlos Ramirez,Manchester City,Mediocampista,40,24,13,16,72001698
+2052,Juan Hernandez,PSG,Mediocampista,37,15,11,8,73012682
+2053,Eduardo Silva,Arsenal,Portero,26,8,0,1,175713293
+2054,Miguel Perez,Juventus,Delantero,18,11,38,0,166450113
+2055,Eduardo Silva,Arsenal,Defensa,25,12,8,6,67937081
+2056,Luis Ramirez,Barcelona,Delantero,31,34,39,13,145834586
+2057,Juan Lopez,Manchester City,Portero,23,13,0,1,16994875
+2058,Ricardo Ruiz,PSG,Portero,35,6,0,0,136519403
+2059,Luis Torres,Manchester City,Defensa,19,9,2,6,153517196
+2060,Eduardo Perez,Juventus,Portero,29,37,0,3,122723336
+2061,Luis Flores,Arsenal,Delantero,37,11,27,10,51302472
+2062,Eduardo Diaz,Milan,Defensa,38,20,3,1,104887595
+2063,Miguel Hernandez,Manchester City,Mediocampista,32,33,3,3,165386404
+2064,Javier Garcia,Arsenal,Portero,20,10,0,3,43066002
+2065,Ricardo Flores,Real Madrid,Defensa,27,15,2,10,89774631
+2066,Miguel Ramirez,Chelsea,Mediocampista,19,13,9,8,63396150
+2067,Juan Ruiz,Liverpool,Defensa,22,33,8,2,172821024
+2068,Eduardo Garcia,Real Madrid,Delantero,25,6,25,7,28243308
+2069,Diego Diaz,Barcelona,Mediocampista,35,25,6,21,100694145
+2070,Javier Garcia,Arsenal,Delantero,39,25,2,6,30444791
+2071,Miguel Garcia,Liverpool,Portero,39,14,0,0,8263777
+2072,Luis Diaz,Real Madrid,Delantero,24,11,13,8,190598062
+2073,Luis Hernandez,Manchester City,Defensa,31,19,6,4,134414970
+2074,Ricardo Hernandez,Real Madrid,Portero,20,35,0,0,48676337
+2075,Fernando Torres,Bayern Munich,Delantero,37,26,17,18,9206453
+2076,Carlos Perez,Liverpool,Delantero,28,35,9,12,157469642
+2077,Diego Ruiz,Real Madrid,Portero,26,28,0,3,194113833
+2078,Diego Flores,Real Madrid,Portero,36,11,0,0,100501039
+2079,Miguel Diaz,Bayern Munich,Defensa,40,12,1,6,127047783
+2080,Eduardo Ramirez,Real Madrid,Portero,19,10,0,3,60665555
+2081,Carlos Flores,Arsenal,Delantero,28,31,22,8,86855295
+2082,Diego Ramirez,Milan,Delantero,29,23,31,4,174129959
+2083,Diego Garcia,Milan,Mediocampista,27,14,15,1,83260470
+2084,Fernando Ramirez,Barcelona,Mediocampista,24,12,7,1,91448523
+2085,Juan Ramirez,Liverpool,Mediocampista,36,37,13,15,117385241
+2086,Andres Garcia,Liverpool,Delantero,37,34,17,19,10072536
+2087,Javier Flores,PSG,Mediocampista,25,5,1,9,183318857
+2088,Diego Lopez,Barcelona,Portero,30,29,0,2,79625144
+2089,Javier Diaz,Milan,Portero,31,17,0,2,23489408
+2090,Juan Garcia,Bayern Munich,Portero,21,27,0,2,75728940
+2091,Miguel Lopez,Arsenal,Delantero,20,10,23,6,138043577
+2092,Miguel Lopez,Bayern Munich,Portero,18,12,0,0,152902381
+2093,Andres Hernandez,PSG,Mediocampista,40,35,7,2,52792091
+2094,Eduardo Perez,PSG,Mediocampista,33,12,8,4,187469239
+2095,Juan Hernandez,Milan,Delantero,32,25,4,6,145102958
+2096,Miguel Flores,Barcelona,Defensa,39,23,1,0,119146497
+2097,Diego Diaz,Juventus,Defensa,23,16,6,2,111718930
+2098,Ricardo Garcia,PSG,Portero,18,10,0,1,131438085
+2099,Andres Silva,Manchester City,Mediocampista,38,37,10,12,180454771
+2100,Javier Ruiz,Manchester City,Mediocampista,18,12,7,2,34419195
+2101,Ricardo Ramirez,Manchester City,Delantero,25,22,18,15,3531982
+2102,Andres Lopez,Arsenal,Mediocampista,18,18,1,18,173710887
+2103,Miguel Flores,Manchester City,Defensa,37,25,5,8,105265056
+2104,Carlos Flores,Real Madrid,Mediocampista,39,21,10,23,103112884
+2105,Diego Garcia,Chelsea,Delantero,29,6,25,2,100705028
+2106,Eduardo Perez,Chelsea,Portero,34,14,0,3,180497619
+2107,Diego Silva,Juventus,Mediocampista,25,33,0,6,10258706
+2108,Luis Ramirez,Juventus,Delantero,36,34,22,3,87935346
+2109,Fernando Flores,Bayern Munich,Mediocampista,23,24,6,2,157771072
+2110,Juan Torres,Bayern Munich,Mediocampista,27,31,5,14,30708348
+2111,Fernando Flores,Chelsea,Defensa,31,13,7,6,11994509
+2112,Juan Perez,Bayern Munich,Mediocampista,26,32,6,18,176552642
+2113,Ricardo Garcia,Arsenal,Delantero,31,6,6,1,183030123
+2114,Luis Ruiz,Juventus,Delantero,22,22,39,13,122150366
+2115,Fernando Garcia,Chelsea,Mediocampista,27,22,10,15,9918379
+2116,Fernando Ruiz,Real Madrid,Defensa,38,15,7,5,103369640
+2117,Eduardo Ruiz,Real Madrid,Mediocampista,31,24,4,19,49277167
+2118,Luis Perez,PSG,Defensa,19,5,8,8,144487490
+2119,Miguel Torres,Liverpool,Portero,26,21,0,3,97147152
+2120,Fernando Ramirez,Chelsea,Delantero,37,37,3,15,26304549
+2121,Diego Diaz,Manchester City,Mediocampista,25,10,13,10,91991489
+2122,Carlos Diaz,Liverpool,Defensa,29,37,4,7,136994185
+2123,Juan Torres,Milan,Portero,39,27,0,3,38365625
+2124,Miguel Hernandez,Arsenal,Delantero,39,24,24,11,115732151
+2125,Ricardo Ruiz,Real Madrid,Mediocampista,22,10,8,7,167962871
+2126,Miguel Flores,Juventus,Defensa,31,20,1,8,180264523
+2127,Fernando Flores,PSG,Delantero,22,29,32,15,59502675
+2128,Fernando Ramirez,Manchester City,Defensa,28,20,7,3,62771872
+2129,Juan Ramirez,Milan,Portero,24,19,0,3,21582403
+2130,Eduardo Perez,Liverpool,Portero,38,27,0,2,42241054
+2131,Diego Ramirez,Manchester City,Portero,26,37,0,1,80321476
+2132,Juan Flores,Bayern Munich,Defensa,20,20,4,1,77687593
+2133,Diego Diaz,Manchester City,Defensa,39,38,0,5,75987612
+2134,Fernando Lopez,Manchester City,Delantero,18,32,4,11,160497003
+2135,Diego Garcia,Barcelona,Mediocampista,18,32,7,14,197157629
+2136,Diego Torres,Juventus,Defensa,29,7,1,1,51132193
+2137,Miguel Garcia,Real Madrid,Defensa,19,20,7,3,112168182
+2138,Javier Hernandez,Barcelona,Mediocampista,33,28,15,18,189898053
+2139,Andres Torres,Arsenal,Portero,38,37,0,3,114037963
+2140,Ricardo Ramirez,Real Madrid,Mediocampista,26,30,11,12,98855026
+2141,Javier Perez,Arsenal,Delantero,37,37,8,3,186350854
+2142,Fernando Hernandez,Real Madrid,Portero,32,30,0,0,82807765
+2143,Ricardo Hernandez,Manchester City,Portero,28,18,0,1,194004506
+2144,Miguel Flores,Arsenal,Defensa,36,23,6,2,181402570
+2145,Fernando Lopez,Chelsea,Defensa,24,34,8,8,74582092
+2146,Luis Perez,Milan,Portero,31,26,0,1,186297726
+2147,Javier Flores,Barcelona,Mediocampista,26,23,15,8,191194181
+2148,Ricardo Hernandez,Real Madrid,Defensa,25,28,4,10,5606231
+2149,Luis Perez,PSG,Mediocampista,23,19,4,25,32633849
+2150,Ricardo Hernandez,Barcelona,Mediocampista,22,15,14,25,53947476
+2151,Carlos Lopez,Arsenal,Mediocampista,21,18,14,10,193346738
+2152,Andres Perez,Arsenal,Defensa,22,17,3,2,61437642
+2153,Fernando Garcia,Liverpool,Delantero,31,14,14,7,12075724
+2154,Javier Silva,PSG,Mediocampista,38,32,14,14,123749241
+2155,Andres Flores,Juventus,Defensa,23,35,7,10,82224504
+2156,Andres Torres,Real Madrid,Delantero,38,12,16,5,122803001
+2157,Diego Ruiz,Milan,Mediocampista,21,18,13,16,79824676
+2158,Carlos Perez,Manchester City,Defensa,29,20,3,5,136820882
+2159,Miguel Silva,Real Madrid,Portero,39,24,0,1,171288573
+2160,Andres Lopez,PSG,Delantero,22,14,6,19,41989628
+2161,Fernando Lopez,Milan,Portero,32,13,0,3,85788048
+2162,Juan Ruiz,PSG,Defensa,32,8,8,4,168854539
+2163,Eduardo Hernandez,Manchester City,Portero,30,14,0,1,78418904
+2164,Carlos Garcia,Juventus,Mediocampista,20,29,13,17,133053756
+2165,Diego Diaz,Liverpool,Delantero,31,14,31,10,166376720
+2166,Carlos Diaz,Juventus,Defensa,34,12,8,9,7871304
+2167,Ricardo Flores,PSG,Portero,23,9,0,3,39942057
+2168,Juan Lopez,Liverpool,Mediocampista,31,26,12,0,34964906
+2169,Miguel Ramirez,Liverpool,Portero,18,32,0,2,190008071
+2170,Javier Torres,Bayern Munich,Delantero,23,6,27,13,59148451
+2171,Diego Diaz,Bayern Munich,Defensa,36,11,0,2,1759864
+2172,Luis Perez,Liverpool,Defensa,33,14,6,9,195135647
+2173,Ricardo Hernandez,PSG,Mediocampista,26,20,7,13,102681675
+2174,Diego Lopez,Bayern Munich,Delantero,35,21,2,20,49185327
+2175,Andres Torres,Manchester City,Mediocampista,33,6,4,9,31142570
+2176,Fernando Hernandez,Juventus,Portero,29,26,0,2,135425907
+2177,Carlos Ruiz,Chelsea,Portero,26,6,0,1,123734762
+2178,Eduardo Perez,PSG,Delantero,33,33,39,13,26476198
+2179,Miguel Ramirez,Liverpool,Portero,24,34,0,3,29049517
+2180,Ricardo Hernandez,Chelsea,Mediocampista,18,16,6,7,129257590
+2181,Miguel Ramirez,Bayern Munich,Mediocampista,19,9,15,12,186804252
+2182,Ricardo Torres,Manchester City,Delantero,39,32,7,6,193159823
+2183,Javier Flores,Liverpool,Portero,38,12,0,2,43475039
+2184,Juan Flores,Real Madrid,Defensa,25,36,3,1,148529623
+2185,Miguel Silva,Barcelona,Delantero,20,24,22,8,174670248
+2186,Luis Hernandez,Chelsea,Mediocampista,30,37,12,25,196911874
+2187,Ricardo Perez,Real Madrid,Defensa,39,16,2,9,117161438
+2188,Diego Hernandez,Chelsea,Portero,32,12,0,0,39915996
+2189,Diego Flores,Juventus,Defensa,35,15,2,7,143835818
+2190,Carlos Diaz,Bayern Munich,Delantero,34,28,13,1,182103895
+2191,Ricardo Ramirez,Bayern Munich,Defensa,36,22,2,6,160432999
+2192,Eduardo Lopez,Bayern Munich,Portero,24,10,0,0,20121531
+2193,Miguel Flores,Juventus,Portero,36,28,0,0,182484990
+2194,Miguel Silva,Liverpool,Defensa,24,25,5,1,30074960
+2195,Diego Silva,Milan,Defensa,26,6,1,2,130606152
+2196,Carlos Ramirez,PSG,Defensa,36,15,0,10,56999836
+2197,Eduardo Garcia,Juventus,Mediocampista,27,5,13,16,72448478
+2198,Juan Flores,Liverpool,Defensa,33,26,7,6,30423855
+2199,Luis Flores,Juventus,Delantero,36,11,9,12,50997497
+2200,Eduardo Diaz,Manchester City,Delantero,36,22,11,2,161475888
+2201,Miguel Garcia,Barcelona,Defensa,22,15,8,0,88570281
+2202,Ricardo Torres,Juventus,Portero,27,13,0,1,104137066
+2203,Juan Lopez,PSG,Delantero,36,12,5,8,86891151
+2204,Miguel Flores,Manchester City,Portero,25,5,0,3,183038219
+2205,Ricardo Ramirez,Manchester City,Mediocampista,39,27,5,3,176987031
+2206,Ricardo Diaz,Manchester City,Defensa,35,17,6,2,37138768
+2207,Carlos Ramirez,Manchester City,Portero,36,31,0,2,175256357
+2208,Javier Ramirez,Real Madrid,Mediocampista,24,14,11,21,97897743
+2209,Diego Lopez,Milan,Delantero,39,13,11,8,60604064
+2210,Luis Flores,Barcelona,Mediocampista,21,7,7,2,176937418
+2211,Miguel Ruiz,Barcelona,Defensa,40,7,2,0,104083898
+2212,Fernando Torres,Bayern Munich,Delantero,26,33,7,16,157213259
+2213,Juan Torres,Real Madrid,Defensa,20,34,3,2,48558835
+2214,Andres Ramirez,Manchester City,Mediocampista,38,20,15,25,155878250
+2215,Carlos Ruiz,Arsenal,Portero,26,27,0,2,58337696
+2216,Juan Flores,PSG,Mediocampista,37,37,14,24,127195963
+2217,Javier Ramirez,Bayern Munich,Defensa,26,18,1,9,88927234
+2218,Juan Perez,Real Madrid,Mediocampista,31,9,0,23,54574698
+2219,Carlos Flores,PSG,Portero,31,33,0,1,188947951
+2220,Carlos Torres,Barcelona,Delantero,38,24,38,9,15877069
+2221,Eduardo Flores,Bayern Munich,Mediocampista,30,22,1,7,12349774
+2222,Fernando Ramirez,PSG,Portero,34,17,0,1,137245585
+2223,Andres Ramirez,Arsenal,Delantero,22,18,35,20,64785988
+2224,Miguel Ruiz,Arsenal,Defensa,38,28,1,10,94261513
+2225,Fernando Torres,Milan,Portero,25,24,0,0,86508971
+2226,Luis Hernandez,Bayern Munich,Portero,31,32,0,3,32580581
+2227,Javier Ruiz,Manchester City,Mediocampista,20,30,9,0,60923279
+2228,Juan Ruiz,PSG,Portero,38,26,0,2,67596517
+2229,Ricardo Flores,Bayern Munich,Mediocampista,33,27,8,20,85399087
+2230,Fernando Ruiz,Milan,Delantero,26,31,10,9,78931289
+2231,Juan Hernandez,Milan,Mediocampista,39,32,5,7,145354413
+2232,Javier Hernandez,Manchester City,Portero,19,21,0,3,163380399
+2233,Fernando Silva,Chelsea,Portero,38,21,0,3,91406879
+2234,Carlos Silva,PSG,Delantero,25,20,7,4,149609909
+2235,Ricardo Flores,Milan,Delantero,21,10,15,11,132855103
+2236,Ricardo Flores,Bayern Munich,Delantero,33,34,14,2,92024746
+2237,Juan Diaz,Chelsea,Defensa,33,36,6,4,90350534
+2238,Andres Hernandez,Milan,Portero,19,12,0,1,162212488
+2239,Javier Lopez,Chelsea,Mediocampista,22,11,7,19,11411501
+2240,Luis Perez,Juventus,Portero,30,23,0,0,191004762
+2241,Fernando Ramirez,Barcelona,Portero,28,13,0,3,77362913
+2242,Andres Lopez,Chelsea,Defensa,29,34,2,7,34593467
+2243,Eduardo Ruiz,Arsenal,Defensa,29,37,2,0,119946321
+2244,Luis Ruiz,PSG,Portero,24,33,0,0,113031703
+2245,Diego Garcia,Manchester City,Delantero,21,18,38,8,148666486
+2246,Javier Silva,Chelsea,Defensa,29,18,1,2,117720395
+2247,Ricardo Perez,Bayern Munich,Delantero,32,26,38,15,11885851
+2248,Eduardo Flores,Milan,Portero,34,10,0,1,41718968
+2249,Carlos Garcia,Milan,Mediocampista,29,17,7,18,113357625
+2250,Miguel Hernandez,Arsenal,Mediocampista,20,20,3,21,82033764
+2251,Andres Ramirez,Real Madrid,Defensa,29,38,1,3,154758996
+2252,Carlos Diaz,PSG,Defensa,37,33,7,9,193466544
+2253,Juan Garcia,Manchester City,Defensa,38,25,2,4,40672668
+2254,Ricardo Perez,Milan,Delantero,29,6,21,18,94743877
+2255,Ricardo Hernandez,Barcelona,Portero,36,24,0,0,155802130
+2256,Luis Flores,PSG,Portero,37,23,0,0,30148892
+2257,Eduardo Garcia,Manchester City,Mediocampista,19,29,0,12,126255895
+2258,Fernando Flores,Juventus,Delantero,40,22,15,5,112422878
+2259,Andres Ruiz,Arsenal,Delantero,21,36,7,3,102333942
+2260,Eduardo Ramirez,Juventus,Portero,28,10,0,2,169449654
+2261,Juan Torres,Real Madrid,Delantero,22,26,1,19,74007050
+2262,Juan Ruiz,Arsenal,Mediocampista,26,18,3,21,51729190
+2263,Diego Diaz,Manchester City,Delantero,22,19,11,6,122494198
+2264,Miguel Lopez,Juventus,Defensa,32,16,2,5,128248995
+2265,Luis Garcia,Milan,Portero,33,36,0,2,53214661
+2266,Andres Ramirez,Chelsea,Delantero,20,29,0,6,44547765
+2267,Eduardo Ramirez,Manchester City,Defensa,18,23,2,5,117689360
+2268,Andres Ramirez,Milan,Delantero,35,9,32,1,107239308
+2269,Ricardo Diaz,PSG,Portero,33,37,0,0,82158750
+2270,Miguel Hernandez,Chelsea,Portero,28,7,0,0,147754951
+2271,Javier Flores,Liverpool,Mediocampista,26,13,6,0,175579660
+2272,Miguel Perez,Manchester City,Defensa,35,28,8,0,6019236
+2273,Diego Diaz,Chelsea,Delantero,28,29,17,2,29251817
+2274,Juan Flores,Manchester City,Mediocampista,32,11,7,25,48287580
+2275,Fernando Lopez,Milan,Delantero,27,24,14,8,159341732
+2276,Diego Lopez,Real Madrid,Defensa,26,36,5,9,170726818
+2277,Carlos Ruiz,Barcelona,Defensa,34,33,7,9,135163389
+2278,Ricardo Flores,Manchester City,Mediocampista,35,18,9,5,77937650
+2279,Ricardo Torres,PSG,Portero,27,35,0,0,66956476
+2280,Juan Diaz,Real Madrid,Delantero,39,22,32,7,83986229
+2281,Juan Ramirez,Liverpool,Portero,22,17,0,1,112764815
+2282,Carlos Garcia,Real Madrid,Defensa,37,6,4,0,192933498
+2283,Miguel Diaz,Liverpool,Mediocampista,26,22,14,6,174085405
+2284,Fernando Garcia,Barcelona,Delantero,35,14,6,14,94233719
+2285,Eduardo Hernandez,Milan,Defensa,40,37,8,2,29915562
+2286,Andres Torres,PSG,Delantero,22,12,27,4,185011004
+2287,Carlos Flores,PSG,Defensa,39,7,4,7,111820427
+2288,Fernando Diaz,Juventus,Defensa,37,12,7,1,164773972
+2289,Diego Flores,Juventus,Delantero,27,10,36,18,123330675
+2290,Diego Diaz,Bayern Munich,Delantero,20,20,33,16,62788493
+2291,Juan Ruiz,Bayern Munich,Defensa,20,24,0,4,25890268
+2292,Javier Perez,Juventus,Mediocampista,31,12,6,2,100591057
+2293,Eduardo Flores,Manchester City,Defensa,40,28,1,4,10691113
+2294,Fernando Ruiz,Liverpool,Delantero,20,10,13,3,65342040
+2295,Javier Garcia,Bayern Munich,Mediocampista,37,36,3,22,77217866
+2296,Diego Perez,PSG,Defensa,37,14,3,6,122138102
+2297,Javier Perez,Arsenal,Defensa,34,7,8,3,178401620
+2298,Diego Ruiz,Juventus,Portero,37,17,0,2,87810867
+2299,Javier Lopez,Bayern Munich,Defensa,26,7,7,0,146675113
+2300,Carlos Ramirez,Milan,Defensa,32,36,8,7,78725510
+2301,Fernando Hernandez,Bayern Munich,Mediocampista,34,28,10,22,33568377
+2302,Carlos Diaz,Milan,Defensa,29,16,5,0,157270274
+2303,Fernando Ramirez,PSG,Portero,26,24,0,0,83223985
+2304,Luis Flores,Manchester City,Delantero,37,8,27,6,184524638
+2305,Fernando Lopez,Barcelona,Defensa,32,10,8,0,181618115
+2306,Fernando Ramirez,Real Madrid,Delantero,37,20,11,6,44988959
+2307,Juan Garcia,Real Madrid,Portero,26,12,0,1,148514758
+2308,Juan Torres,Barcelona,Defensa,29,8,4,6,14861288
+2309,Andres Garcia,Bayern Munich,Mediocampista,29,19,10,1,57322332
+2310,Javier Silva,Liverpool,Mediocampista,20,20,0,25,178794019
+2311,Juan Garcia,PSG,Delantero,32,37,39,9,161707902
+2312,Andres Flores,Real Madrid,Portero,32,38,0,2,140175109
+2313,Diego Torres,Barcelona,Delantero,37,27,9,9,106405307
+2314,Miguel Perez,Juventus,Delantero,26,27,6,8,48194288
+2315,Fernando Ruiz,PSG,Delantero,22,38,17,18,71525840
+2316,Carlos Garcia,Real Madrid,Portero,38,21,0,0,154308277
+2317,Javier Diaz,Chelsea,Delantero,37,14,13,8,196624717
+2318,Juan Flores,Juventus,Portero,32,26,0,1,73187247
+2319,Ricardo Torres,Bayern Munich,Delantero,19,14,18,0,160892393
+2320,Juan Ruiz,Real Madrid,Portero,33,26,0,1,176678790
+2321,Javier Torres,Barcelona,Delantero,40,21,1,9,67401360
+2322,Eduardo Ramirez,Arsenal,Defensa,24,21,1,9,14634174
+2323,Carlos Flores,Real Madrid,Defensa,28,33,0,9,93235855
+2324,Javier Ramirez,PSG,Defensa,26,16,0,2,46664264
+2325,Ricardo Perez,Bayern Munich,Defensa,29,30,6,1,19878227
+2326,Ricardo Ramirez,Real Madrid,Portero,40,10,0,1,64656276
+2327,Carlos Hernandez,Arsenal,Defensa,38,9,3,0,34109801
+2328,Andres Diaz,Arsenal,Mediocampista,32,13,10,3,44693167
+2329,Miguel Garcia,Bayern Munich,Mediocampista,22,9,12,0,1894065
+2330,Fernando Ramirez,Bayern Munich,Mediocampista,32,24,9,21,108600064
+2331,Andres Ruiz,Bayern Munich,Defensa,34,35,5,6,167424182
+2332,Andres Diaz,Chelsea,Mediocampista,39,10,11,0,60666924
+2333,Andres Flores,Juventus,Portero,24,6,0,0,75676728
+2334,Eduardo Diaz,Bayern Munich,Delantero,24,19,15,18,155996094
+2335,Luis Lopez,Chelsea,Defensa,20,9,7,7,169797489
+2336,Juan Lopez,Manchester City,Delantero,35,5,4,20,116814414
+2337,Javier Ruiz,Liverpool,Mediocampista,32,35,12,19,26076680
+2338,Fernando Garcia,Liverpool,Portero,30,12,0,0,69517019
+2339,Eduardo Silva,Liverpool,Delantero,28,10,37,12,39090000
+2340,Juan Torres,Liverpool,Defensa,25,10,8,9,172351397
+2341,Eduardo Perez,Real Madrid,Mediocampista,40,26,2,10,109008660
+2342,Andres Hernandez,Juventus,Defensa,30,24,3,1,82968933
+2343,Miguel Flores,Bayern Munich,Mediocampista,35,33,2,25,198854078
+2344,Luis Flores,Liverpool,Delantero,24,30,28,0,17316643
+2345,Miguel Perez,PSG,Defensa,40,11,2,6,8796560
+2346,Ricardo Lopez,Chelsea,Portero,20,19,0,0,76906048
+2347,Juan Diaz,Liverpool,Delantero,29,26,11,20,169417445
+2348,Ricardo Silva,Liverpool,Delantero,20,38,3,16,176664007
+2349,Miguel Garcia,Arsenal,Delantero,28,25,2,3,29755973
+2350,Diego Diaz,Milan,Defensa,24,28,4,4,122663915
+2351,Diego Silva,Liverpool,Portero,24,17,0,2,106676049
+2352,Fernando Perez,Juventus,Portero,21,18,0,0,105809674
+2353,Javier Perez,PSG,Portero,27,32,0,0,130210298
+2354,Diego Lopez,Juventus,Mediocampista,21,38,11,20,28889007
+2355,Juan Flores,Manchester City,Portero,25,37,0,0,8678394
+2356,Juan Lopez,Bayern Munich,Portero,35,16,0,0,165768446
+2357,Javier Garcia,Arsenal,Delantero,20,37,10,13,198439859
+2358,Ricardo Hernandez,Milan,Portero,40,13,0,1,161272334
+2359,Eduardo Garcia,Arsenal,Mediocampista,32,8,3,4,60255253
+2360,Eduardo Garcia,Manchester City,Defensa,26,37,4,4,59416157
+2361,Carlos Ramirez,PSG,Mediocampista,34,30,0,12,145455845
+2362,Ricardo Perez,Real Madrid,Mediocampista,40,27,8,19,131354608
+2363,Juan Torres,Manchester City,Defensa,23,20,7,7,84534122
+2364,Carlos Hernandez,Real Madrid,Mediocampista,30,36,2,8,73731630
+2365,Fernando Diaz,PSG,Delantero,28,15,38,0,175618161
+2366,Javier Lopez,Arsenal,Mediocampista,34,35,7,0,39437918
+2367,Miguel Silva,Chelsea,Mediocampista,22,16,10,6,23673032
+2368,Eduardo Diaz,Manchester City,Defensa,37,34,8,8,35624436
+2369,Luis Silva,Chelsea,Portero,27,33,0,3,140314662
+2370,Javier Ruiz,Juventus,Defensa,36,24,0,4,75304956
+2371,Juan Ramirez,Chelsea,Defensa,28,31,1,10,108183507
+2372,Javier Perez,Milan,Delantero,23,35,37,13,52510558
+2373,Miguel Diaz,Milan,Mediocampista,27,23,0,15,124735531
+2374,Javier Garcia,Real Madrid,Mediocampista,23,13,1,24,160543144
+2375,Miguel Silva,Manchester City,Defensa,26,13,5,7,89480203
+2376,Luis Torres,Juventus,Portero,35,11,0,2,181905439
+2377,Ricardo Lopez,PSG,Mediocampista,22,28,11,8,168799020
+2378,Ricardo Flores,Juventus,Delantero,34,25,1,20,179499902
+2379,Diego Hernandez,Liverpool,Portero,19,21,0,0,110166860
+2380,Ricardo Perez,Arsenal,Portero,24,33,0,3,129604135
+2381,Carlos Flores,Chelsea,Portero,27,38,0,1,11287434
+2382,Fernando Ruiz,Real Madrid,Portero,38,33,0,3,89722877
+2383,Miguel Torres,Barcelona,Mediocampista,19,34,2,3,118852772
+2384,Eduardo Torres,Bayern Munich,Defensa,27,27,6,0,145839221
+2385,Luis Perez,Bayern Munich,Defensa,34,19,1,6,150955507
+2386,Ricardo Ruiz,Barcelona,Delantero,24,11,6,2,81735775
+2387,Andres Garcia,Bayern Munich,Portero,31,24,0,1,22563976
+2388,Fernando Silva,Manchester City,Defensa,30,22,7,4,157453480
+2389,Juan Ramirez,Manchester City,Mediocampista,39,19,15,4,111191604
+2390,Diego Torres,PSG,Mediocampista,19,38,4,6,129742931
+2391,Ricardo Lopez,Juventus,Portero,25,9,0,0,133072840
+2392,Javier Ruiz,Arsenal,Defensa,18,7,4,10,113572624
+2393,Eduardo Ramirez,Arsenal,Defensa,29,27,6,9,140640980
+2394,Javier Silva,Chelsea,Portero,30,7,0,1,45728361
+2395,Fernando Garcia,Liverpool,Mediocampista,35,6,0,0,124065864
+2396,Carlos Silva,Arsenal,Mediocampista,35,14,7,5,179402354
+2397,Eduardo Garcia,PSG,Delantero,20,9,33,19,90988068
+2398,Javier Ruiz,Juventus,Mediocampista,19,19,12,14,68921847
+2399,Eduardo Lopez,Milan,Defensa,20,33,2,5,186856417
+2400,Carlos Perez,Chelsea,Delantero,24,18,0,2,146244626
+2401,Javier Ramirez,PSG,Mediocampista,28,8,15,2,48877196
+2402,Eduardo Lopez,Real Madrid,Portero,25,37,0,3,31741100
+2403,Eduardo Torres,Bayern Munich,Delantero,26,6,29,15,175362088
+2404,Miguel Perez,Manchester City,Portero,29,9,0,3,108040097
+2405,Diego Hernandez,Juventus,Delantero,26,36,7,16,19129338
+2406,Javier Silva,Juventus,Mediocampista,32,10,8,20,152535456
+2407,Eduardo Flores,PSG,Portero,34,22,0,0,21642933
+2408,Javier Ruiz,Manchester City,Delantero,18,12,32,14,9463644
+2409,Diego Lopez,Milan,Portero,30,26,0,1,111901023
+2410,Andres Lopez,Chelsea,Defensa,29,24,8,1,50890827
+2411,Juan Garcia,Bayern Munich,Defensa,28,8,7,3,92209330
+2412,Eduardo Perez,PSG,Defensa,20,29,4,7,146352239
+2413,Juan Ramirez,Chelsea,Defensa,26,10,8,10,183224662
+2414,Miguel Ramirez,PSG,Portero,20,7,0,2,84445986
+2415,Eduardo Perez,Juventus,Defensa,25,15,0,0,88806345
+2416,Andres Lopez,PSG,Defensa,25,16,0,2,136713004
+2417,Ricardo Torres,Liverpool,Delantero,24,29,14,19,116076526
+2418,Diego Hernandez,Manchester City,Portero,19,18,0,3,71525766
+2419,Carlos Hernandez,Milan,Defensa,28,34,5,9,36239360
+2420,Carlos Perez,Milan,Portero,35,34,0,1,74052950
+2421,Ricardo Perez,Milan,Mediocampista,31,32,7,25,164287532
+2422,Eduardo Lopez,Juventus,Portero,27,18,0,3,63262117
+2423,Fernando Lopez,Milan,Mediocampista,26,26,8,24,57777409
+2424,Luis Lopez,Real Madrid,Mediocampista,20,23,10,5,119514762
+2425,Fernando Flores,Chelsea,Delantero,28,21,25,15,9774563
+2426,Andres Garcia,Liverpool,Portero,25,18,0,2,77892489
+2427,Miguel Silva,Real Madrid,Mediocampista,33,13,4,5,190846721
+2428,Andres Lopez,Chelsea,Delantero,33,8,2,14,186674878
+2429,Javier Lopez,Barcelona,Delantero,19,22,9,10,186271519
+2430,Javier Silva,Manchester City,Portero,26,20,0,0,188160416
+2431,Ricardo Diaz,Milan,Mediocampista,30,17,8,13,186138201
+2432,Ricardo Perez,Bayern Munich,Portero,21,20,0,2,83695864
+2433,Miguel Perez,Milan,Portero,35,20,0,3,74433056
+2434,Miguel Diaz,Arsenal,Delantero,25,32,5,10,189582998
+2435,Andres Flores,Juventus,Mediocampista,27,20,0,4,10821184
+2436,Diego Ramirez,Milan,Portero,20,16,0,0,146816968
+2437,Javier Perez,Juventus,Portero,34,6,0,2,198031959
+2438,Luis Silva,Arsenal,Defensa,25,37,5,7,18518615
+2439,Ricardo Hernandez,Liverpool,Mediocampista,20,7,6,0,184310091
+2440,Luis Torres,Arsenal,Mediocampista,34,13,5,13,23132067
+2441,Javier Torres,Manchester City,Delantero,18,23,26,18,62664374
+2442,Diego Diaz,PSG,Mediocampista,40,15,12,12,33185051
+2443,Luis Torres,Milan,Mediocampista,18,29,1,24,23579767
+2444,Juan Hernandez,Real Madrid,Portero,28,11,0,0,7942728
+2445,Carlos Flores,Bayern Munich,Mediocampista,32,21,13,15,54790137
+2446,Juan Torres,Juventus,Delantero,39,22,35,14,101028429
+2447,Miguel Perez,PSG,Mediocampista,22,30,9,12,183966299
+2448,Fernando Flores,Milan,Portero,38,17,0,3,4594293
+2449,Ricardo Silva,Chelsea,Portero,21,29,0,3,21913598
+2450,Ricardo Lopez,Chelsea,Mediocampista,39,33,13,9,75689999
+2451,Miguel Torres,Liverpool,Delantero,33,38,28,6,145209579
+2452,Javier Lopez,Barcelona,Mediocampista,30,13,1,11,71984272
+2453,Miguel Lopez,Juventus,Delantero,31,6,31,12,42707385
+2454,Juan Garcia,Liverpool,Delantero,32,11,12,20,20585072
+2455,Ricardo Silva,Manchester City,Portero,29,7,0,3,75447929
+2456,Carlos Perez,Arsenal,Mediocampista,21,37,13,13,81217306
+2457,Ricardo Flores,Manchester City,Delantero,20,16,38,8,157584775
+2458,Luis Ruiz,PSG,Portero,39,38,0,0,16478902
+2459,Ricardo Perez,Milan,Portero,33,18,0,0,103778888
+2460,Javier Torres,PSG,Portero,32,27,0,1,26210441
+2461,Ricardo Ruiz,Real Madrid,Portero,24,25,0,3,5847322
+2462,Andres Garcia,Barcelona,Delantero,31,22,14,4,14332343
+2463,Fernando Flores,Juventus,Defensa,26,31,2,9,179995080
+2464,Andres Hernandez,Bayern Munich,Mediocampista,23,8,7,24,20781198
+2465,Javier Ramirez,PSG,Defensa,30,24,0,8,8463070
+2466,Juan Silva,Juventus,Portero,20,37,0,2,121272549
+2467,Miguel Garcia,Arsenal,Defensa,19,27,4,6,78391150
+2468,Diego Torres,Juventus,Defensa,34,9,8,1,136600504
+2469,Javier Torres,PSG,Portero,30,14,0,1,114632326
+2470,Andres Hernandez,Bayern Munich,Defensa,38,20,8,3,142266898
+2471,Carlos Lopez,Liverpool,Mediocampista,35,22,1,12,169806611
+2472,Luis Diaz,PSG,Mediocampista,38,14,8,0,38340502
+2473,Ricardo Flores,Chelsea,Portero,25,25,0,1,146597695
+2474,Luis Ramirez,Real Madrid,Portero,33,21,0,2,25916421
+2475,Ricardo Hernandez,Liverpool,Delantero,24,25,27,5,8037899
+2476,Diego Flores,PSG,Delantero,26,29,17,5,166287957
+2477,Javier Lopez,Bayern Munich,Portero,21,8,0,3,114286712
+2478,Luis Hernandez,Barcelona,Portero,24,6,0,0,95998445
+2479,Miguel Garcia,Chelsea,Delantero,25,16,18,5,175294439
+2480,Andres Flores,Chelsea,Mediocampista,29,26,5,21,9085372
+2481,Andres Hernandez,PSG,Portero,34,29,0,2,181278997
+2482,Andres Garcia,Milan,Portero,26,25,0,3,174504895
+2483,Ricardo Ramirez,Liverpool,Delantero,37,35,39,3,7994516
+2484,Juan Ruiz,Barcelona,Defensa,36,17,0,2,31886005
+2485,Ricardo Ruiz,Barcelona,Delantero,38,13,6,11,78213032
+2486,Luis Lopez,Milan,Portero,40,25,0,1,3954430
+2487,Carlos Lopez,Arsenal,Defensa,34,18,7,8,146390047
+2488,Miguel Diaz,Milan,Defensa,20,28,5,1,36098439
+2489,Eduardo Ruiz,Juventus,Mediocampista,23,19,12,25,164783475
+2490,Diego Torres,Milan,Mediocampista,30,10,4,8,60652783
+2491,Andres Silva,Real Madrid,Defensa,21,21,7,4,114869594
+2492,Fernando Silva,Manchester City,Delantero,24,30,11,20,31613674
+2493,Javier Lopez,PSG,Mediocampista,25,14,3,10,12040156
+2494,Miguel Diaz,Barcelona,Defensa,22,27,4,5,18224606
+2495,Andres Silva,Chelsea,Defensa,37,8,0,0,113855884
+2496,Juan Ramirez,PSG,Defensa,29,26,1,8,119088314
+2497,Eduardo Silva,PSG,Defensa,29,15,6,7,128309273
+2498,Carlos Torres,Juventus,Delantero,32,19,20,5,108915968
+2499,Luis Perez,Barcelona,Mediocampista,23,37,13,20,126782504
+2500,Eduardo Ruiz,PSG,Delantero,19,17,37,16,7483503
+2501,Eduardo Silva,Bayern Munich,Mediocampista,24,21,13,3,125658863
+2502,Luis Ruiz,Chelsea,Delantero,39,30,5,9,53837341
+2503,Andres Flores,Chelsea,Delantero,20,14,38,9,59237915
+2504,Ricardo Flores,PSG,Portero,35,37,0,1,24208246
+2505,Diego Silva,Bayern Munich,Defensa,24,26,8,10,98012521
+2506,Javier Diaz,Manchester City,Portero,27,23,0,3,88525736
+2507,Diego Perez,Milan,Defensa,24,19,1,10,159612422
+2508,Juan Silva,Chelsea,Portero,19,19,0,3,29606013
+2509,Carlos Lopez,Milan,Portero,20,5,0,1,94553865
+2510,Ricardo Ruiz,Juventus,Mediocampista,25,16,11,13,150662155
+2511,Juan Lopez,Barcelona,Delantero,34,30,29,6,40125920
+2512,Diego Silva,Liverpool,Portero,25,37,0,3,164604334
+2513,Fernando Lopez,Juventus,Defensa,26,8,4,9,16174434
+2514,Fernando Perez,Arsenal,Defensa,22,31,8,2,157998117
+2515,Ricardo Ramirez,Milan,Portero,38,22,0,2,89144544
+2516,Carlos Garcia,Manchester City,Portero,25,17,0,0,25290515
+2517,Juan Perez,PSG,Delantero,29,34,11,10,22225090
+2518,Javier Perez,Arsenal,Defensa,39,21,1,4,43656015
+2519,Fernando Lopez,Manchester City,Defensa,39,6,5,6,12162696
+2520,Miguel Flores,Arsenal,Defensa,18,17,4,10,94505414
+2521,Carlos Diaz,Real Madrid,Mediocampista,19,14,12,5,188869166
+2522,Luis Ramirez,Arsenal,Mediocampista,32,19,4,2,166490794
+2523,Carlos Diaz,Manchester City,Delantero,35,36,39,11,32128429
+2524,Carlos Lopez,Real Madrid,Delantero,19,9,23,14,192543013
+2525,Juan Diaz,Barcelona,Mediocampista,29,12,12,23,183432450
+2526,Ricardo Hernandez,Chelsea,Defensa,29,25,1,10,37210446
+2527,Miguel Silva,Real Madrid,Portero,34,24,0,1,109364254
+2528,Diego Ruiz,PSG,Mediocampista,21,21,5,4,181852935
+2529,Andres Perez,PSG,Defensa,22,31,7,7,69415850
+2530,Juan Silva,Chelsea,Mediocampista,19,31,2,7,7873297
+2531,Andres Lopez,Juventus,Defensa,23,15,0,4,193122303
+2532,Diego Diaz,Barcelona,Defensa,29,20,2,3,104198852
+2533,Juan Ruiz,Barcelona,Portero,29,7,0,1,102290442
+2534,Juan Torres,PSG,Portero,35,38,0,1,172059961
+2535,Carlos Silva,Milan,Delantero,33,34,35,1,43514933
+2536,Fernando Ruiz,Barcelona,Delantero,34,29,5,4,165134650
+2537,Fernando Torres,Bayern Munich,Delantero,31,28,4,3,1814087
+2538,Ricardo Ramirez,Arsenal,Defensa,24,33,0,4,96624306
+2539,Andres Lopez,Liverpool,Mediocampista,25,21,2,15,163806098
+2540,Ricardo Flores,Arsenal,Mediocampista,40,14,2,0,160320955
+2541,Andres Hernandez,Juventus,Portero,29,22,0,2,112796688
+2542,Diego Lopez,Bayern Munich,Portero,38,9,0,2,158929256
+2543,Carlos Hernandez,PSG,Defensa,18,38,0,8,135847979
+2544,Juan Hernandez,PSG,Portero,34,6,0,0,106515745
+2545,Eduardo Ramirez,Bayern Munich,Defensa,34,8,7,0,161056050
+2546,Miguel Perez,Real Madrid,Delantero,23,23,27,6,181304795
+2547,Carlos Silva,Real Madrid,Delantero,19,7,35,3,192202428
+2548,Fernando Flores,Milan,Mediocampista,19,26,14,18,85485806
+2549,Ricardo Garcia,Barcelona,Defensa,19,32,2,5,90167628
+2550,Juan Torres,Real Madrid,Portero,18,26,0,2,156235963
+2551,Eduardo Torres,Arsenal,Mediocampista,29,30,10,24,66572264
+2552,Javier Diaz,Milan,Defensa,28,9,5,5,152098918
+2553,Ricardo Garcia,Barcelona,Defensa,29,31,1,4,107387019
+2554,Luis Flores,Chelsea,Mediocampista,34,34,6,9,13227069
+2555,Diego Lopez,PSG,Mediocampista,38,9,6,1,124873901
+2556,Eduardo Flores,Bayern Munich,Defensa,25,21,2,1,78976507
+2557,Ricardo Silva,Barcelona,Mediocampista,33,17,15,16,35827647
+2558,Carlos Lopez,Barcelona,Delantero,26,14,31,14,41340047
+2559,Juan Silva,Real Madrid,Defensa,32,12,8,10,86460897
+2560,Andres Garcia,Real Madrid,Defensa,26,26,5,2,139892684
+2561,Andres Torres,Bayern Munich,Portero,29,6,0,0,3065540
+2562,Andres Garcia,Chelsea,Delantero,40,23,11,14,57571430
+2563,Ricardo Ramirez,Chelsea,Portero,27,5,0,0,88801999
+2564,Luis Ramirez,Liverpool,Mediocampista,33,15,6,5,72672923
+2565,Miguel Ruiz,Chelsea,Defensa,39,13,5,1,160393484
+2566,Carlos Garcia,Milan,Mediocampista,33,15,3,2,136070762
+2567,Carlos Ramirez,Real Madrid,Delantero,37,25,19,11,5850866
+2568,Diego Ruiz,Bayern Munich,Mediocampista,20,13,7,12,70154064
+2569,Fernando Torres,Arsenal,Mediocampista,30,35,3,12,35051643
+2570,Eduardo Lopez,Barcelona,Defensa,18,36,6,8,98923674
+2571,Carlos Torres,Bayern Munich,Mediocampista,29,29,3,9,162316518
+2572,Eduardo Ruiz,Milan,Portero,29,33,0,1,44409546
+2573,Miguel Perez,PSG,Mediocampista,21,13,13,10,27138000
+2574,Eduardo Hernandez,Barcelona,Portero,18,22,0,1,188865974
+2575,Ricardo Perez,Juventus,Portero,30,37,0,2,165620025
+2576,Diego Hernandez,PSG,Portero,30,34,0,0,157939545
+2577,Eduardo Hernandez,Juventus,Delantero,34,19,31,3,192520744
+2578,Javier Garcia,Arsenal,Delantero,32,22,22,1,142629111
+2579,Andres Diaz,Milan,Portero,26,37,0,2,10749370
+2580,Eduardo Lopez,Barcelona,Delantero,40,38,38,7,169246878
+2581,Javier Diaz,Liverpool,Delantero,39,13,11,11,62762793
+2582,Javier Hernandez,Liverpool,Delantero,35,20,26,12,51611356
+2583,Luis Ruiz,Barcelona,Mediocampista,21,6,8,17,87868274
+2584,Miguel Flores,Barcelona,Portero,31,23,0,1,141405468
+2585,Eduardo Ruiz,Bayern Munich,Delantero,26,18,4,9,100076664
+2586,Luis Ruiz,Arsenal,Portero,24,26,0,3,6504713
+2587,Luis Ruiz,Real Madrid,Defensa,35,22,0,5,169166046
+2588,Carlos Ruiz,PSG,Mediocampista,40,8,11,4,132762421
+2589,Javier Hernandez,Chelsea,Mediocampista,35,12,3,19,161088555
+2590,Juan Ramirez,Manchester City,Mediocampista,32,38,10,20,75277861
+2591,Javier Diaz,Liverpool,Mediocampista,33,29,15,8,153730534
+2592,Eduardo Silva,Milan,Delantero,32,36,0,13,124498253
+2593,Fernando Torres,Real Madrid,Mediocampista,20,34,14,17,185950328
+2594,Carlos Diaz,Liverpool,Delantero,20,36,16,16,107191906
+2595,Juan Silva,Liverpool,Mediocampista,31,22,14,4,181387209
+2596,Ricardo Diaz,Liverpool,Portero,38,18,0,2,127459668
+2597,Eduardo Hernandez,PSG,Portero,21,33,0,3,9235109
+2598,Fernando Hernandez,Juventus,Mediocampista,33,8,13,8,87196136
+2599,Eduardo Garcia,Manchester City,Defensa,29,30,4,3,9820631
+2600,Andres Torres,Juventus,Delantero,28,18,5,5,196498181
+2601,Luis Ruiz,Bayern Munich,Mediocampista,29,19,14,13,53435880
+2602,Carlos Torres,Bayern Munich,Mediocampista,19,10,9,7,7656673
+2603,Javier Ruiz,Barcelona,Portero,29,5,0,2,91830574
+2604,Luis Torres,Arsenal,Delantero,22,13,28,5,181199987
+2605,Ricardo Garcia,Milan,Delantero,19,11,23,8,120588172
+2606,Miguel Silva,Juventus,Delantero,40,31,10,3,85078862
+2607,Javier Ramirez,Bayern Munich,Defensa,19,11,8,5,121651756
+2608,Javier Hernandez,Milan,Mediocampista,34,21,7,1,98527308
+2609,Diego Ramirez,Bayern Munich,Mediocampista,32,30,9,5,87004696
+2610,Luis Ramirez,Liverpool,Portero,33,26,0,1,170414148
+2611,Miguel Garcia,PSG,Mediocampista,23,34,1,15,186198397
+2612,Miguel Flores,Arsenal,Mediocampista,37,10,8,19,106392482
+2613,Ricardo Ruiz,Manchester City,Mediocampista,21,13,7,21,25815391
+2614,Eduardo Flores,Milan,Delantero,33,23,31,4,22598285
+2615,Diego Hernandez,Chelsea,Delantero,31,5,5,3,76650276
+2616,Eduardo Ramirez,Bayern Munich,Portero,35,36,0,2,110076664
+2617,Diego Diaz,Arsenal,Mediocampista,37,25,0,2,124869009
+2618,Andres Hernandez,Juventus,Portero,30,6,0,0,71916079
+2619,Luis Silva,Real Madrid,Portero,38,18,0,1,199759259
+2620,Diego Ruiz,Arsenal,Defensa,27,14,6,6,29215236
+2621,Javier Hernandez,Liverpool,Portero,24,29,0,2,64527019
+2622,Carlos Diaz,Arsenal,Defensa,18,27,3,5,33507898
+2623,Javier Lopez,Milan,Mediocampista,37,11,12,3,37515069
+2624,Juan Diaz,Manchester City,Delantero,35,7,36,2,47120557
+2625,Andres Perez,Chelsea,Defensa,26,15,3,8,87859348
+2626,Fernando Hernandez,Juventus,Mediocampista,26,24,5,24,2151212
+2627,Ricardo Lopez,Liverpool,Mediocampista,39,11,10,16,100376349
+2628,Luis Torres,Liverpool,Portero,35,33,0,2,102672968
+2629,Ricardo Perez,PSG,Delantero,37,23,38,18,156507216
+2630,Eduardo Perez,Arsenal,Defensa,21,21,7,2,43748274
+2631,Ricardo Ramirez,Manchester City,Delantero,25,10,20,16,169313252
+2632,Eduardo Ruiz,Barcelona,Mediocampista,31,26,5,21,7307397
+2633,Fernando Silva,Arsenal,Portero,39,25,0,1,194187842
+2634,Eduardo Perez,Bayern Munich,Mediocampista,35,24,14,12,119220055
+2635,Javier Ramirez,PSG,Delantero,21,17,17,1,80346234
+2636,Ricardo Silva,Real Madrid,Defensa,30,21,5,2,80998257
+2637,Luis Garcia,Bayern Munich,Mediocampista,32,29,13,8,71386939
+2638,Eduardo Perez,Bayern Munich,Portero,32,34,0,0,157771193
+2639,Miguel Silva,Real Madrid,Portero,39,5,0,2,88164446
+2640,Luis Perez,Chelsea,Delantero,33,20,24,14,129963427
+2641,Andres Hernandez,Bayern Munich,Defensa,29,21,6,7,118833258
+2642,Diego Garcia,Juventus,Delantero,35,6,15,8,173130313
+2643,Luis Perez,Arsenal,Delantero,40,33,22,18,156026945
+2644,Luis Flores,Real Madrid,Mediocampista,19,7,5,16,99472746
+2645,Javier Garcia,Real Madrid,Delantero,37,19,5,2,55491348
+2646,Eduardo Diaz,Real Madrid,Delantero,19,26,18,9,1945832
+2647,Andres Garcia,Chelsea,Delantero,19,10,11,19,15330788
+2648,Luis Perez,Chelsea,Defensa,36,18,8,3,87112155
+2649,Andres Perez,Arsenal,Portero,39,25,0,3,185896227
+2650,Luis Silva,Liverpool,Portero,19,12,0,0,116827780
+2651,Ricardo Flores,Arsenal,Defensa,24,21,5,8,59852786
+2652,Diego Hernandez,Real Madrid,Portero,36,14,0,2,18346392
+2653,Diego Diaz,PSG,Portero,20,31,0,1,188804058
+2654,Andres Hernandez,Milan,Portero,24,25,0,0,97117460
+2655,Andres Ramirez,Manchester City,Delantero,22,17,20,1,149370498
+2656,Juan Garcia,Barcelona,Defensa,33,36,0,9,117216169
+2657,Miguel Torres,PSG,Delantero,40,31,23,16,78924093
+2658,Eduardo Perez,Chelsea,Delantero,39,17,18,17,47952686
+2659,Luis Garcia,Barcelona,Defensa,31,8,6,0,112256302
+2660,Andres Garcia,Barcelona,Mediocampista,31,26,14,22,114346770
+2661,Andres Garcia,PSG,Defensa,39,16,1,1,166785990
+2662,Andres Ramirez,Juventus,Defensa,34,38,3,3,113297377
+2663,Ricardo Perez,Real Madrid,Defensa,30,27,8,2,36574813
+2664,Carlos Lopez,Juventus,Portero,25,27,0,1,198331794
+2665,Carlos Silva,Manchester City,Portero,23,26,0,0,109692374
+2666,Fernando Lopez,Bayern Munich,Mediocampista,22,21,4,19,117100558
+2667,Andres Perez,Chelsea,Defensa,23,19,0,8,179471741
+2668,Ricardo Silva,PSG,Mediocampista,26,13,11,25,68220086
+2669,Ricardo Ramirez,PSG,Portero,32,20,0,3,69592410
+2670,Juan Silva,Juventus,Portero,26,27,0,1,1921922
+2671,Juan Ramirez,Bayern Munich,Mediocampista,19,7,13,18,95821833
+2672,Luis Perez,Real Madrid,Delantero,38,21,30,9,169883949
+2673,Eduardo Hernandez,PSG,Portero,28,11,0,0,162893447
+2674,Eduardo Torres,Barcelona,Defensa,37,36,6,8,150067247
+2675,Ricardo Ramirez,Arsenal,Mediocampista,36,38,3,20,143442702
+2676,Eduardo Perez,Barcelona,Delantero,31,20,19,0,118390082
+2677,Diego Lopez,Bayern Munich,Delantero,19,29,17,9,18540249
+2678,Miguel Silva,Real Madrid,Mediocampista,18,11,12,5,147291878
+2679,Eduardo Ramirez,Juventus,Delantero,34,28,1,19,55683967
+2680,Fernando Torres,Milan,Mediocampista,36,11,8,14,94549328
+2681,Fernando Perez,Manchester City,Delantero,23,19,8,10,32671156
+2682,Fernando Garcia,PSG,Defensa,25,32,8,1,80851254
+2683,Fernando Diaz,Barcelona,Mediocampista,33,16,12,7,107293689
+2684,Javier Hernandez,Bayern Munich,Defensa,38,12,0,5,97920356
+2685,Javier Ruiz,Chelsea,Delantero,27,30,7,7,42501658
+2686,Ricardo Lopez,Arsenal,Portero,19,12,0,3,66546485
+2687,Carlos Lopez,Chelsea,Delantero,31,18,25,11,193627939
+2688,Javier Ruiz,Real Madrid,Defensa,40,26,3,3,144522097
+2689,Eduardo Flores,Manchester City,Delantero,29,6,13,2,77383208
+2690,Juan Torres,Chelsea,Defensa,22,23,1,2,139718208
+2691,Juan Ramirez,PSG,Delantero,26,12,22,16,157788750
+2692,Eduardo Lopez,Arsenal,Delantero,37,14,17,17,190061493
+2693,Andres Diaz,PSG,Portero,31,8,0,2,184844519
+2694,Andres Ramirez,Real Madrid,Portero,30,29,0,1,41907722
+2695,Eduardo Hernandez,PSG,Portero,24,38,0,3,190493655
+2696,Andres Perez,Chelsea,Defensa,33,21,1,5,114515468
+2697,Luis Ruiz,Chelsea,Mediocampista,19,8,14,3,177021085
+2698,Javier Silva,PSG,Mediocampista,31,18,2,14,132595094
+2699,Ricardo Ramirez,PSG,Mediocampista,38,11,0,2,82662993
+2700,Luis Silva,PSG,Delantero,22,17,4,3,24470058
+2701,Carlos Perez,Milan,Defensa,24,31,2,6,191698444
+2702,Miguel Lopez,Bayern Munich,Portero,21,25,0,3,195692101
+2703,Juan Diaz,Milan,Portero,22,11,0,1,159334100
+2704,Javier Garcia,Chelsea,Defensa,23,20,8,0,196941535
+2705,Diego Hernandez,Arsenal,Mediocampista,31,29,14,10,64127224
+2706,Fernando Torres,Barcelona,Defensa,21,14,6,6,147849860
+2707,Luis Flores,Milan,Defensa,33,31,0,7,19426884
+2708,Javier Lopez,Manchester City,Defensa,20,35,4,10,8894450
+2709,Miguel Diaz,Chelsea,Portero,37,17,0,0,30422117
+2710,Javier Lopez,Liverpool,Portero,20,9,0,1,154809433
+2711,Javier Diaz,Manchester City,Portero,35,36,0,1,29383831
+2712,Fernando Diaz,Real Madrid,Mediocampista,31,21,13,3,174217557
+2713,Carlos Ramirez,Real Madrid,Mediocampista,40,24,12,9,183170301
+2714,Carlos Silva,Milan,Defensa,19,9,6,8,19219740
+2715,Diego Perez,Milan,Portero,32,24,0,2,179825554
+2716,Juan Torres,Real Madrid,Mediocampista,39,28,4,5,115621759
+2717,Carlos Torres,Bayern Munich,Mediocampista,26,23,5,21,86643149
+2718,Carlos Ruiz,Milan,Defensa,20,25,4,3,172034322
+2719,Luis Diaz,Arsenal,Defensa,40,17,3,3,9050150
+2720,Ricardo Flores,Arsenal,Portero,35,31,0,1,144521085
+2721,Javier Perez,Arsenal,Portero,26,6,0,1,157131186
+2722,Miguel Ramirez,Arsenal,Defensa,25,33,3,9,128985267
+2723,Miguel Ruiz,Manchester City,Portero,20,19,0,1,43164357
+2724,Diego Flores,Arsenal,Mediocampista,37,27,10,11,36108499
+2725,Ricardo Flores,Liverpool,Delantero,27,25,18,8,115947294
+2726,Juan Hernandez,Liverpool,Mediocampista,39,27,2,4,23442136
+2727,Javier Hernandez,PSG,Portero,35,35,0,2,199648929
+2728,Diego Perez,Milan,Defensa,31,12,2,0,62158385
+2729,Ricardo Hernandez,Bayern Munich,Defensa,24,9,0,9,28270113
+2730,Ricardo Hernandez,Chelsea,Defensa,28,14,7,1,77893413
+2731,Miguel Lopez,Milan,Defensa,26,30,4,5,189285649
+2732,Miguel Hernandez,Manchester City,Delantero,32,12,12,4,78286515
+2733,Carlos Diaz,PSG,Delantero,24,29,4,3,58394295
+2734,Ricardo Hernandez,Milan,Defensa,22,6,7,6,38458297
+2735,Ricardo Lopez,Milan,Portero,32,7,0,1,129788367
+2736,Javier Torres,Barcelona,Portero,19,31,0,2,100707698
+2737,Javier Torres,Barcelona,Defensa,33,18,0,6,32317635
+2738,Carlos Diaz,Bayern Munich,Portero,25,25,0,2,76637186
+2739,Andres Lopez,Juventus,Portero,31,11,0,2,10806177
+2740,Diego Garcia,Chelsea,Mediocampista,38,22,9,15,135288525
+2741,Ricardo Hernandez,Liverpool,Defensa,29,12,7,4,167582874
+2742,Luis Ramirez,PSG,Delantero,27,29,10,7,133671943
+2743,Juan Lopez,Manchester City,Delantero,33,25,12,10,135598347
+2744,Eduardo Silva,Barcelona,Mediocampista,19,23,1,18,140496347
+2745,Fernando Silva,PSG,Defensa,25,6,3,3,85099755
+2746,Carlos Hernandez,Real Madrid,Portero,30,17,0,2,41003165
+2747,Javier Lopez,PSG,Mediocampista,29,5,5,6,194148158
+2748,Carlos Diaz,Barcelona,Mediocampista,28,11,10,5,4401474
+2749,Carlos Perez,Milan,Defensa,18,20,7,0,28273645
+2750,Fernando Perez,Juventus,Mediocampista,20,9,2,13,149357022
+2751,Fernando Silva,Manchester City,Defensa,25,23,7,1,159611358
+2752,Fernando Silva,Juventus,Defensa,31,10,8,10,131827373
+2753,Luis Hernandez,Bayern Munich,Portero,31,13,0,1,136434193
+2754,Javier Ruiz,Chelsea,Portero,37,26,0,1,38090041
+2755,Fernando Lopez,Arsenal,Delantero,31,35,32,14,58275433
+2756,Juan Silva,Liverpool,Delantero,29,19,34,17,104898401
+2757,Andres Hernandez,Bayern Munich,Portero,30,10,0,2,50882432
+2758,Javier Hernandez,Liverpool,Portero,31,38,0,0,160591427
+2759,Carlos Flores,Manchester City,Delantero,18,32,17,11,24898262
+2760,Javier Torres,Chelsea,Portero,18,11,0,0,163931680
+2761,Fernando Flores,Real Madrid,Portero,33,24,0,0,55354209
+2762,Fernando Flores,PSG,Delantero,27,16,29,20,76690946
+2763,Diego Torres,Chelsea,Defensa,26,15,4,8,114550462
+2764,Miguel Perez,Milan,Defensa,34,27,5,3,133551607
+2765,Javier Ramirez,Bayern Munich,Defensa,25,36,6,0,84913048
+2766,Carlos Silva,Arsenal,Portero,36,5,0,0,151699681
+2767,Ricardo Garcia,Liverpool,Delantero,31,25,40,4,181228903
+2768,Diego Ruiz,Chelsea,Portero,34,25,0,0,38974401
+2769,Eduardo Hernandez,Chelsea,Portero,38,24,0,3,105764719
+2770,Eduardo Diaz,Arsenal,Delantero,31,5,24,3,97641309
+2771,Diego Flores,Chelsea,Portero,31,26,0,3,187056896
+2772,Juan Diaz,PSG,Defensa,30,22,2,1,66725693
+2773,Ricardo Diaz,Manchester City,Mediocampista,29,30,4,8,73496021
+2774,Miguel Garcia,Arsenal,Portero,33,23,0,0,138312120
+2775,Andres Flores,Real Madrid,Portero,23,21,0,2,124842101
+2776,Andres Flores,Real Madrid,Mediocampista,23,29,1,12,96126276
+2777,Andres Silva,Milan,Delantero,36,14,36,18,195118959
+2778,Diego Ramirez,Chelsea,Portero,30,12,0,2,152665725
+2779,Eduardo Perez,Arsenal,Delantero,25,35,30,12,6699729
+2780,Ricardo Garcia,Bayern Munich,Portero,25,5,0,1,141448830
+2781,Eduardo Diaz,Real Madrid,Mediocampista,24,36,13,15,156672086
+2782,Andres Ruiz,Barcelona,Portero,40,35,0,1,124480067
+2783,Juan Perez,PSG,Portero,34,20,0,2,38136494
+2784,Miguel Diaz,Manchester City,Defensa,38,33,2,9,46219067
+2785,Carlos Perez,Chelsea,Defensa,38,13,0,7,123533805
+2786,Fernando Flores,Bayern Munich,Delantero,26,29,39,2,51157601
+2787,Diego Ruiz,Juventus,Delantero,18,24,8,15,54520275
+2788,Luis Lopez,PSG,Portero,33,19,0,3,155310821
+2789,Diego Garcia,Barcelona,Delantero,23,35,2,7,112792844
+2790,Ricardo Lopez,Barcelona,Portero,31,26,0,1,35934781
+2791,Ricardo Diaz,Barcelona,Mediocampista,26,28,4,8,97520676
+2792,Luis Torres,Real Madrid,Defensa,35,18,3,6,7606100
+2793,Javier Ramirez,Manchester City,Mediocampista,21,15,5,2,128181741
+2794,Miguel Torres,Liverpool,Defensa,40,38,3,6,121148619
+2795,Javier Lopez,Manchester City,Portero,40,15,0,0,22901621
+2796,Luis Flores,PSG,Portero,34,10,0,1,180865320
+2797,Diego Lopez,Juventus,Mediocampista,29,8,14,10,19715552
+2798,Juan Torres,Arsenal,Defensa,28,9,5,10,80672280
+2799,Carlos Ramirez,Manchester City,Delantero,38,37,25,14,104793299
+2800,Luis Perez,Juventus,Mediocampista,30,35,3,19,108257973
+2801,Diego Torres,Juventus,Delantero,35,8,33,4,192159800
+2802,Diego Hernandez,Bayern Munich,Portero,28,5,0,3,184692311
+2803,Carlos Garcia,Milan,Mediocampista,38,9,2,14,140569630
+2804,Luis Diaz,Barcelona,Mediocampista,33,36,13,7,89225175
+2805,Carlos Diaz,Bayern Munich,Mediocampista,37,32,11,2,126101856
+2806,Juan Hernandez,Chelsea,Mediocampista,40,33,14,21,196538795
+2807,Miguel Hernandez,Chelsea,Portero,40,18,0,3,74886378
+2808,Ricardo Ruiz,Juventus,Mediocampista,22,24,11,17,44523132
+2809,Juan Silva,Manchester City,Mediocampista,21,31,10,20,137875501
+2810,Ricardo Ruiz,Arsenal,Defensa,19,35,7,1,24682119
+2811,Carlos Torres,PSG,Defensa,29,6,1,2,71105474
+2812,Juan Diaz,Chelsea,Defensa,25,29,1,2,138066788
+2813,Javier Garcia,Real Madrid,Mediocampista,27,20,6,16,103717516
+2814,Eduardo Silva,PSG,Portero,24,32,0,3,167304051
+2815,Diego Diaz,Bayern Munich,Portero,38,20,0,2,39458592
+2816,Eduardo Ramirez,Arsenal,Portero,23,11,0,0,193544908
+2817,Javier Perez,Chelsea,Mediocampista,22,30,4,4,111439386
+2818,Juan Flores,Juventus,Defensa,36,38,7,7,116822664
+2819,Eduardo Ramirez,Milan,Portero,24,24,0,0,38441768
+2820,Ricardo Hernandez,Real Madrid,Portero,24,23,0,1,9144726
+2821,Luis Diaz,Bayern Munich,Delantero,38,33,23,6,15681743
+2822,Andres Silva,Barcelona,Portero,20,36,0,1,129356215
+2823,Eduardo Garcia,Bayern Munich,Defensa,30,38,0,5,66488594
+2824,Javier Diaz,Liverpool,Portero,38,38,0,1,171927470
+2825,Eduardo Garcia,Chelsea,Portero,30,22,0,3,167605969
+2826,Eduardo Perez,Manchester City,Portero,25,32,0,1,128029463
+2827,Juan Ramirez,Manchester City,Portero,25,22,0,1,141658602
+2828,Fernando Ramirez,Chelsea,Delantero,34,6,9,19,23480523
+2829,Ricardo Ramirez,Real Madrid,Delantero,34,35,9,19,107855273
+2830,Andres Ruiz,Chelsea,Delantero,20,8,28,0,166164986
+2831,Ricardo Hernandez,Barcelona,Portero,29,35,0,0,177895015
+2832,Andres Garcia,Liverpool,Delantero,30,28,34,16,122065317
+2833,Diego Lopez,Arsenal,Defensa,25,18,3,3,11356916
+2834,Fernando Diaz,Manchester City,Portero,35,23,0,1,12177667
+2835,Andres Hernandez,Chelsea,Portero,33,38,0,0,81286619
+2836,Juan Garcia,Bayern Munich,Defensa,29,16,6,10,53514123
+2837,Diego Flores,Bayern Munich,Portero,34,16,0,0,197825092
+2838,Javier Garcia,Barcelona,Delantero,39,31,23,10,66723598
+2839,Ricardo Lopez,Arsenal,Mediocampista,40,12,4,19,91319239
+2840,Fernando Flores,Liverpool,Defensa,33,17,6,2,45065960
+2841,Javier Garcia,PSG,Defensa,29,36,0,0,194465259
+2842,Eduardo Ramirez,Chelsea,Portero,27,11,0,3,33194097
+2843,Diego Hernandez,Real Madrid,Defensa,31,30,5,7,46180571
+2844,Ricardo Torres,Chelsea,Defensa,35,36,1,10,193704483
+2845,Miguel Torres,PSG,Delantero,36,6,34,12,181060971
+2846,Eduardo Lopez,Juventus,Portero,25,24,0,1,194747467
+2847,Ricardo Silva,Real Madrid,Delantero,36,10,12,7,125457473
+2848,Diego Torres,Chelsea,Delantero,33,7,28,1,113121597
+2849,Juan Ruiz,Real Madrid,Delantero,39,6,40,8,150326514
+2850,Ricardo Diaz,Real Madrid,Mediocampista,33,9,5,12,146935044
+2851,Ricardo Lopez,Chelsea,Defensa,23,36,7,5,104650786
+2852,Luis Ramirez,Manchester City,Mediocampista,28,22,7,6,65029103
+2853,Juan Ruiz,Arsenal,Mediocampista,36,12,1,25,127345382
+2854,Carlos Hernandez,Barcelona,Mediocampista,21,18,13,19,192691521
+2855,Diego Garcia,Arsenal,Delantero,25,9,35,15,107204631
+2856,Andres Silva,Juventus,Mediocampista,29,23,11,5,54811981
+2857,Eduardo Perez,Juventus,Portero,38,24,0,2,35343478
+2858,Andres Diaz,Liverpool,Defensa,20,19,0,5,86042486
+2859,Luis Perez,Arsenal,Delantero,35,29,32,11,191493984
+2860,Ricardo Garcia,Milan,Defensa,38,12,4,3,4763329
+2861,Juan Ruiz,Arsenal,Mediocampista,39,8,9,7,72728235
+2862,Eduardo Hernandez,Manchester City,Portero,33,13,0,1,42185834
+2863,Javier Ruiz,Manchester City,Portero,40,37,0,2,48140649
+2864,Miguel Ruiz,Manchester City,Defensa,29,17,5,6,196859335
+2865,Andres Diaz,Liverpool,Mediocampista,39,18,11,21,129164701
+2866,Ricardo Ramirez,Bayern Munich,Portero,18,23,0,1,9544395
+2867,Carlos Torres,Milan,Portero,37,14,0,1,17008212
+2868,Diego Hernandez,PSG,Portero,37,34,0,3,133895265
+2869,Eduardo Silva,Real Madrid,Portero,24,14,0,2,160042820
+2870,Fernando Perez,Barcelona,Delantero,28,29,20,20,59751197
+2871,Carlos Perez,Bayern Munich,Portero,39,18,0,2,15943260
+2872,Luis Silva,Barcelona,Mediocampista,40,22,5,25,27600365
+2873,Diego Ruiz,Real Madrid,Delantero,35,23,14,12,194728473
+2874,Eduardo Diaz,Liverpool,Portero,23,15,0,1,166929569
+2875,Andres Flores,Liverpool,Delantero,20,30,18,7,40982577
+2876,Eduardo Torres,Liverpool,Portero,31,7,0,1,149409106
+2877,Luis Flores,Barcelona,Mediocampista,30,38,1,1,100517208
+2878,Carlos Flores,Liverpool,Mediocampista,19,33,14,24,139820027
+2879,Eduardo Diaz,Arsenal,Defensa,30,34,3,2,114254832
+2880,Ricardo Silva,Manchester City,Portero,27,35,0,1,99464961
+2881,Diego Lopez,Real Madrid,Portero,22,19,0,1,153829455
+2882,Andres Hernandez,Chelsea,Mediocampista,19,36,4,11,13486926
+2883,Luis Ruiz,Real Madrid,Mediocampista,18,14,13,16,16891556
+2884,Eduardo Garcia,PSG,Delantero,18,35,14,20,154956337
+2885,Ricardo Garcia,Liverpool,Mediocampista,39,36,5,7,41306251
+2886,Carlos Lopez,PSG,Mediocampista,34,38,11,15,103434905
+2887,Diego Hernandez,Real Madrid,Defensa,30,14,5,9,52647781
+2888,Javier Hernandez,Chelsea,Defensa,39,22,1,3,189035572
+2889,Luis Hernandez,Juventus,Portero,30,26,0,1,111906432
+2890,Carlos Perez,Arsenal,Portero,30,13,0,1,4533924
+2891,Eduardo Perez,Liverpool,Defensa,32,6,7,10,42489921
+2892,Juan Ramirez,Barcelona,Portero,26,25,0,0,41650465
+2893,Luis Ruiz,Chelsea,Defensa,30,21,7,4,109693095
+2894,Eduardo Diaz,Chelsea,Defensa,27,22,3,7,163304601
+2895,Miguel Ruiz,Real Madrid,Defensa,23,18,1,6,151854403
+2896,Juan Ruiz,Chelsea,Portero,25,11,0,1,95246739
+2897,Fernando Flores,Real Madrid,Defensa,36,22,7,10,51645699
+2898,Diego Perez,Bayern Munich,Delantero,34,29,4,13,107258574
+2899,Ricardo Torres,Real Madrid,Delantero,21,23,1,6,174337602
+2900,Andres Flores,PSG,Mediocampista,20,14,10,23,173457213
+2901,Juan Ramirez,Manchester City,Mediocampista,19,10,10,7,60068536
+2902,Carlos Hernandez,Milan,Mediocampista,34,18,0,0,45031114
+2903,Luis Torres,Bayern Munich,Defensa,22,19,0,0,150943443
+2904,Eduardo Torres,Milan,Mediocampista,27,23,11,6,177676054
+2905,Miguel Garcia,Juventus,Defensa,27,33,6,2,10575225
+2906,Diego Garcia,Milan,Defensa,28,17,7,3,69016424
+2907,Eduardo Flores,PSG,Defensa,33,38,2,1,71991082
+2908,Miguel Flores,PSG,Portero,35,29,0,3,143566463
+2909,Andres Garcia,Manchester City,Defensa,26,6,8,1,174931317
+2910,Javier Lopez,Liverpool,Defensa,30,27,7,5,160629221
+2911,Javier Garcia,Bayern Munich,Portero,28,32,0,0,146968463
+2912,Miguel Lopez,Bayern Munich,Defensa,19,27,6,4,79718174
+2913,Eduardo Flores,PSG,Mediocampista,20,26,12,17,190309932
+2914,Miguel Ramirez,PSG,Mediocampista,26,6,0,3,7936172
+2915,Carlos Diaz,Milan,Portero,25,26,0,3,29230498
+2916,Carlos Torres,Real Madrid,Defensa,24,23,7,3,97779321
+2917,Ricardo Silva,Juventus,Defensa,34,28,0,3,199973835
+2918,Fernando Perez,Juventus,Delantero,39,6,40,20,153176535
+2919,Eduardo Flores,PSG,Delantero,21,20,38,13,197946189
+2920,Diego Flores,Chelsea,Mediocampista,33,16,10,3,116103969
+2921,Andres Hernandez,Manchester City,Defensa,29,23,0,7,109226540
+2922,Juan Hernandez,Juventus,Mediocampista,31,11,3,23,106971328
+2923,Diego Diaz,Juventus,Defensa,23,27,7,10,110400874
+2924,Andres Hernandez,Real Madrid,Delantero,25,5,13,15,90576636
+2925,Andres Torres,Barcelona,Defensa,35,12,1,4,42148097
+2926,Fernando Lopez,Arsenal,Defensa,30,25,1,8,190069165
+2927,Javier Ramirez,Arsenal,Portero,30,20,0,1,110718055
+2928,Javier Perez,Liverpool,Mediocampista,25,34,7,9,11395680
+2929,Miguel Ramirez,Barcelona,Delantero,24,26,23,7,90999507
+2930,Andres Flores,Bayern Munich,Defensa,36,8,5,8,192742258
+2931,Carlos Garcia,Juventus,Delantero,34,20,27,9,197435925
+2932,Eduardo Ramirez,Bayern Munich,Delantero,35,8,6,13,37135021
+2933,Andres Torres,Juventus,Portero,29,22,0,0,107756987
+2934,Fernando Garcia,Juventus,Defensa,21,12,6,7,157502597
+2935,Luis Lopez,Milan,Delantero,19,16,7,14,174915661
+2936,Diego Perez,Bayern Munich,Mediocampista,25,26,0,21,29756264
+2937,Javier Diaz,Arsenal,Delantero,29,12,0,14,141180945
+2938,Miguel Diaz,Juventus,Portero,29,29,0,3,90532110
+2939,Luis Ramirez,Bayern Munich,Mediocampista,34,34,9,14,198970817
+2940,Fernando Hernandez,Barcelona,Delantero,26,36,35,7,47473224
+2941,Andres Ramirez,Arsenal,Mediocampista,22,30,5,22,164847082
+2942,Andres Silva,Real Madrid,Delantero,21,17,15,17,31549800
+2943,Luis Ramirez,Manchester City,Mediocampista,20,23,15,24,174186240
+2944,Luis Diaz,Manchester City,Defensa,26,24,7,8,103817875
+2945,Miguel Ramirez,Bayern Munich,Mediocampista,27,9,1,6,101043216
+2946,Miguel Hernandez,Milan,Mediocampista,25,10,2,15,73909128
+2947,Fernando Lopez,Bayern Munich,Defensa,25,19,6,5,125066568
+2948,Luis Perez,Bayern Munich,Portero,26,34,0,1,116119491
+2949,Eduardo Flores,Juventus,Defensa,22,29,2,8,6598552
+2950,Diego Garcia,Arsenal,Mediocampista,22,32,3,13,168650508
+2951,Andres Ruiz,Manchester City,Defensa,33,9,0,8,107327422
+2952,Luis Silva,PSG,Mediocampista,21,28,14,16,88899648
+2953,Andres Flores,Liverpool,Mediocampista,30,16,5,16,167799933
+2954,Luis Diaz,Real Madrid,Mediocampista,38,15,1,25,8904976
+2955,Carlos Lopez,PSG,Defensa,37,11,7,0,108824206
+2956,Andres Diaz,Bayern Munich,Delantero,33,27,35,11,127619424
+2957,Javier Hernandez,Real Madrid,Delantero,31,18,26,17,165330974
+2958,Fernando Flores,Real Madrid,Mediocampista,22,13,3,4,4968731
+2959,Luis Flores,Juventus,Defensa,32,20,5,3,105665833
+2960,Miguel Ramirez,Chelsea,Delantero,26,12,7,13,56828855
+2961,Fernando Flores,Arsenal,Portero,34,36,0,2,37899470
+2962,Juan Silva,Chelsea,Defensa,20,27,7,3,128715301
+2963,Luis Ramirez,Juventus,Defensa,27,7,7,9,78277819
+2964,Ricardo Ruiz,Bayern Munich,Mediocampista,18,11,6,24,101500577
+2965,Andres Hernandez,Liverpool,Portero,37,32,0,0,27582347
+2966,Juan Ramirez,Juventus,Portero,35,13,0,2,135490714
+2967,Javier Flores,Juventus,Delantero,26,25,37,17,108387026
+2968,Carlos Diaz,PSG,Mediocampista,22,26,7,10,197290847
+2969,Andres Ramirez,PSG,Defensa,40,19,6,3,188618088
+2970,Javier Ramirez,Real Madrid,Portero,34,8,0,1,73050151
+2971,Luis Silva,Liverpool,Defensa,37,34,1,4,144293309
+2972,Diego Silva,Arsenal,Mediocampista,26,17,12,2,117511084
+2973,Eduardo Ramirez,Juventus,Delantero,38,8,31,3,40110189
+2974,Javier Perez,Liverpool,Delantero,24,23,31,0,157904702
+2975,Ricardo Ramirez,Juventus,Defensa,27,10,7,0,33893080
+2976,Ricardo Garcia,Chelsea,Delantero,25,34,24,1,126591529
+2977,Andres Garcia,Real Madrid,Delantero,25,10,17,6,94385165
+2978,Luis Ramirez,PSG,Mediocampista,27,10,5,14,84247945
+2979,Andres Ramirez,Arsenal,Mediocampista,30,26,1,8,148363535
+2980,Diego Perez,PSG,Mediocampista,39,7,9,1,93771303
+2981,Javier Diaz,Milan,Portero,18,22,0,3,21865384
+2982,Miguel Lopez,Real Madrid,Defensa,25,15,1,1,138895878
+2983,Luis Torres,PSG,Portero,38,30,0,0,26878486
+2984,Eduardo Hernandez,Milan,Mediocampista,36,13,12,18,105576722
+2985,Luis Silva,Manchester City,Delantero,19,20,2,12,166555225
+2986,Miguel Ruiz,PSG,Mediocampista,30,26,14,10,112860963
+2987,Carlos Diaz,Milan,Delantero,31,6,37,0,169334703
+2988,Luis Ruiz,Real Madrid,Portero,39,38,0,1,43983145
+2989,Carlos Perez,Milan,Portero,27,16,0,3,181341500
+2990,Andres Garcia,Arsenal,Defensa,23,14,3,7,162903666
+2991,Juan Ramirez,Juventus,Defensa,34,18,8,0,63468883
+2992,Javier Lopez,Chelsea,Portero,26,12,0,2,122397620
+2993,Luis Flores,Real Madrid,Mediocampista,39,26,4,2,124963230
+2994,Luis Garcia,Manchester City,Portero,21,37,0,3,41582088
+2995,Andres Ruiz,Barcelona,Portero,19,11,0,1,42348985
+2996,Diego Silva,Barcelona,Defensa,20,28,8,9,120032286
+2997,Ricardo Lopez,Juventus,Defensa,34,8,8,3,130507157
+2998,Ricardo Diaz,Juventus,Portero,33,21,0,2,128213640
+2999,Fernando Ruiz,Liverpool,Portero,36,10,0,1,16163058
+3000,Diego Torres,Chelsea,Delantero,39,16,16,3,47632449
