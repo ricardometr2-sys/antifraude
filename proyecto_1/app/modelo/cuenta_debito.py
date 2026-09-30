@@ -7,8 +7,6 @@ class Cuenta_Debito(ABC):
         self.titular=titular
         self._saldo = 0
         
-    def consultar_saldo(self):
-        return self._saldo
 
     @abstractmethod
     def retirar(self, retiro)->bool:
@@ -25,7 +23,10 @@ class Cuenta_Normal(Cuenta_Debito):
         self.__nip=random.randint(1,999)
         self.__año_vencimiento=0
         self.__cvc=0
-        self._saldo=0
+        self.__saldo=0
+
+    def consultar_saldo(self):
+        return self.__saldo
 
     def retirar(self, retiro):
         self._saldo-=retiro
