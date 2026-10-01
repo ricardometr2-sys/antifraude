@@ -3,7 +3,7 @@ import random
 class Cuenta_Credito:
     def __init__(self, num_cuenta, titular):
         self.__num_cuenta=num_cuenta
-        self.__nip=random.randit(1, 999)
+        self.__nip=random.randint(1, 999)
         self._titular=titular
         self._limite_credito=0
 

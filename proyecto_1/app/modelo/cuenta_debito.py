@@ -27,13 +27,13 @@ class Cuenta_Normal(Cuenta_Debito):
     def consultar_saldo(self):
         return self.__saldo
 
-    def retirar(self, retiro):
+    def retirar(self, retiro) -> bool:
         self.__saldo-=retiro
-        return
+        return True
 
-    def depositar(self, deposito):
+    def depositar(self, deposito) -> bool:
         self.__saldo+=deposito
-        return
+        return True
 
     @property
     def nip(self):
@@ -43,12 +43,12 @@ class Cuenta_Ahorro(Cuenta_Debito):
     def __init__(self, titular):
         super().__init__(titular)
 
-    def retirar(self, retiro):
-        self._saldo-=retiro
-        return
+    def retirar(self, retiro) -> bool:
+        self.__saldo -= retiro
+        return True
 
-    def depositar(self, deposito):
-        self._saldo+=deposito
-        return
+    def depositar(self, deposito) -> bool:
+        self.__saldo += deposito
+        return True
 
 
