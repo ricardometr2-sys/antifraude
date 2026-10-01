@@ -9,7 +9,7 @@ class Validaciones:
 
     def no_exceder_limite(self, disponible, limite)->bool:
         if disponible>limite:
-            raise SyntaxError("No tienes saldo suficiente") 
+            raise SyntaxError
         return 1
 
     def validar_contraseña(self, cont):

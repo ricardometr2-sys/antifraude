@@ -36,7 +36,3 @@ class Servicios_Banco:
     def inicio_sesion(self, num_cuenta):
         usuario=self.repositorio_usarios.buscar_usuario(num_cuenta)
         return usuario
-
-    def editar_datos(self, dato_nuevo, tipo):
-        if tipo==1:
-            usuario

@@ -20,7 +20,7 @@ class Repositorio_Usuarios:
                 for us in self._rep_administradores:
                     if us.__id_usuario == id_usuario:
                         return us
-        raise ValueError("ID de usuario no encontrado")
+        raise ValueError
 
     def obtener_clientes(self, tipo):
         if tipo.__id == 1:
@@ -31,7 +31,8 @@ class Repositorio_Usuarios:
                 return self._rep_administradores
         else:
             if tipo != 1 and tipo != 2:
-                raise ValueError("Tipo de usuario no encontrado")
+                raise ValueError
+        return False
             
 
     
