@@ -49,7 +49,7 @@ class Servicio_Cliente:
             return False
 
     def crear_cuenta_credito(self):
-        if self.cliente._cuenta_credito!=None:
+        if self.cliente._cuenta_credito==None:
             nombre_c=self.cliente.nombre
             cuenta_cr=Cuenta_Credito(nombre_c)
             self.cliente.crear_cuenta_credito(cuenta_cr)
@@ -162,7 +162,7 @@ class Servicio_Cliente:
         return False
 
     def ajustar_limite_credito(self, nuevo_limite):
-        if self.validar_existancia_cuenta(self.cliente._cuenta_ahorro):
+        if self.validar_existancia_cuenta(self.cliente._cuenta_credito):
             if self.cliente._cuenta_credito.ajustar_limite(nuevo_limite):
                 id_tr="100"+str((self.cliente.rep_transacciones.sum_tr())+1)
                 transaccion=Transacciones(id_tr, "Cuenta de credito", "Ajuste de limite de credito")
@@ -173,7 +173,7 @@ class Servicio_Cliente:
             return False
 
     def consultar_credito(self):
-        if self.validar_existancia_cuenta(self.cliente._cuenta_ahorro):
+        if self.validar_existancia_cuenta(self.cliente._cuenta_credito):
             credito=self.cliente._cuenta_credito.credito
             deuda=self.cliente._cuenta_credito.deuda
             return f"Credito: {credito}, Fatan por pagar: {deuda}"
@@ -182,7 +182,7 @@ class Servicio_Cliente:
 
 
     def pago_credito(self):
-        if self.validar_existancia_cuenta(self.cliente._cuenta_ahorro):
+        if self.validar_existancia_cuenta(self.cliente._cuenta_credito):
             saldo=self.consultar_saldo_debito()
             deuda=self.cliente._cuenta_credito.deuda
             if saldo>deuda:

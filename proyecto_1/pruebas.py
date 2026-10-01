@@ -32,7 +32,7 @@ print(servicio_cliente1.consultar_saldo_debito())
 ser_cliente2=Servicio_Cliente(cliente2)
 ser_cliente2.crear_cuenta_credito()
 ser_cliente2.crear_cuenta_debito()
-
+print(ser_cliente2.consultar_credito())
 ser_cliente2.depositar_debito(1000)
 
     
