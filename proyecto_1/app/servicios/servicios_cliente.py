@@ -33,21 +33,23 @@ class Servicio_Cliente:
             transaccion=Transacciones(id_tr, "Cuenta prncipal", "Creaste una cuenta de ahorro")
             self.cliente.rep_transacciones.agregar_transaccion(transaccion)
         else:
-            raise TypeError
+            return False
 
     def crear_cuenta_debito(self):
         if self.cliente._cuenta_debito==None:
             nombre_c=self.cliente.nombre
             cuenta_db=Cuenta_Normal(nombre_c)
             self.cliente.crear_cuenta_debito(cuenta_db)
+
             id_tr="100"+str((self.cliente.rep_transacciones.sum_tr())+1)
             transaccion=Transacciones(id_tr, "Cuenta prncipal", "Creaste una cuenta de debito")
             self.cliente.rep_transacciones.agregar_transaccion(transaccion)
+            return 1
         else:
-            raise TypeError
+            return False
 
     def crear_cuenta_credito(self):
-        if self.cliente._cuenta_credito==None:
+        if self.cliente._cuenta_credito!=None:
             nombre_c=self.cliente.nombre
             cuenta_cr=Cuenta_Credito(nombre_c)
             self.cliente.crear_cuenta_credito(cuenta_cr)
@@ -55,11 +57,12 @@ class Servicio_Cliente:
             id_tr="100"+str((self.cliente.rep_transacciones.sum_tr())+1)
             transaccion=Transacciones(id_tr, "Cuenta prncipal", "Creaste una cuenta de credito")
             self.cliente.rep_transacciones.agregar_transaccion(transaccion)
+            return 1
         else:
-            raise TypeError
+            return False
 
     def validar_existancia_cuenta(self, cuenta):
-        return True
+        return True if cuenta is not None else False
     
     #Transacciones cuenta de debito
     def consultar_saldo_debito(self):
@@ -70,7 +73,8 @@ class Servicio_Cliente:
             transaccion=Transacciones(id_tr, "Cuenta de debito", "Consulta de saldo")
             self.cliente.rep_transacciones.agregar_transaccion(transaccion)
             return saldo
-        raise TypeError
+        else:
+            return False
 
     def retirar_debito(self, monto):
         if self.validar_existancia_cuenta(self.cliente._cuenta_debito):
@@ -83,7 +87,8 @@ class Servicio_Cliente:
             transaccion=Transacciones(id_tr, "Cuenta de debito", "Retiro", monto)
             self.cliente.rep_transacciones.agregar_transaccion(transaccion)
             return 1
-        raise TypeError
+        else:
+            return False
 
     def depositar_debito(self, monto):
         if self.validar_existancia_cuenta(self.cliente._cuenta_debito):
@@ -93,7 +98,8 @@ class Servicio_Cliente:
             transaccion=Transacciones(id_tr, "Cuenta de debito", "Deposito", monto)
             self.cliente.rep_transacciones.agregar_transaccion(transaccion)
             return 1
-        raise TypeError
+        else:
+            return False
 
     #def transferencia_debito(self, monto, destino):
         #destino.depositar(monto)
@@ -111,7 +117,8 @@ class Servicio_Cliente:
             transaccion=Transacciones(id_tr, "Cuenta de ahorro", "Consulta de saldo")
             self.cliente.rep_transacciones.agregar_transaccion(transaccion)
             return saldo
-        raise TypeError
+        else:
+            return False
 
     def retirar_ahorro(self, monto):
         if self.validar_existancia_cuenta(self.cliente._cuenta_ahorro):
@@ -125,7 +132,8 @@ class Servicio_Cliente:
             transaccion=Transacciones(id_tr, "Cuenta de ahorro", "Retiro", monto)
             self.cliente.rep_transacciones.agregar_transaccion(transaccion)
             return 1
-        raise TypeError
+        else:
+            return False
 
 
     def depositar_ahorro(self, monto):
@@ -139,7 +147,8 @@ class Servicio_Cliente:
             transaccion=Transacciones(id_tr, "Cuenta de ahorro", "Deposito", monto)
             self.cliente.rep_transacciones.agregar_transaccion(transaccion)
             return 1
-        raise TypeError
+        else:
+            return False
 
     #Transacciones cuenta de credito
     def compra_credito(self, monto):
@@ -150,7 +159,7 @@ class Servicio_Cliente:
                 self.cliente.rep_transacciones.agregar_transaccion(transaccion)
                 return 1
             raise 
-        raise TypeError
+        return False
 
     def ajustar_limite_credito(self, nuevo_limite):
         if self.validar_existancia_cuenta(self.cliente._cuenta_ahorro):
@@ -160,14 +169,16 @@ class Servicio_Cliente:
                 self.cliente.rep_transacciones.agregar_transaccion(transaccion)
                 return 1
             return 0
-        raise TypeError
+        else:
+            return False
 
     def consultar_credito(self):
         if self.validar_existancia_cuenta(self.cliente._cuenta_ahorro):
             credito=self.cliente._cuenta_credito.credito
             deuda=self.cliente._cuenta_credito.deuda
             return f"Credito: {credito}, Fatan por pagar: {deuda}"
-        raise ValueError
+        else:
+            return False
 
 
     def pago_credito(self):
@@ -182,8 +193,8 @@ class Servicio_Cliente:
                 transaccion=Transacciones(id_tr, "Cuenta de credito", "Pago de credito", deuda)
                 self.cliente.rep_transacciones.agregar_transaccion(transaccion)            
                 return 1
-            return 0
-        raise TypeError
+            else:
+                return False
     
 
     
