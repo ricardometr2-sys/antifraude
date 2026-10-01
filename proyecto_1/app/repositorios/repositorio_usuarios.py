@@ -15,16 +15,13 @@ class Repositorio_Usuarios:
                 for us in self.rep_clientes:
                     if us.__id_usuario==id_usuario:
                         return us
-<<<<<<< HEAD
-        raise ValueError
-=======
+            raise ValueError
         elif id_usuario(0) =="A":
             if self.rep_administradores:
                 for us in self.rep_administradores:
                     if us.__id_usuario==id_usuario:
                         return us               
         raise ValueError("ID de usuario no encontrado")
->>>>>>> cf9ab8111eaeabc1664a84225941d6d897c4bdde
 
     def obtener_clientes(self, tipo):
         if tipo.__id==1:
@@ -34,14 +31,6 @@ class Repositorio_Usuarios:
             if self.rep_administradores:
                 return self.rep_administradores
         else:
-<<<<<<< HEAD
             if tipo != 1 and tipo != 2:
                 raise ValueError
-        return False
-=======
-            if tipo!=1 and tipo!=2:
-                raise ValueError("Tipo de usuario no encontrado")
->>>>>>> cf9ab8111eaeabc1664a84225941d6d897c4bdde
             
-
-    
