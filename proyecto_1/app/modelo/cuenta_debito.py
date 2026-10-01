@@ -5,7 +5,6 @@ class Cuenta_Debito(ABC):
     def __init__(self, titular):
         self.tipo=""
         self.titular=titular
-        self._saldo = 0
         
     @abstractmethod
     def consultar_saldo(self):
@@ -33,12 +32,12 @@ class Cuenta_Normal(Cuenta_Debito):
     def consultar_saldo(self):
         return self.__saldo
 
-    def retirar(self, retiro):
-        self._saldo-=retiro
+    def retirar(self, retiro) -> bool:
+        self.__saldo-=retiro
         return True
 
-    def depositar(self, deposito):
-        self._saldo+=deposito
+    def depositar(self, deposito) -> bool:
+        self.__saldo+=deposito
         return True
 
     @property
@@ -54,12 +53,12 @@ class Cuenta_Ahorro(Cuenta_Debito):
     def consultar_saldo(self):
         return self.__saldo
 
-    def retirar(self, retiro):
-        self._saldo-=retiro
+    def retirar(self, retiro) -> bool:
+        self.__saldo -= retiro
         return True
 
-    def depositar(self, deposito):
-        self._saldo+=deposito
+    def depositar(self, deposito) -> bool:
+        self.__saldo += deposito
         return True
 
 

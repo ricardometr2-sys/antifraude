@@ -4,7 +4,7 @@ class Validaciones:
     def __init__(self):
         pass
 
-    def validar_cadena_vacia(cadena)->bool:
+    def validar_cadena_vacia(self, cadena)->bool:
         while True:
             try:
                 if len(str(cadena))==0:
@@ -13,7 +13,7 @@ class Validaciones:
             except:
                 print("La cadena no puede estar vacia")
 
-    def no_exceder_limite(cantidad, limite)->bool:      
+    def no_exceder_limite(self, cantidad, limite)->bool:      
         if cantidad<limite:
             return 1
         return 0

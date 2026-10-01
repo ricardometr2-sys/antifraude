@@ -162,9 +162,6 @@ class Servicio_Cliente:
             self.rep_transacciones.agregar_transaccion(transaccion)            
             return 1
         return 0
-
-
-
-
+    
 
     
