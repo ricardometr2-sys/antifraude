@@ -17,3 +17,6 @@ class Repositorio_Transacciones:
             for tr in self.rep_transacciones:
                 print(tr)
         return False
+
+    def sum_tr(self):
+        return int(len(self.rep_transacciones))

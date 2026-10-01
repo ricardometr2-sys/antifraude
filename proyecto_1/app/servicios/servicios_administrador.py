@@ -1,15 +1,14 @@
-from modelo.administrador import Administrador
-from repositorios.repositorio_usuarios import Repositorio_Usuarios
-from repositorios.repositorio_transacciones import Repositorio_Transacciones
-from modelo.transacciones import Transacciones
-from reglas.reglas import Validaciones
+from app.modelo.administrador import Administrador
+from app.repositorios.repositorio_clientes import Repositorio_Clientes
+from app.repositorios.repositorio_transacciones import Repositorio_Transacciones
+from app.modelo.transacciones import Transacciones
+from app.reglas.reglas import Validaciones
 
 
 class Servicios_Administrador:
-    def __init__(self, administrador:Administrador, rep_usuarios:Repositorio_Usuarios, rep_transacciones:Repositorio_Transacciones):
+    def __init__(self, administrador:Administrador, rep_usuarios:Repositorio_Clientes):
         self.administrador=administrador
         self.rep_usuarios=rep_usuarios
-        self.rep_transacciones=rep_transacciones
         self.reglas=Validaciones()
 
     def buscar_cliente(self, correo):
@@ -18,7 +17,7 @@ class Servicios_Administrador:
             if cliente:
                 id_tr="100"+str(len(self.rep_transacciones+1))
                 transaccion=Transacciones(id_tr, "Administrador", f"Buscaste al cliente {cliente.nombre}")
-                self.rep_transacciones.agregar_transaccion(transaccion)
+                self.administrador.rep_transacciones.agregar_transaccion(transaccion)
                 return cliente
             return 0
         except:

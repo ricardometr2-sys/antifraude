@@ -7,6 +7,7 @@ class Transacciones:
         self.cuenta=cuenta
         self.monto=monto
         self.fecha_transaccion=datetime.now().strftime("Y:m:D a las H:M horas")
+
     
     def GetTransaccion(self):
         trccion={
